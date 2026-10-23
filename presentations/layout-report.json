@@ -1,0 +1,5368 @@
+[
+  {
+    "slide": 1,
+    "role": "wordmark",
+    "text": "SHOCKTWIN",
+    "box": [
+      1.18,
+      0.65,
+      3.4,
+      0.32
+    ],
+    "font": "Inter",
+    "size": 18,
+    "lines": [
+      "SHOCKTWIN"
+    ],
+    "estimatedHeight": 0.28
+  },
+  {
+    "slide": 1,
+    "role": "navigation",
+    "text": "Problem",
+    "box": [
+      7.0,
+      0.69,
+      1.35,
+      0.3
+    ],
+    "font": "DM Mono",
+    "size": 13,
+    "lines": [
+      "Problem"
+    ],
+    "estimatedHeight": 0.202
+  },
+  {
+    "slide": 1,
+    "role": "navigation",
+    "text": "ShockTwin",
+    "box": [
+      8.85,
+      0.69,
+      1.75,
+      0.3
+    ],
+    "font": "DM Mono",
+    "size": 13,
+    "lines": [
+      "ShockTwin"
+    ],
+    "estimatedHeight": 0.202
+  },
+  {
+    "slide": 1,
+    "role": "navigation",
+    "text": "SAP",
+    "box": [
+      11.1,
+      0.69,
+      0.65,
+      0.3
+    ],
+    "font": "DM Mono",
+    "size": 13,
+    "lines": [
+      "SAP"
+    ],
+    "estimatedHeight": 0.202
+  },
+  {
+    "slide": 1,
+    "role": "navigation",
+    "text": "Impact",
+    "box": [
+      12.25,
+      0.69,
+      1.3,
+      0.3
+    ],
+    "font": "DM Mono",
+    "size": 13,
+    "lines": [
+      "Impact"
+    ],
+    "estimatedHeight": 0.202
+  },
+  {
+    "slide": 1,
+    "role": "page counter",
+    "text": "01 / 14",
+    "box": [
+      18.1,
+      0.69,
+      1.08,
+      0.28
+    ],
+    "font": "DM Mono",
+    "size": 13,
+    "lines": [
+      "01 / 14"
+    ],
+    "estimatedHeight": 0.202
+  },
+  {
+    "slide": 1,
+    "role": "event footer",
+    "text": "SAP HACKFEST 2026 \u00b7 RV UNIVERSITY",
+    "box": [
+      0.72,
+      10.58,
+      4.6,
+      0.24
+    ],
+    "font": "DM Mono",
+    "size": 9.5,
+    "lines": [
+      "SAP HACKFEST 2026 \u00b7 RV UNIVERSITY"
+    ],
+    "estimatedHeight": 0.148
+  },
+  {
+    "slide": 1,
+    "role": "track footer",
+    "text": "RESILIENT SUPPLY CHAINS",
+    "box": [
+      15.25,
+      10.58,
+      4.02,
+      0.24
+    ],
+    "font": "DM Mono",
+    "size": 9.5,
+    "lines": [
+      "RESILIENT SUPPLY CHAINS"
+    ],
+    "estimatedHeight": 0.148
+  },
+  {
+    "slide": 1,
+    "role": "source footer",
+    "text": "Event, team and product: supplied brief \u00b7 P-ID P2012988948",
+    "box": [
+      5.1,
+      10.48,
+      9.9,
+      0.42
+    ],
+    "font": "DM Mono",
+    "size": 8.7,
+    "lines": [
+      "Event, team and product: supplied brief \u00b7 P-ID P2012988948"
+    ],
+    "estimatedHeight": 0.143
+  },
+  {
+    "slide": 1,
+    "role": "eyebrow",
+    "text": "01 \u00b7 VISION",
+    "box": [
+      1.21,
+      1.68,
+      1.3391080729166667,
+      0.26
+    ],
+    "font": "DM Mono",
+    "size": 13,
+    "lines": [
+      "01 \u00b7 VISION"
+    ],
+    "estimatedHeight": 0.202
+  },
+  {
+    "slide": 1,
+    "role": "headline",
+    "text": "See the shock before it hits.",
+    "font": "Instrument Serif",
+    "size": 112,
+    "accent": "before it hits.",
+    "box": [
+      0.8,
+      2.3,
+      9.1,
+      4.3
+    ],
+    "lines": [
+      "See the shock",
+      "before it hits."
+    ]
+  },
+  {
+    "slide": 1,
+    "role": "single supporting sentence",
+    "text": "See the supply shock coming; borrow the capacity to survive it.",
+    "box": [
+      0.85,
+      6.67,
+      8.8,
+      1.11
+    ],
+    "font": "Inter",
+    "size": 23,
+    "lines": [
+      "See the supply shock coming; borrow the capacity to",
+      "survive it."
+    ],
+    "estimatedHeight": 0.735
+  },
+  {
+    "slide": 1,
+    "role": "card label",
+    "text": "PRODUCT",
+    "box": [
+      1.1,
+      8.35,
+      8.1,
+      0.3
+    ],
+    "font": "DM Mono",
+    "size": 13,
+    "lines": [
+      "PRODUCT"
+    ],
+    "estimatedHeight": 0.202
+  },
+  {
+    "slide": 1,
+    "role": "product name",
+    "text": "ShockTwin",
+    "box": [
+      1.1,
+      8.82,
+      8.1,
+      0.57
+    ],
+    "font": "Inter",
+    "size": 36,
+    "lines": [
+      "ShockTwin"
+    ],
+    "estimatedHeight": 0.56
+  },
+  {
+    "slide": 1,
+    "role": "card source",
+    "text": "Detect \u00b7 Simulate \u00b7 Respond \u00b7 supplied brief",
+    "box": [
+      1.1,
+      9.57,
+      8.0,
+      0.4
+    ],
+    "font": "DM Mono",
+    "size": 10,
+    "lines": [
+      "Detect \u00b7 Simulate \u00b7 Respond \u00b7 supplied brief"
+    ],
+    "estimatedHeight": 0.156
+  },
+  {
+    "slide": 1,
+    "role": "card label",
+    "text": "TEAM \u00b7 RV UNIVERSITY",
+    "box": [
+      12.3,
+      8.49,
+      6.55,
+      0.3
+    ],
+    "font": "DM Mono",
+    "size": 13,
+    "lines": [
+      "TEAM \u00b7 RV UNIVERSITY"
+    ],
+    "estimatedHeight": 0.202
+  },
+  {
+    "slide": 1,
+    "role": "team",
+    "text": "Francis Reuben R \u00b7 Avaneesh\nAffan \u00b7 Vivek",
+    "box": [
+      12.3,
+      8.94,
+      6.55,
+      0.7
+    ],
+    "font": "Inter",
+    "size": 22,
+    "lines": [
+      "Francis Reuben R \u00b7 Avaneesh",
+      "Affan \u00b7 Vivek"
+    ],
+    "estimatedHeight": 0.684
+  },
+  {
+    "slide": 2,
+    "role": "wordmark",
+    "text": "SHOCKTWIN",
+    "box": [
+      1.18,
+      0.65,
+      3.4,
+      0.32
+    ],
+    "font": "Inter",
+    "size": 18,
+    "lines": [
+      "SHOCKTWIN"
+    ],
+    "estimatedHeight": 0.28
+  },
+  {
+    "slide": 2,
+    "role": "navigation",
+    "text": "Problem",
+    "box": [
+      7.0,
+      0.69,
+      1.35,
+      0.3
+    ],
+    "font": "DM Mono",
+    "size": 13,
+    "lines": [
+      "Problem"
+    ],
+    "estimatedHeight": 0.202
+  },
+  {
+    "slide": 2,
+    "role": "navigation",
+    "text": "ShockTwin",
+    "box": [
+      8.85,
+      0.69,
+      1.75,
+      0.3
+    ],
+    "font": "DM Mono",
+    "size": 13,
+    "lines": [
+      "ShockTwin"
+    ],
+    "estimatedHeight": 0.202
+  },
+  {
+    "slide": 2,
+    "role": "navigation",
+    "text": "SAP",
+    "box": [
+      11.1,
+      0.69,
+      0.65,
+      0.3
+    ],
+    "font": "DM Mono",
+    "size": 13,
+    "lines": [
+      "SAP"
+    ],
+    "estimatedHeight": 0.202
+  },
+  {
+    "slide": 2,
+    "role": "navigation",
+    "text": "Impact",
+    "box": [
+      12.25,
+      0.69,
+      1.3,
+      0.3
+    ],
+    "font": "DM Mono",
+    "size": 13,
+    "lines": [
+      "Impact"
+    ],
+    "estimatedHeight": 0.202
+  },
+  {
+    "slide": 2,
+    "role": "page counter",
+    "text": "02 / 14",
+    "box": [
+      18.1,
+      0.69,
+      1.08,
+      0.28
+    ],
+    "font": "DM Mono",
+    "size": 13,
+    "lines": [
+      "02 / 14"
+    ],
+    "estimatedHeight": 0.202
+  },
+  {
+    "slide": 2,
+    "role": "event footer",
+    "text": "SAP HACKFEST 2026 \u00b7 RV UNIVERSITY",
+    "box": [
+      0.72,
+      10.58,
+      4.6,
+      0.24
+    ],
+    "font": "DM Mono",
+    "size": 9.5,
+    "lines": [
+      "SAP HACKFEST 2026 \u00b7 RV UNIVERSITY"
+    ],
+    "estimatedHeight": 0.148
+  },
+  {
+    "slide": 2,
+    "role": "track footer",
+    "text": "RESILIENT SUPPLY CHAINS",
+    "box": [
+      15.25,
+      10.58,
+      4.02,
+      0.24
+    ],
+    "font": "DM Mono",
+    "size": 9.5,
+    "lines": [
+      "RESILIENT SUPPLY CHAINS"
+    ],
+    "estimatedHeight": 0.148
+  },
+  {
+    "slide": 2,
+    "role": "source footer",
+    "text": "Reuters, Mar 2021 \u00b7 AlixPartners, Sep 2021 \u00b7 Overall shortage impact, not fire-only loss",
+    "box": [
+      5.1,
+      10.48,
+      9.9,
+      0.42
+    ],
+    "font": "DM Mono",
+    "size": 8.7,
+    "lines": [
+      "Reuters, Mar 2021 \u00b7 AlixPartners, Sep 2021 \u00b7 Overall shortage impact, not fire-only loss"
+    ],
+    "estimatedHeight": 0.143
+  },
+  {
+    "slide": 2,
+    "role": "eyebrow",
+    "text": "02 \u00b7 THE COST",
+    "box": [
+      1.21,
+      1.68,
+      1.5516731770833332,
+      0.26
+    ],
+    "font": "DM Mono",
+    "size": 13,
+    "lines": [
+      "02 \u00b7 THE COST"
+    ],
+    "estimatedHeight": 0.202
+  },
+  {
+    "slide": 2,
+    "role": "headline context",
+    "text": "OVERALL CHIP SHORTAGE \u00b7 2021",
+    "box": [
+      0.88,
+      2.36,
+      8.8,
+      0.28
+    ],
+    "font": "DM Mono",
+    "size": 13,
+    "lines": [
+      "OVERALL CHIP SHORTAGE \u00b7 2021"
+    ],
+    "estimatedHeight": 0.202
+  },
+  {
+    "slide": 2,
+    "role": "headline",
+    "text": "One fire. $210 billion lost.",
+    "font": "Instrument Serif",
+    "size": 108,
+    "accent": "$210 billion lost.",
+    "box": [
+      0.8,
+      2.85,
+      9.1,
+      4.3
+    ],
+    "lines": [
+      "One fire.",
+      "$210 billion lost."
+    ]
+  },
+  {
+    "slide": 2,
+    "role": "single supporting sentence",
+    "text": "The total reflects the overall chip shortage in 2021, not the loss attributable to one fire.",
+    "box": [
+      0.85,
+      6.67,
+      8.8,
+      1.11
+    ],
+    "font": "Inter",
+    "size": 23,
+    "lines": [
+      "The total reflects the overall chip shortage in 2021, not the",
+      "loss attributable to one fire."
+    ],
+    "estimatedHeight": 0.735
+  },
+  {
+    "slide": 2,
+    "role": "statistic label",
+    "text": "VEHICLES NOT BUILT",
+    "box": [
+      1.08,
+      8.33,
+      3.76,
+      0.5
+    ],
+    "font": "DM Mono",
+    "size": 13,
+    "lines": [
+      "VEHICLES NOT BUILT"
+    ],
+    "estimatedHeight": 0.193
+  },
+  {
+    "slide": 2,
+    "role": "editable statistic",
+    "text": "7.7M",
+    "box": [
+      1.08,
+      8.85,
+      3.76,
+      0.95
+    ],
+    "font": "Silkscreen",
+    "size": 48,
+    "lines": [
+      "7.7M"
+    ],
+    "estimatedHeight": 0.7
+  },
+  {
+    "slide": 2,
+    "role": "card source",
+    "text": "AlixPartners, Sep 2021",
+    "box": [
+      1.08,
+      9.62,
+      3.76,
+      0.39
+    ],
+    "font": "DM Mono",
+    "size": 10,
+    "lines": [
+      "AlixPartners, Sep 2021"
+    ],
+    "estimatedHeight": 0.156
+  },
+  {
+    "slide": 2,
+    "role": "statistic label",
+    "text": "AUTOMOTIVE MCU SHARE",
+    "box": [
+      5.550000000000001,
+      8.33,
+      3.76,
+      0.5
+    ],
+    "font": "DM Mono",
+    "size": 13,
+    "lines": [
+      "AUTOMOTIVE MCU SHARE"
+    ],
+    "estimatedHeight": 0.193
+  },
+  {
+    "slide": 2,
+    "role": "editable statistic",
+    "text": "~30%",
+    "box": [
+      5.550000000000001,
+      8.85,
+      3.76,
+      0.95
+    ],
+    "font": "Silkscreen",
+    "size": 48,
+    "lines": [
+      "~30%"
+    ],
+    "estimatedHeight": 0.7
+  },
+  {
+    "slide": 2,
+    "role": "card source",
+    "text": "Reuters, Mar 2021; Renesas",
+    "box": [
+      5.550000000000001,
+      9.62,
+      3.76,
+      0.39
+    ],
+    "font": "DM Mono",
+    "size": 10,
+    "lines": [
+      "Reuters, Mar 2021; Renesas"
+    ],
+    "estimatedHeight": 0.156
+  },
+  {
+    "slide": 3,
+    "role": "wordmark",
+    "text": "SHOCKTWIN",
+    "box": [
+      1.18,
+      0.65,
+      3.4,
+      0.32
+    ],
+    "font": "Inter",
+    "size": 18,
+    "lines": [
+      "SHOCKTWIN"
+    ],
+    "estimatedHeight": 0.28
+  },
+  {
+    "slide": 3,
+    "role": "navigation",
+    "text": "Problem",
+    "box": [
+      7.0,
+      0.69,
+      1.35,
+      0.3
+    ],
+    "font": "DM Mono",
+    "size": 13,
+    "lines": [
+      "Problem"
+    ],
+    "estimatedHeight": 0.202
+  },
+  {
+    "slide": 3,
+    "role": "navigation",
+    "text": "ShockTwin",
+    "box": [
+      8.85,
+      0.69,
+      1.75,
+      0.3
+    ],
+    "font": "DM Mono",
+    "size": 13,
+    "lines": [
+      "ShockTwin"
+    ],
+    "estimatedHeight": 0.202
+  },
+  {
+    "slide": 3,
+    "role": "navigation",
+    "text": "SAP",
+    "box": [
+      11.1,
+      0.69,
+      0.65,
+      0.3
+    ],
+    "font": "DM Mono",
+    "size": 13,
+    "lines": [
+      "SAP"
+    ],
+    "estimatedHeight": 0.202
+  },
+  {
+    "slide": 3,
+    "role": "navigation",
+    "text": "Impact",
+    "box": [
+      12.25,
+      0.69,
+      1.3,
+      0.3
+    ],
+    "font": "DM Mono",
+    "size": 13,
+    "lines": [
+      "Impact"
+    ],
+    "estimatedHeight": 0.202
+  },
+  {
+    "slide": 3,
+    "role": "page counter",
+    "text": "03 / 14",
+    "box": [
+      18.1,
+      0.69,
+      1.08,
+      0.28
+    ],
+    "font": "DM Mono",
+    "size": 13,
+    "lines": [
+      "03 / 14"
+    ],
+    "estimatedHeight": 0.202
+  },
+  {
+    "slide": 3,
+    "role": "event footer",
+    "text": "SAP HACKFEST 2026 \u00b7 RV UNIVERSITY",
+    "box": [
+      0.72,
+      10.58,
+      4.6,
+      0.24
+    ],
+    "font": "DM Mono",
+    "size": 9.5,
+    "lines": [
+      "SAP HACKFEST 2026 \u00b7 RV UNIVERSITY"
+    ],
+    "estimatedHeight": 0.148
+  },
+  {
+    "slide": 3,
+    "role": "track footer",
+    "text": "RESILIENT SUPPLY CHAINS",
+    "box": [
+      15.25,
+      10.58,
+      4.02,
+      0.24
+    ],
+    "font": "DM Mono",
+    "size": 9.5,
+    "lines": [
+      "RESILIENT SUPPLY CHAINS"
+    ],
+    "estimatedHeight": 0.148
+  },
+  {
+    "slide": 3,
+    "role": "source footer",
+    "text": "McKinsey Supply Chain Risk Survey 2024",
+    "box": [
+      5.1,
+      10.48,
+      9.9,
+      0.42
+    ],
+    "font": "DM Mono",
+    "size": 8.7,
+    "lines": [
+      "McKinsey Supply Chain Risk Survey 2024"
+    ],
+    "estimatedHeight": 0.143
+  },
+  {
+    "slide": 3,
+    "role": "eyebrow",
+    "text": "03 \u00b7 VISIBILITY",
+    "box": [
+      1.21,
+      1.68,
+      1.7642382812499997,
+      0.26
+    ],
+    "font": "DM Mono",
+    "size": 13,
+    "lines": [
+      "03 \u00b7 VISIBILITY"
+    ],
+    "estimatedHeight": 0.202
+  },
+  {
+    "slide": 3,
+    "role": "headline",
+    "text": "Most firms can't see past tier 1.",
+    "font": "Instrument Serif",
+    "size": 104,
+    "accent": "past tier 1.",
+    "box": [
+      0.8,
+      2.3,
+      9.1,
+      4.3
+    ],
+    "lines": [
+      "Most firms can't",
+      "see past tier 1."
+    ]
+  },
+  {
+    "slide": 3,
+    "role": "single supporting sentence",
+    "text": "Beyond-tier-one visibility is shrinking when upstream exposure matters most.",
+    "box": [
+      0.85,
+      6.67,
+      8.8,
+      1.11
+    ],
+    "font": "Inter",
+    "size": 23,
+    "lines": [
+      "Beyond-tier-one visibility is shrinking when upstream",
+      "exposure matters most."
+    ],
+    "estimatedHeight": 0.735
+  },
+  {
+    "slide": 3,
+    "role": "chart title",
+    "text": "VISIBILITY BEYOND TIER ONE",
+    "box": [
+      10.73,
+      5.9,
+      8.05,
+      0.35
+    ],
+    "font": "DM Mono",
+    "size": 14,
+    "lines": [
+      "VISIBILITY BEYOND TIER ONE"
+    ],
+    "estimatedHeight": 0.218
+  },
+  {
+    "slide": 3,
+    "role": "card source",
+    "text": "McKinsey Supply Chain Risk Survey 2024",
+    "box": [
+      10.73,
+      9.37,
+      8.0,
+      0.4
+    ],
+    "font": "DM Mono",
+    "size": 10,
+    "lines": [
+      "McKinsey Supply Chain Risk Survey 2024"
+    ],
+    "estimatedHeight": 0.156
+  },
+  {
+    "slide": 4,
+    "role": "wordmark",
+    "text": "SHOCKTWIN",
+    "box": [
+      1.18,
+      0.65,
+      3.4,
+      0.32
+    ],
+    "font": "Inter",
+    "size": 18,
+    "lines": [
+      "SHOCKTWIN"
+    ],
+    "estimatedHeight": 0.28
+  },
+  {
+    "slide": 4,
+    "role": "navigation",
+    "text": "Problem",
+    "box": [
+      7.0,
+      0.69,
+      1.35,
+      0.3
+    ],
+    "font": "DM Mono",
+    "size": 13,
+    "lines": [
+      "Problem"
+    ],
+    "estimatedHeight": 0.202
+  },
+  {
+    "slide": 4,
+    "role": "navigation",
+    "text": "ShockTwin",
+    "box": [
+      8.85,
+      0.69,
+      1.75,
+      0.3
+    ],
+    "font": "DM Mono",
+    "size": 13,
+    "lines": [
+      "ShockTwin"
+    ],
+    "estimatedHeight": 0.202
+  },
+  {
+    "slide": 4,
+    "role": "navigation",
+    "text": "SAP",
+    "box": [
+      11.1,
+      0.69,
+      0.65,
+      0.3
+    ],
+    "font": "DM Mono",
+    "size": 13,
+    "lines": [
+      "SAP"
+    ],
+    "estimatedHeight": 0.202
+  },
+  {
+    "slide": 4,
+    "role": "navigation",
+    "text": "Impact",
+    "box": [
+      12.25,
+      0.69,
+      1.3,
+      0.3
+    ],
+    "font": "DM Mono",
+    "size": 13,
+    "lines": [
+      "Impact"
+    ],
+    "estimatedHeight": 0.202
+  },
+  {
+    "slide": 4,
+    "role": "page counter",
+    "text": "04 / 14",
+    "box": [
+      18.1,
+      0.69,
+      1.08,
+      0.28
+    ],
+    "font": "DM Mono",
+    "size": 13,
+    "lines": [
+      "04 / 14"
+    ],
+    "estimatedHeight": 0.202
+  },
+  {
+    "slide": 4,
+    "role": "event footer",
+    "text": "SAP HACKFEST 2026 \u00b7 RV UNIVERSITY",
+    "box": [
+      0.72,
+      10.58,
+      4.6,
+      0.24
+    ],
+    "font": "DM Mono",
+    "size": 9.5,
+    "lines": [
+      "SAP HACKFEST 2026 \u00b7 RV UNIVERSITY"
+    ],
+    "estimatedHeight": 0.148
+  },
+  {
+    "slide": 4,
+    "role": "track footer",
+    "text": "RESILIENT SUPPLY CHAINS",
+    "box": [
+      15.25,
+      10.58,
+      4.02,
+      0.24
+    ],
+    "font": "DM Mono",
+    "size": 9.5,
+    "lines": [
+      "RESILIENT SUPPLY CHAINS"
+    ],
+    "estimatedHeight": 0.148
+  },
+  {
+    "slide": 4,
+    "role": "source footer",
+    "text": "McKinsey [report details VERIFY] \u00b7 McKinsey 2022 \u00b7 McKinsey Supply Chain Risk Survey 2024",
+    "box": [
+      5.1,
+      10.48,
+      9.9,
+      0.42
+    ],
+    "font": "DM Mono",
+    "size": 8.7,
+    "lines": [
+      "McKinsey [report details VERIFY] \u00b7 McKinsey 2022 \u00b7 McKinsey Supply Chain Risk Survey 2024"
+    ],
+    "estimatedHeight": 0.143
+  },
+  {
+    "slide": 4,
+    "role": "eyebrow",
+    "text": "04 \u00b7 THE BLIND SPOT",
+    "box": [
+      1.21,
+      1.68,
+      2.189368489583334,
+      0.26
+    ],
+    "font": "DM Mono",
+    "size": 13,
+    "lines": [
+      "04 \u00b7 THE BLIND SPOT"
+    ],
+    "estimatedHeight": 0.202
+  },
+  {
+    "slide": 4,
+    "role": "headline",
+    "text": "The danger sits below the surface.",
+    "font": "Instrument Serif",
+    "size": 100,
+    "accent": "below the surface.",
+    "box": [
+      0.8,
+      2.3,
+      9.1,
+      4.3
+    ],
+    "lines": [
+      "The danger sits",
+      "below the surface."
+    ]
+  },
+  {
+    "slide": 4,
+    "role": "single supporting sentence",
+    "text": "The shared dependency you cannot see can stop the production you can.",
+    "box": [
+      0.85,
+      6.67,
+      8.8,
+      1.11
+    ],
+    "font": "Inter",
+    "size": 23,
+    "lines": [
+      "The shared dependency you cannot see can stop the",
+      "production you can."
+    ],
+    "estimatedHeight": 0.735
+  },
+  {
+    "slide": 4,
+    "role": "statistic label",
+    "text": "SEE TIER 3",
+    "box": [
+      1.08,
+      8.33,
+      3.76,
+      0.5
+    ],
+    "font": "DM Mono",
+    "size": 13,
+    "lines": [
+      "SEE TIER 3"
+    ],
+    "estimatedHeight": 0.193
+  },
+  {
+    "slide": 4,
+    "role": "editable statistic",
+    "text": "~10%",
+    "box": [
+      1.08,
+      8.85,
+      3.76,
+      0.95
+    ],
+    "font": "Silkscreen",
+    "size": 47,
+    "lines": [
+      "~10%"
+    ],
+    "estimatedHeight": 0.685
+  },
+  {
+    "slide": 4,
+    "role": "card source",
+    "text": "McKinsey, 2022",
+    "box": [
+      1.08,
+      9.62,
+      3.76,
+      0.39
+    ],
+    "font": "DM Mono",
+    "size": 10,
+    "lines": [
+      "McKinsey, 2022"
+    ],
+    "estimatedHeight": 0.156
+  },
+  {
+    "slide": 4,
+    "role": "statistic label",
+    "text": "RESPONSE TIME",
+    "box": [
+      5.550000000000001,
+      8.33,
+      3.76,
+      0.5
+    ],
+    "font": "DM Mono",
+    "size": 13,
+    "lines": [
+      "RESPONSE TIME"
+    ],
+    "estimatedHeight": 0.193
+  },
+  {
+    "slide": 4,
+    "role": "editable statistic",
+    "text": "~2 weeks",
+    "box": [
+      5.550000000000001,
+      8.85,
+      3.76,
+      0.95
+    ],
+    "font": "Silkscreen",
+    "size": 39,
+    "lines": [
+      "~2 weeks"
+    ],
+    "estimatedHeight": 0.569
+  },
+  {
+    "slide": 4,
+    "role": "card source",
+    "text": "McKinsey Supply Chain Risk Survey 2024",
+    "box": [
+      5.550000000000001,
+      9.62,
+      3.76,
+      0.39
+    ],
+    "font": "DM Mono",
+    "size": 10,
+    "lines": [
+      "McKinsey Supply Chain Risk Survey 2024"
+    ],
+    "estimatedHeight": 0.156
+  },
+  {
+    "slide": 4,
+    "role": "statistic label",
+    "text": "DISRUPTIONS AT TIER 2+",
+    "box": [
+      10.68,
+      7.779999999999999,
+      4.64,
+      0.5
+    ],
+    "font": "DM Mono",
+    "size": 13,
+    "lines": [
+      "DISRUPTIONS AT TIER 2+"
+    ],
+    "estimatedHeight": 0.193
+  },
+  {
+    "slide": 4,
+    "role": "editable statistic",
+    "text": "~2/3",
+    "box": [
+      10.68,
+      8.299999999999999,
+      4.64,
+      1.4500000000000002
+    ],
+    "font": "Silkscreen",
+    "size": 64,
+    "lines": [
+      "~2/3"
+    ],
+    "estimatedHeight": 0.933
+  },
+  {
+    "slide": 4,
+    "role": "card source",
+    "text": "McKinsey [exact report VERIFY]",
+    "box": [
+      10.68,
+      9.57,
+      4.64,
+      0.39
+    ],
+    "font": "DM Mono",
+    "size": 10,
+    "lines": [
+      "McKinsey [exact report VERIFY]"
+    ],
+    "estimatedHeight": 0.156
+  },
+  {
+    "slide": 5,
+    "role": "wordmark",
+    "text": "SHOCKTWIN",
+    "box": [
+      1.18,
+      0.65,
+      3.4,
+      0.32
+    ],
+    "font": "Inter",
+    "size": 18,
+    "lines": [
+      "SHOCKTWIN"
+    ],
+    "estimatedHeight": 0.28
+  },
+  {
+    "slide": 5,
+    "role": "navigation",
+    "text": "Problem",
+    "box": [
+      7.0,
+      0.69,
+      1.35,
+      0.3
+    ],
+    "font": "DM Mono",
+    "size": 13,
+    "lines": [
+      "Problem"
+    ],
+    "estimatedHeight": 0.202
+  },
+  {
+    "slide": 5,
+    "role": "navigation",
+    "text": "ShockTwin",
+    "box": [
+      8.85,
+      0.69,
+      1.75,
+      0.3
+    ],
+    "font": "DM Mono",
+    "size": 13,
+    "lines": [
+      "ShockTwin"
+    ],
+    "estimatedHeight": 0.202
+  },
+  {
+    "slide": 5,
+    "role": "navigation",
+    "text": "SAP",
+    "box": [
+      11.1,
+      0.69,
+      0.65,
+      0.3
+    ],
+    "font": "DM Mono",
+    "size": 13,
+    "lines": [
+      "SAP"
+    ],
+    "estimatedHeight": 0.202
+  },
+  {
+    "slide": 5,
+    "role": "navigation",
+    "text": "Impact",
+    "box": [
+      12.25,
+      0.69,
+      1.3,
+      0.3
+    ],
+    "font": "DM Mono",
+    "size": 13,
+    "lines": [
+      "Impact"
+    ],
+    "estimatedHeight": 0.202
+  },
+  {
+    "slide": 5,
+    "role": "page counter",
+    "text": "05 / 14",
+    "box": [
+      18.1,
+      0.69,
+      1.08,
+      0.28
+    ],
+    "font": "DM Mono",
+    "size": 13,
+    "lines": [
+      "05 / 14"
+    ],
+    "estimatedHeight": 0.202
+  },
+  {
+    "slide": 5,
+    "role": "event footer",
+    "text": "SAP HACKFEST 2026 \u00b7 RV UNIVERSITY",
+    "box": [
+      0.72,
+      10.58,
+      4.6,
+      0.24
+    ],
+    "font": "DM Mono",
+    "size": 9.5,
+    "lines": [
+      "SAP HACKFEST 2026 \u00b7 RV UNIVERSITY"
+    ],
+    "estimatedHeight": 0.148
+  },
+  {
+    "slide": 5,
+    "role": "track footer",
+    "text": "RESILIENT SUPPLY CHAINS",
+    "box": [
+      15.25,
+      10.58,
+      4.02,
+      0.24
+    ],
+    "font": "DM Mono",
+    "size": 9.5,
+    "lines": [
+      "RESILIENT SUPPLY CHAINS"
+    ],
+    "estimatedHeight": 0.148
+  },
+  {
+    "slide": 5,
+    "role": "source footer",
+    "text": "Reuters, Jan 2024 \u00b7 UNCTAD, 2024 \u00b7 Different measures and periods",
+    "box": [
+      5.1,
+      10.48,
+      9.9,
+      0.42
+    ],
+    "font": "DM Mono",
+    "size": 8.7,
+    "lines": [
+      "Reuters, Jan 2024 \u00b7 UNCTAD, 2024 \u00b7 Different measures and periods"
+    ],
+    "estimatedHeight": 0.143
+  },
+  {
+    "slide": 5,
+    "role": "eyebrow",
+    "text": "05 \u00b7 ROUTE RISK",
+    "box": [
+      1.21,
+      1.68,
+      1.7642382812499997,
+      0.26
+    ],
+    "font": "DM Mono",
+    "size": 13,
+    "lines": [
+      "05 \u00b7 ROUTE RISK"
+    ],
+    "estimatedHeight": 0.202
+  },
+  {
+    "slide": 5,
+    "role": "headline",
+    "text": "The Red Sea closed. India paid.",
+    "font": "Instrument Serif",
+    "size": 108,
+    "accent": "India paid.",
+    "box": [
+      0.8,
+      2.3,
+      9.1,
+      4.3
+    ],
+    "lines": [
+      "The Red Sea",
+      "closed.",
+      "India paid."
+    ]
+  },
+  {
+    "slide": 5,
+    "role": "single supporting sentence",
+    "text": "Disrupted shipping routes transmitted cost pressure to Indian supply chains; the sea was not literally closed.",
+    "box": [
+      0.85,
+      6.67,
+      8.8,
+      1.11
+    ],
+    "font": "Inter",
+    "size": 23,
+    "lines": [
+      "Disrupted shipping routes transmitted cost pressure to",
+      "Indian supply chains; the sea was not literally closed."
+    ],
+    "estimatedHeight": 0.735
+  },
+  {
+    "slide": 5,
+    "role": "statistic label",
+    "text": "SUEZ TRAFFIC",
+    "box": [
+      1.08,
+      8.33,
+      3.76,
+      0.5
+    ],
+    "font": "DM Mono",
+    "size": 13,
+    "lines": [
+      "SUEZ TRAFFIC"
+    ],
+    "estimatedHeight": 0.193
+  },
+  {
+    "slide": 5,
+    "role": "editable statistic",
+    "text": "-57%",
+    "box": [
+      1.08,
+      8.85,
+      3.76,
+      0.95
+    ],
+    "font": "Silkscreen",
+    "size": 48,
+    "lines": [
+      "-57%"
+    ],
+    "estimatedHeight": 0.7
+  },
+  {
+    "slide": 5,
+    "role": "card source",
+    "text": "UNCTAD; from peak to Oct 2024",
+    "box": [
+      1.08,
+      9.62,
+      3.76,
+      0.39
+    ],
+    "font": "DM Mono",
+    "size": 10,
+    "lines": [
+      "UNCTAD; from peak to Oct 2024"
+    ],
+    "estimatedHeight": 0.156
+  },
+  {
+    "slide": 5,
+    "role": "statistic label",
+    "text": "SHANGHAI\u2013EUROPE SPOT",
+    "box": [
+      5.550000000000001,
+      8.33,
+      3.76,
+      0.5
+    ],
+    "font": "DM Mono",
+    "size": 13,
+    "lines": [
+      "SHANGHAI\u2013EUROPE SPOT"
+    ],
+    "estimatedHeight": 0.193
+  },
+  {
+    "slide": 5,
+    "role": "editable statistic",
+    "text": "+256%",
+    "box": [
+      5.550000000000001,
+      8.85,
+      3.76,
+      0.95
+    ],
+    "font": "Silkscreen",
+    "size": 46,
+    "lines": [
+      "+256%"
+    ],
+    "estimatedHeight": 0.671
+  },
+  {
+    "slide": 5,
+    "role": "card source",
+    "text": "UNCTAD, 2024",
+    "box": [
+      5.550000000000001,
+      9.62,
+      3.76,
+      0.39
+    ],
+    "font": "DM Mono",
+    "size": 10,
+    "lines": [
+      "UNCTAD, 2024"
+    ],
+    "estimatedHeight": 0.156
+  },
+  {
+    "slide": 5,
+    "role": "chart title",
+    "text": "INDIA\u2013EUROPE CONTAINER COST",
+    "box": [
+      10.73,
+      5.9,
+      8.0,
+      0.35
+    ],
+    "font": "DM Mono",
+    "size": 14,
+    "lines": [
+      "INDIA\u2013EUROPE CONTAINER COST"
+    ],
+    "estimatedHeight": 0.218
+  },
+  {
+    "slide": 5,
+    "role": "direct native bar value",
+    "text": "$600",
+    "box": [
+      12.1,
+      7.7,
+      2.4,
+      0.46
+    ],
+    "font": "Silkscreen",
+    "size": 25,
+    "lines": [
+      "$600"
+    ],
+    "estimatedHeight": 0.389
+  },
+  {
+    "slide": 5,
+    "role": "direct native bar value",
+    "text": "$1,500",
+    "box": [
+      15.35,
+      6.73,
+      3.0,
+      0.46
+    ],
+    "font": "Silkscreen",
+    "size": 25,
+    "lines": [
+      "$1,500"
+    ],
+    "estimatedHeight": 0.389
+  },
+  {
+    "slide": 5,
+    "role": "card source",
+    "text": "Reuters, Jan 2024 \u00b7 approximate costs",
+    "box": [
+      10.73,
+      9.37,
+      8.0,
+      0.4
+    ],
+    "font": "DM Mono",
+    "size": 10,
+    "lines": [
+      "Reuters, Jan 2024 \u00b7 approximate costs"
+    ],
+    "estimatedHeight": 0.156
+  },
+  {
+    "slide": 6,
+    "role": "wordmark",
+    "text": "SHOCKTWIN",
+    "box": [
+      1.18,
+      0.65,
+      3.4,
+      0.32
+    ],
+    "font": "Inter",
+    "size": 18,
+    "lines": [
+      "SHOCKTWIN"
+    ],
+    "estimatedHeight": 0.28
+  },
+  {
+    "slide": 6,
+    "role": "navigation",
+    "text": "Problem",
+    "box": [
+      7.0,
+      0.69,
+      1.35,
+      0.3
+    ],
+    "font": "DM Mono",
+    "size": 13,
+    "lines": [
+      "Problem"
+    ],
+    "estimatedHeight": 0.202
+  },
+  {
+    "slide": 6,
+    "role": "navigation",
+    "text": "ShockTwin",
+    "box": [
+      8.85,
+      0.69,
+      1.75,
+      0.3
+    ],
+    "font": "DM Mono",
+    "size": 13,
+    "lines": [
+      "ShockTwin"
+    ],
+    "estimatedHeight": 0.202
+  },
+  {
+    "slide": 6,
+    "role": "navigation",
+    "text": "SAP",
+    "box": [
+      11.1,
+      0.69,
+      0.65,
+      0.3
+    ],
+    "font": "DM Mono",
+    "size": 13,
+    "lines": [
+      "SAP"
+    ],
+    "estimatedHeight": 0.202
+  },
+  {
+    "slide": 6,
+    "role": "navigation",
+    "text": "Impact",
+    "box": [
+      12.25,
+      0.69,
+      1.3,
+      0.3
+    ],
+    "font": "DM Mono",
+    "size": 13,
+    "lines": [
+      "Impact"
+    ],
+    "estimatedHeight": 0.202
+  },
+  {
+    "slide": 6,
+    "role": "page counter",
+    "text": "06 / 14",
+    "box": [
+      18.1,
+      0.69,
+      1.08,
+      0.28
+    ],
+    "font": "DM Mono",
+    "size": 13,
+    "lines": [
+      "06 / 14"
+    ],
+    "estimatedHeight": 0.202
+  },
+  {
+    "slide": 6,
+    "role": "event footer",
+    "text": "SAP HACKFEST 2026 \u00b7 RV UNIVERSITY",
+    "box": [
+      0.72,
+      10.58,
+      4.6,
+      0.24
+    ],
+    "font": "DM Mono",
+    "size": 9.5,
+    "lines": [
+      "SAP HACKFEST 2026 \u00b7 RV UNIVERSITY"
+    ],
+    "estimatedHeight": 0.148
+  },
+  {
+    "slide": 6,
+    "role": "track footer",
+    "text": "RESILIENT SUPPLY CHAINS",
+    "box": [
+      15.25,
+      10.58,
+      4.02,
+      0.24
+    ],
+    "font": "DM Mono",
+    "size": 9.5,
+    "lines": [
+      "RESILIENT SUPPLY CHAINS"
+    ],
+    "estimatedHeight": 0.148
+  },
+  {
+    "slide": 6,
+    "role": "source footer",
+    "text": "Bloomberg, Apr 2021 \u00b7 Fortune, Jan 2022",
+    "box": [
+      5.1,
+      10.48,
+      9.9,
+      0.42
+    ],
+    "font": "DM Mono",
+    "size": 8.7,
+    "lines": [
+      "Bloomberg, Apr 2021 \u00b7 Fortune, Jan 2022"
+    ],
+    "estimatedHeight": 0.143
+  },
+  {
+    "slide": 6,
+    "role": "eyebrow",
+    "text": "06 \u00b7 THE COUNTEREXAMPLE",
+    "box": [
+      1.21,
+      1.68,
+      2.614498697916667,
+      0.26
+    ],
+    "font": "DM Mono",
+    "size": 13,
+    "lines": [
+      "06 \u00b7 THE COUNTEREXAMPLE"
+    ],
+    "estimatedHeight": 0.202
+  },
+  {
+    "slide": 6,
+    "role": "headline",
+    "text": "Toyota survived because it had a map.",
+    "font": "Instrument Serif",
+    "size": 102,
+    "accent": "had a map.",
+    "box": [
+      0.8,
+      2.3,
+      9.1,
+      4.3
+    ],
+    "lines": [
+      "Toyota survived",
+      "because it",
+      "had a map."
+    ]
+  },
+  {
+    "slide": 6,
+    "role": "single supporting sentence",
+    "text": "Mapping upstream dependencies can turn a hidden concentration into a decision.",
+    "box": [
+      0.85,
+      6.67,
+      8.8,
+      1.11
+    ],
+    "font": "Inter",
+    "size": 23,
+    "lines": [
+      "Mapping upstream dependencies can turn a hidden",
+      "concentration into a decision."
+    ],
+    "estimatedHeight": 0.735
+  },
+  {
+    "slide": 6,
+    "role": "statistic label",
+    "text": "CRITICAL PARTS MAPPED",
+    "box": [
+      1.08,
+      8.23,
+      5.46,
+      0.5
+    ],
+    "font": "DM Mono",
+    "size": 13,
+    "lines": [
+      "CRITICAL PARTS MAPPED"
+    ],
+    "estimatedHeight": 0.193
+  },
+  {
+    "slide": 6,
+    "role": "editable statistic",
+    "text": "~1,500",
+    "box": [
+      1.08,
+      8.75,
+      5.46,
+      1.0499999999999998
+    ],
+    "font": "Silkscreen",
+    "size": 48,
+    "lines": [
+      "~1,500"
+    ],
+    "estimatedHeight": 0.7
+  },
+  {
+    "slide": 6,
+    "role": "card source",
+    "text": "Bloomberg Apr 2021 / Fortune Jan 2022",
+    "box": [
+      1.08,
+      9.620000000000001,
+      5.46,
+      0.39
+    ],
+    "font": "DM Mono",
+    "size": 10,
+    "lines": [
+      "Bloomberg Apr 2021 / Fortune Jan 2022"
+    ],
+    "estimatedHeight": 0.156
+  },
+  {
+    "slide": 6,
+    "role": "statistic label",
+    "text": "US OUTPUT KEPT",
+    "box": [
+      7.25,
+      8.23,
+      5.46,
+      0.5
+    ],
+    "font": "DM Mono",
+    "size": 13,
+    "lines": [
+      "US OUTPUT KEPT"
+    ],
+    "estimatedHeight": 0.193
+  },
+  {
+    "slide": 6,
+    "role": "editable statistic",
+    "text": "~90%",
+    "box": [
+      7.25,
+      8.75,
+      5.46,
+      1.0499999999999998
+    ],
+    "font": "Silkscreen",
+    "size": 48,
+    "lines": [
+      "~90%"
+    ],
+    "estimatedHeight": 0.7
+  },
+  {
+    "slide": 6,
+    "role": "card source",
+    "text": "Bloomberg Apr 2021 / Fortune Jan 2022",
+    "box": [
+      7.25,
+      9.620000000000001,
+      5.46,
+      0.39
+    ],
+    "font": "DM Mono",
+    "size": 10,
+    "lines": [
+      "Bloomberg Apr 2021 / Fortune Jan 2022"
+    ],
+    "estimatedHeight": 0.156
+  },
+  {
+    "slide": 6,
+    "role": "statistic label",
+    "text": "GM UNITS CUT",
+    "box": [
+      13.42,
+      8.23,
+      5.46,
+      0.5
+    ],
+    "font": "DM Mono",
+    "size": 13,
+    "lines": [
+      "GM UNITS CUT"
+    ],
+    "estimatedHeight": 0.193
+  },
+  {
+    "slide": 6,
+    "role": "editable statistic",
+    "text": "~278,000",
+    "box": [
+      13.42,
+      8.75,
+      5.46,
+      1.0499999999999998
+    ],
+    "font": "Silkscreen",
+    "size": 48,
+    "lines": [
+      "~278,000"
+    ],
+    "estimatedHeight": 0.7
+  },
+  {
+    "slide": 6,
+    "role": "card source",
+    "text": "Bloomberg Apr 2021 / Fortune Jan 2022",
+    "box": [
+      13.42,
+      9.620000000000001,
+      5.46,
+      0.39
+    ],
+    "font": "DM Mono",
+    "size": 10,
+    "lines": [
+      "Bloomberg Apr 2021 / Fortune Jan 2022"
+    ],
+    "estimatedHeight": 0.156
+  },
+  {
+    "slide": 7,
+    "role": "wordmark",
+    "text": "SHOCKTWIN",
+    "box": [
+      1.18,
+      0.65,
+      3.4,
+      0.32
+    ],
+    "font": "Inter",
+    "size": 18,
+    "lines": [
+      "SHOCKTWIN"
+    ],
+    "estimatedHeight": 0.28
+  },
+  {
+    "slide": 7,
+    "role": "navigation",
+    "text": "Problem",
+    "box": [
+      7.0,
+      0.69,
+      1.35,
+      0.3
+    ],
+    "font": "DM Mono",
+    "size": 13,
+    "lines": [
+      "Problem"
+    ],
+    "estimatedHeight": 0.202
+  },
+  {
+    "slide": 7,
+    "role": "navigation",
+    "text": "ShockTwin",
+    "box": [
+      8.85,
+      0.69,
+      1.75,
+      0.3
+    ],
+    "font": "DM Mono",
+    "size": 13,
+    "lines": [
+      "ShockTwin"
+    ],
+    "estimatedHeight": 0.202
+  },
+  {
+    "slide": 7,
+    "role": "navigation",
+    "text": "SAP",
+    "box": [
+      11.1,
+      0.69,
+      0.65,
+      0.3
+    ],
+    "font": "DM Mono",
+    "size": 13,
+    "lines": [
+      "SAP"
+    ],
+    "estimatedHeight": 0.202
+  },
+  {
+    "slide": 7,
+    "role": "navigation",
+    "text": "Impact",
+    "box": [
+      12.25,
+      0.69,
+      1.3,
+      0.3
+    ],
+    "font": "DM Mono",
+    "size": 13,
+    "lines": [
+      "Impact"
+    ],
+    "estimatedHeight": 0.202
+  },
+  {
+    "slide": 7,
+    "role": "page counter",
+    "text": "07 / 14",
+    "box": [
+      18.1,
+      0.69,
+      1.08,
+      0.28
+    ],
+    "font": "DM Mono",
+    "size": 13,
+    "lines": [
+      "07 / 14"
+    ],
+    "estimatedHeight": 0.202
+  },
+  {
+    "slide": 7,
+    "role": "event footer",
+    "text": "SAP HACKFEST 2026 \u00b7 RV UNIVERSITY",
+    "box": [
+      0.72,
+      10.58,
+      4.6,
+      0.24
+    ],
+    "font": "DM Mono",
+    "size": 9.5,
+    "lines": [
+      "SAP HACKFEST 2026 \u00b7 RV UNIVERSITY"
+    ],
+    "estimatedHeight": 0.148
+  },
+  {
+    "slide": 7,
+    "role": "track footer",
+    "text": "RESILIENT SUPPLY CHAINS",
+    "box": [
+      15.25,
+      10.58,
+      4.02,
+      0.24
+    ],
+    "font": "DM Mono",
+    "size": 9.5,
+    "lines": [
+      "RESILIENT SUPPLY CHAINS"
+    ],
+    "estimatedHeight": 0.148
+  },
+  {
+    "slide": 7,
+    "role": "source footer",
+    "text": "Product workflow: supplied brief \u00b7 Implementation: repository",
+    "box": [
+      5.1,
+      10.48,
+      9.9,
+      0.42
+    ],
+    "font": "DM Mono",
+    "size": 8.7,
+    "lines": [
+      "Product workflow: supplied brief \u00b7 Implementation: repository"
+    ],
+    "estimatedHeight": 0.143
+  },
+  {
+    "slide": 7,
+    "role": "eyebrow",
+    "text": "07 \u00b7 DETECT \u00b7 SIMULATE \u00b7 RESPOND",
+    "box": [
+      1.21,
+      1.68,
+      3.571041666666667,
+      0.26
+    ],
+    "font": "DM Mono",
+    "size": 13,
+    "lines": [
+      "07 \u00b7 DETECT \u00b7 SIMULATE \u00b7 RESPOND"
+    ],
+    "estimatedHeight": 0.202
+  },
+  {
+    "slide": 7,
+    "role": "headline",
+    "text": "Meet ShockTwin.",
+    "font": "Instrument Serif",
+    "size": 146,
+    "accent": "ShockTwin.",
+    "box": [
+      0.8,
+      2.3,
+      9.1,
+      4.3
+    ],
+    "lines": [
+      "Meet",
+      "ShockTwin."
+    ]
+  },
+  {
+    "slide": 7,
+    "role": "single supporting sentence",
+    "text": "One connected loop: Detect, Simulate, Respond.",
+    "box": [
+      0.85,
+      6.67,
+      8.8,
+      1.11
+    ],
+    "font": "Inter",
+    "size": 23,
+    "lines": [
+      "One connected loop: Detect, Simulate, Respond."
+    ],
+    "estimatedHeight": 0.367
+  },
+  {
+    "slide": 7,
+    "role": "product ordinal",
+    "text": "01",
+    "box": [
+      1.1099999999999999,
+      8.25,
+      5.4,
+      0.4
+    ],
+    "font": "Silkscreen",
+    "size": 22,
+    "lines": [
+      "01"
+    ],
+    "estimatedHeight": 0.342
+  },
+  {
+    "slide": 7,
+    "role": "product phase",
+    "text": "Detect",
+    "box": [
+      1.1099999999999999,
+      8.85,
+      5.4,
+      0.7
+    ],
+    "font": "Inter",
+    "size": 35,
+    "lines": [
+      "Detect"
+    ],
+    "estimatedHeight": 0.544
+  },
+  {
+    "slide": 7,
+    "role": "card source",
+    "text": "Supplied product loop",
+    "box": [
+      1.1099999999999999,
+      9.65,
+      5.3,
+      0.4
+    ],
+    "font": "DM Mono",
+    "size": 10,
+    "lines": [
+      "Supplied product loop"
+    ],
+    "estimatedHeight": 0.156
+  },
+  {
+    "slide": 7,
+    "role": "product ordinal",
+    "text": "02",
+    "box": [
+      7.279999999999999,
+      8.25,
+      5.4,
+      0.4
+    ],
+    "font": "Silkscreen",
+    "size": 22,
+    "lines": [
+      "02"
+    ],
+    "estimatedHeight": 0.342
+  },
+  {
+    "slide": 7,
+    "role": "product phase",
+    "text": "Simulate",
+    "box": [
+      7.279999999999999,
+      8.85,
+      5.4,
+      0.7
+    ],
+    "font": "Inter",
+    "size": 35,
+    "lines": [
+      "Simulate"
+    ],
+    "estimatedHeight": 0.544
+  },
+  {
+    "slide": 7,
+    "role": "card source",
+    "text": "Supplied product loop",
+    "box": [
+      7.279999999999999,
+      9.65,
+      5.3,
+      0.4
+    ],
+    "font": "DM Mono",
+    "size": 10,
+    "lines": [
+      "Supplied product loop"
+    ],
+    "estimatedHeight": 0.156
+  },
+  {
+    "slide": 7,
+    "role": "product ordinal",
+    "text": "03",
+    "box": [
+      13.45,
+      8.25,
+      5.4,
+      0.4
+    ],
+    "font": "Silkscreen",
+    "size": 22,
+    "lines": [
+      "03"
+    ],
+    "estimatedHeight": 0.342
+  },
+  {
+    "slide": 7,
+    "role": "product phase",
+    "text": "Respond",
+    "box": [
+      13.45,
+      8.85,
+      5.4,
+      0.7
+    ],
+    "font": "Inter",
+    "size": 35,
+    "lines": [
+      "Respond"
+    ],
+    "estimatedHeight": 0.544
+  },
+  {
+    "slide": 7,
+    "role": "card source",
+    "text": "Supplied product loop",
+    "box": [
+      13.45,
+      9.65,
+      5.3,
+      0.4
+    ],
+    "font": "DM Mono",
+    "size": 10,
+    "lines": [
+      "Supplied product loop"
+    ],
+    "estimatedHeight": 0.156
+  },
+  {
+    "slide": 8,
+    "role": "wordmark",
+    "text": "SHOCKTWIN",
+    "box": [
+      1.18,
+      0.65,
+      3.4,
+      0.32
+    ],
+    "font": "Inter",
+    "size": 18,
+    "lines": [
+      "SHOCKTWIN"
+    ],
+    "estimatedHeight": 0.28
+  },
+  {
+    "slide": 8,
+    "role": "navigation",
+    "text": "Problem",
+    "box": [
+      7.0,
+      0.69,
+      1.35,
+      0.3
+    ],
+    "font": "DM Mono",
+    "size": 13,
+    "lines": [
+      "Problem"
+    ],
+    "estimatedHeight": 0.202
+  },
+  {
+    "slide": 8,
+    "role": "navigation",
+    "text": "ShockTwin",
+    "box": [
+      8.85,
+      0.69,
+      1.75,
+      0.3
+    ],
+    "font": "DM Mono",
+    "size": 13,
+    "lines": [
+      "ShockTwin"
+    ],
+    "estimatedHeight": 0.202
+  },
+  {
+    "slide": 8,
+    "role": "navigation",
+    "text": "SAP",
+    "box": [
+      11.1,
+      0.69,
+      0.65,
+      0.3
+    ],
+    "font": "DM Mono",
+    "size": 13,
+    "lines": [
+      "SAP"
+    ],
+    "estimatedHeight": 0.202
+  },
+  {
+    "slide": 8,
+    "role": "navigation",
+    "text": "Impact",
+    "box": [
+      12.25,
+      0.69,
+      1.3,
+      0.3
+    ],
+    "font": "DM Mono",
+    "size": 13,
+    "lines": [
+      "Impact"
+    ],
+    "estimatedHeight": 0.202
+  },
+  {
+    "slide": 8,
+    "role": "page counter",
+    "text": "08 / 14",
+    "box": [
+      18.1,
+      0.69,
+      1.08,
+      0.28
+    ],
+    "font": "DM Mono",
+    "size": 13,
+    "lines": [
+      "08 / 14"
+    ],
+    "estimatedHeight": 0.202
+  },
+  {
+    "slide": 8,
+    "role": "event footer",
+    "text": "SAP HACKFEST 2026 \u00b7 RV UNIVERSITY",
+    "box": [
+      0.72,
+      10.58,
+      4.6,
+      0.24
+    ],
+    "font": "DM Mono",
+    "size": 9.5,
+    "lines": [
+      "SAP HACKFEST 2026 \u00b7 RV UNIVERSITY"
+    ],
+    "estimatedHeight": 0.148
+  },
+  {
+    "slide": 8,
+    "role": "track footer",
+    "text": "RESILIENT SUPPLY CHAINS",
+    "box": [
+      15.25,
+      10.58,
+      4.02,
+      0.24
+    ],
+    "font": "DM Mono",
+    "size": 9.5,
+    "lines": [
+      "RESILIENT SUPPLY CHAINS"
+    ],
+    "estimatedHeight": 0.148
+  },
+  {
+    "slide": 8,
+    "role": "source footer",
+    "text": "Illustrative local demo \u00b7 Synthetic GraphSAGE scores \u00b7 Kosasih & Brintrup, IJPR 2022",
+    "box": [
+      5.1,
+      10.48,
+      9.9,
+      0.42
+    ],
+    "font": "DM Mono",
+    "size": 8.7,
+    "lines": [
+      "Illustrative local demo \u00b7 Synthetic GraphSAGE scores \u00b7 Kosasih & Brintrup, IJPR 2022"
+    ],
+    "estimatedHeight": 0.143
+  },
+  {
+    "slide": 8,
+    "role": "eyebrow",
+    "text": "08 \u00b7 01 \u00b7 DETECT",
+    "box": [
+      1.21,
+      1.68,
+      1.8705208333333332,
+      0.26
+    ],
+    "font": "DM Mono",
+    "size": 13,
+    "lines": [
+      "08 \u00b7 01 \u00b7 DETECT"
+    ],
+    "estimatedHeight": 0.202
+  },
+  {
+    "slide": 8,
+    "role": "headline",
+    "text": "Find the suppliers you never knew.",
+    "font": "Instrument Serif",
+    "size": 100,
+    "accent": "you never knew.",
+    "box": [
+      0.8,
+      2.3,
+      9.1,
+      4.3
+    ],
+    "lines": [
+      "Find the suppliers",
+      "you never knew."
+    ]
+  },
+  {
+    "slide": 8,
+    "role": "single supporting sentence",
+    "text": "Illustrative: three immediate suppliers share one hidden resin plant.",
+    "box": [
+      0.85,
+      6.67,
+      8.8,
+      1.11
+    ],
+    "font": "Inter",
+    "size": 23,
+    "lines": [
+      "Illustrative: three immediate suppliers share one hidden resin",
+      "plant."
+    ],
+    "estimatedHeight": 0.735
+  },
+  {
+    "slide": 8,
+    "role": "real screenshot label",
+    "text": "DETECT \u00b7 REAL APP \u00b7 ILLUSTRATIVE",
+    "box": [
+      10.69,
+      2.5,
+      8.17,
+      0.35
+    ],
+    "font": "DM Mono",
+    "size": 13,
+    "lines": [
+      "DETECT \u00b7 REAL APP \u00b7 ILLUSTRATIVE"
+    ],
+    "estimatedHeight": 0.202
+  },
+  {
+    "slide": 8,
+    "role": "card source",
+    "text": "Illustrative local app \u00b7 actual browser capture",
+    "box": [
+      10.69,
+      6.91,
+      8.17,
+      0.28
+    ],
+    "font": "DM Mono",
+    "size": 9.2,
+    "lines": [
+      "Illustrative local app \u00b7 actual browser capture"
+    ],
+    "estimatedHeight": 0.143
+  },
+  {
+    "slide": 8,
+    "role": "genuine screenshot",
+    "source": "docs/screenshots/risk-map.png",
+    "sourceSha256": "e3d7de08b40a24eeadfb40cd5d3dfc794845fa587940baaa9de472e639650e63",
+    "crop": [
+      270,
+      353,
+      1588,
+      892
+    ],
+    "placedBox": [
+      10.67,
+      3.181248103186646,
+      8.21,
+      3.3575037936267074
+    ]
+  },
+  {
+    "slide": 8,
+    "role": "statistic label",
+    "text": "IMMEDIATE\nSUPPLIERS",
+    "box": [
+      1.08,
+      8.33,
+      2.3,
+      0.5
+    ],
+    "font": "DM Mono",
+    "size": 13,
+    "lines": [
+      "IMMEDIATE",
+      "SUPPLIERS"
+    ],
+    "estimatedHeight": 0.386
+  },
+  {
+    "slide": 8,
+    "role": "editable statistic",
+    "text": "5",
+    "box": [
+      1.08,
+      8.85,
+      2.3,
+      0.95
+    ],
+    "font": "Silkscreen",
+    "size": 43,
+    "lines": [
+      "5"
+    ],
+    "estimatedHeight": 0.627
+  },
+  {
+    "slide": 8,
+    "role": "card source",
+    "text": "Illustrative seed",
+    "box": [
+      1.08,
+      9.62,
+      2.3,
+      0.39
+    ],
+    "font": "DM Mono",
+    "size": 8.5,
+    "lines": [
+      "Illustrative seed"
+    ],
+    "estimatedHeight": 0.132
+  },
+  {
+    "slide": 8,
+    "role": "statistic label",
+    "text": "SHARED\nUPSTREAM PLANT",
+    "box": [
+      4.0600000000000005,
+      8.33,
+      2.3,
+      0.5
+    ],
+    "font": "DM Mono",
+    "size": 13,
+    "lines": [
+      "SHARED",
+      "UPSTREAM PLANT"
+    ],
+    "estimatedHeight": 0.386
+  },
+  {
+    "slide": 8,
+    "role": "editable statistic",
+    "text": "1",
+    "box": [
+      4.0600000000000005,
+      8.85,
+      2.3,
+      0.95
+    ],
+    "font": "Silkscreen",
+    "size": 43,
+    "lines": [
+      "1"
+    ],
+    "estimatedHeight": 0.627
+  },
+  {
+    "slide": 8,
+    "role": "card source",
+    "text": "Illustrative seed",
+    "box": [
+      4.0600000000000005,
+      9.62,
+      2.3,
+      0.39
+    ],
+    "font": "DM Mono",
+    "size": 8.5,
+    "lines": [
+      "Illustrative seed"
+    ],
+    "estimatedHeight": 0.132
+  },
+  {
+    "slide": 8,
+    "role": "statistic label",
+    "text": "DEPENDENT\nSUPPLIERS",
+    "box": [
+      7.04,
+      8.33,
+      2.3,
+      0.5
+    ],
+    "font": "DM Mono",
+    "size": 13,
+    "lines": [
+      "DEPENDENT",
+      "SUPPLIERS"
+    ],
+    "estimatedHeight": 0.386
+  },
+  {
+    "slide": 8,
+    "role": "editable statistic",
+    "text": "3 of 5",
+    "box": [
+      7.04,
+      8.85,
+      2.3,
+      0.95
+    ],
+    "font": "Silkscreen",
+    "size": 42,
+    "lines": [
+      "3 of 5"
+    ],
+    "estimatedHeight": 0.613
+  },
+  {
+    "slide": 8,
+    "role": "card source",
+    "text": "Illustrative seed",
+    "box": [
+      7.04,
+      9.62,
+      2.3,
+      0.39
+    ],
+    "font": "DM Mono",
+    "size": 8.5,
+    "lines": [
+      "Illustrative seed"
+    ],
+    "estimatedHeight": 0.132
+  },
+  {
+    "slide": 9,
+    "role": "wordmark",
+    "text": "SHOCKTWIN",
+    "box": [
+      1.18,
+      0.65,
+      3.4,
+      0.32
+    ],
+    "font": "Inter",
+    "size": 18,
+    "lines": [
+      "SHOCKTWIN"
+    ],
+    "estimatedHeight": 0.28
+  },
+  {
+    "slide": 9,
+    "role": "navigation",
+    "text": "Problem",
+    "box": [
+      7.0,
+      0.69,
+      1.35,
+      0.3
+    ],
+    "font": "DM Mono",
+    "size": 13,
+    "lines": [
+      "Problem"
+    ],
+    "estimatedHeight": 0.202
+  },
+  {
+    "slide": 9,
+    "role": "navigation",
+    "text": "ShockTwin",
+    "box": [
+      8.85,
+      0.69,
+      1.75,
+      0.3
+    ],
+    "font": "DM Mono",
+    "size": 13,
+    "lines": [
+      "ShockTwin"
+    ],
+    "estimatedHeight": 0.202
+  },
+  {
+    "slide": 9,
+    "role": "navigation",
+    "text": "SAP",
+    "box": [
+      11.1,
+      0.69,
+      0.65,
+      0.3
+    ],
+    "font": "DM Mono",
+    "size": 13,
+    "lines": [
+      "SAP"
+    ],
+    "estimatedHeight": 0.202
+  },
+  {
+    "slide": 9,
+    "role": "navigation",
+    "text": "Impact",
+    "box": [
+      12.25,
+      0.69,
+      1.3,
+      0.3
+    ],
+    "font": "DM Mono",
+    "size": 13,
+    "lines": [
+      "Impact"
+    ],
+    "estimatedHeight": 0.202
+  },
+  {
+    "slide": 9,
+    "role": "page counter",
+    "text": "09 / 14",
+    "box": [
+      18.1,
+      0.69,
+      1.08,
+      0.28
+    ],
+    "font": "DM Mono",
+    "size": 13,
+    "lines": [
+      "09 / 14"
+    ],
+    "estimatedHeight": 0.202
+  },
+  {
+    "slide": 9,
+    "role": "event footer",
+    "text": "SAP HACKFEST 2026 \u00b7 RV UNIVERSITY",
+    "box": [
+      0.72,
+      10.58,
+      4.6,
+      0.24
+    ],
+    "font": "DM Mono",
+    "size": 9.5,
+    "lines": [
+      "SAP HACKFEST 2026 \u00b7 RV UNIVERSITY"
+    ],
+    "estimatedHeight": 0.148
+  },
+  {
+    "slide": 9,
+    "role": "track footer",
+    "text": "RESILIENT SUPPLY CHAINS",
+    "box": [
+      15.25,
+      10.58,
+      4.02,
+      0.24
+    ],
+    "font": "DM Mono",
+    "size": 9.5,
+    "lines": [
+      "RESILIENT SUPPLY CHAINS"
+    ],
+    "estimatedHeight": 0.148
+  },
+  {
+    "slide": 9,
+    "role": "source footer",
+    "text": "Illustrative local simulation \u00b7 Assumptions and real app result in screenshot",
+    "box": [
+      5.1,
+      10.48,
+      9.9,
+      0.42
+    ],
+    "font": "DM Mono",
+    "size": 8.7,
+    "lines": [
+      "Illustrative local simulation \u00b7 Assumptions and real app result in screenshot"
+    ],
+    "estimatedHeight": 0.143
+  },
+  {
+    "slide": 9,
+    "role": "eyebrow",
+    "text": "09 \u00b7 02 \u00b7 SIMULATE",
+    "box": [
+      1.21,
+      1.68,
+      2.0830859375,
+      0.26
+    ],
+    "font": "DM Mono",
+    "size": 13,
+    "lines": [
+      "09 \u00b7 02 \u00b7 SIMULATE"
+    ],
+    "estimatedHeight": 0.202
+  },
+  {
+    "slide": 9,
+    "role": "headline",
+    "text": "War-game the storm before it lands.",
+    "font": "Instrument Serif",
+    "size": 100,
+    "accent": "before it lands.",
+    "box": [
+      0.8,
+      2.3,
+      9.1,
+      4.3
+    ],
+    "lines": [
+      "War-game",
+      "the storm",
+      "before it lands."
+    ]
+  },
+  {
+    "slide": 9,
+    "role": "single supporting sentence",
+    "text": "Illustrative: a day-three replacement switch avoids a line stop through the displayed simulation horizon.",
+    "box": [
+      0.85,
+      6.67,
+      8.8,
+      1.11
+    ],
+    "font": "Inter",
+    "size": 23,
+    "lines": [
+      "Illustrative: a day-three replacement switch avoids a line",
+      "stop through the displayed simulation horizon."
+    ],
+    "estimatedHeight": 0.735
+  },
+  {
+    "slide": 9,
+    "role": "real screenshot label",
+    "text": "SIMULATE \u00b7 REAL APP \u00b7 ILLUSTRATIVE",
+    "box": [
+      10.69,
+      2.5,
+      8.17,
+      0.35
+    ],
+    "font": "DM Mono",
+    "size": 13,
+    "lines": [
+      "SIMULATE \u00b7 REAL APP \u00b7 ILLUSTRATIVE"
+    ],
+    "estimatedHeight": 0.202
+  },
+  {
+    "slide": 9,
+    "role": "card source",
+    "text": "Illustrative local app \u00b7 actual browser capture",
+    "box": [
+      10.69,
+      8.309999999999999,
+      8.17,
+      0.28
+    ],
+    "font": "DM Mono",
+    "size": 9.2,
+    "lines": [
+      "Illustrative local app \u00b7 actual browser capture"
+    ],
+    "estimatedHeight": 0.143
+  },
+  {
+    "slide": 9,
+    "role": "genuine screenshot",
+    "source": "docs/screenshots/simulator.png",
+    "sourceSha256": "41399d4bfffd7ded252a7c01c084161283a3643e0d07ffbb69616e25d2fc4916",
+    "crop": null,
+    "placedBox": [
+      10.67,
+      3.2509375,
+      8.21,
+      4.618125
+    ]
+  },
+  {
+    "slide": 9,
+    "role": "chart title",
+    "text": "RESIN STOCK LEFT \u00b7 ILLUSTRATIVE",
+    "box": [
+      1.05,
+      8.1,
+      8.25,
+      0.27
+    ],
+    "font": "DM Mono",
+    "size": 12,
+    "lines": [
+      "RESIN STOCK LEFT \u00b7 ILLUSTRATIVE"
+    ],
+    "estimatedHeight": 0.187
+  },
+  {
+    "slide": 9,
+    "role": "native editable sparse day tick",
+    "text": "0",
+    "box": [
+      1.6569193548387098,
+      9.71,
+      0.28,
+      0.22
+    ],
+    "font": "DM Mono",
+    "size": 9,
+    "lines": [
+      "0"
+    ],
+    "estimatedHeight": 0.14
+  },
+  {
+    "slide": 9,
+    "role": "native editable sparse day tick",
+    "text": "6",
+    "box": [
+      3.1079516129032254,
+      9.71,
+      0.28,
+      0.22
+    ],
+    "font": "DM Mono",
+    "size": 9,
+    "lines": [
+      "6"
+    ],
+    "estimatedHeight": 0.14
+  },
+  {
+    "slide": 9,
+    "role": "native editable sparse day tick",
+    "text": "12",
+    "box": [
+      4.558983870967742,
+      9.71,
+      0.28,
+      0.22
+    ],
+    "font": "DM Mono",
+    "size": 9,
+    "lines": [
+      "12"
+    ],
+    "estimatedHeight": 0.14
+  },
+  {
+    "slide": 9,
+    "role": "native editable sparse day tick",
+    "text": "18",
+    "box": [
+      6.010016129032259,
+      9.71,
+      0.28,
+      0.22
+    ],
+    "font": "DM Mono",
+    "size": 9,
+    "lines": [
+      "18"
+    ],
+    "estimatedHeight": 0.14
+  },
+  {
+    "slide": 9,
+    "role": "native editable sparse day tick",
+    "text": "24",
+    "box": [
+      7.461048387096774,
+      9.71,
+      0.28,
+      0.22
+    ],
+    "font": "DM Mono",
+    "size": 9,
+    "lines": [
+      "24"
+    ],
+    "estimatedHeight": 0.14
+  },
+  {
+    "slide": 9,
+    "role": "native editable sparse day tick",
+    "text": "30",
+    "box": [
+      8.91208064516129,
+      9.71,
+      0.28,
+      0.22
+    ],
+    "font": "DM Mono",
+    "size": 9,
+    "lines": [
+      "30"
+    ],
+    "estimatedHeight": 0.14
+  },
+  {
+    "slide": 9,
+    "role": "native failure readout",
+    "text": "DAY 18",
+    "box": [
+      7.55,
+      8.1,
+      1.6,
+      0.32
+    ],
+    "font": "Silkscreen",
+    "size": 18,
+    "lines": [
+      "DAY 18"
+    ],
+    "estimatedHeight": 0.28
+  },
+  {
+    "slide": 9,
+    "role": "direct curve label",
+    "text": "DAY-3 SWITCH",
+    "box": [
+      5.9,
+      8.5,
+      3.0,
+      0.25
+    ],
+    "font": "DM Mono",
+    "size": 10,
+    "lines": [
+      "DAY-3 SWITCH"
+    ],
+    "estimatedHeight": 0.156
+  },
+  {
+    "slide": 9,
+    "role": "direct failure label",
+    "text": "DAY 18 \u00b7 STOCK-OUT",
+    "box": [
+      5.25,
+      9.25,
+      3.9,
+      0.25
+    ],
+    "font": "DM Mono",
+    "size": 10,
+    "lines": [
+      "DAY 18 \u00b7 STOCK-OUT"
+    ],
+    "estimatedHeight": 0.156
+  },
+  {
+    "slide": 9,
+    "role": "card source",
+    "text": "Real local API \u00b7 100 units/day \u00b7 30-day horizon",
+    "box": [
+      1.05,
+      9.97,
+      8.25,
+      0.22
+    ],
+    "font": "DM Mono",
+    "size": 8.5,
+    "lines": [
+      "Real local API \u00b7 100 units/day \u00b7 30-day horizon"
+    ],
+    "estimatedHeight": 0.132
+  },
+  {
+    "slide": 10,
+    "role": "wordmark",
+    "text": "SHOCKTWIN",
+    "box": [
+      1.18,
+      0.65,
+      3.4,
+      0.32
+    ],
+    "font": "Inter",
+    "size": 18,
+    "lines": [
+      "SHOCKTWIN"
+    ],
+    "estimatedHeight": 0.28
+  },
+  {
+    "slide": 10,
+    "role": "navigation",
+    "text": "Problem",
+    "box": [
+      7.0,
+      0.69,
+      1.35,
+      0.3
+    ],
+    "font": "DM Mono",
+    "size": 13,
+    "lines": [
+      "Problem"
+    ],
+    "estimatedHeight": 0.202
+  },
+  {
+    "slide": 10,
+    "role": "navigation",
+    "text": "ShockTwin",
+    "box": [
+      8.85,
+      0.69,
+      1.75,
+      0.3
+    ],
+    "font": "DM Mono",
+    "size": 13,
+    "lines": [
+      "ShockTwin"
+    ],
+    "estimatedHeight": 0.202
+  },
+  {
+    "slide": 10,
+    "role": "navigation",
+    "text": "SAP",
+    "box": [
+      11.1,
+      0.69,
+      0.65,
+      0.3
+    ],
+    "font": "DM Mono",
+    "size": 13,
+    "lines": [
+      "SAP"
+    ],
+    "estimatedHeight": 0.202
+  },
+  {
+    "slide": 10,
+    "role": "navigation",
+    "text": "Impact",
+    "box": [
+      12.25,
+      0.69,
+      1.3,
+      0.3
+    ],
+    "font": "DM Mono",
+    "size": 13,
+    "lines": [
+      "Impact"
+    ],
+    "estimatedHeight": 0.202
+  },
+  {
+    "slide": 10,
+    "role": "page counter",
+    "text": "10 / 14",
+    "box": [
+      18.1,
+      0.69,
+      1.08,
+      0.28
+    ],
+    "font": "DM Mono",
+    "size": 13,
+    "lines": [
+      "10 / 14"
+    ],
+    "estimatedHeight": 0.202
+  },
+  {
+    "slide": 10,
+    "role": "event footer",
+    "text": "SAP HACKFEST 2026 \u00b7 RV UNIVERSITY",
+    "box": [
+      0.72,
+      10.58,
+      4.6,
+      0.24
+    ],
+    "font": "DM Mono",
+    "size": 9.5,
+    "lines": [
+      "SAP HACKFEST 2026 \u00b7 RV UNIVERSITY"
+    ],
+    "estimatedHeight": 0.148
+  },
+  {
+    "slide": 10,
+    "role": "track footer",
+    "text": "RESILIENT SUPPLY CHAINS",
+    "box": [
+      15.25,
+      10.58,
+      4.02,
+      0.24
+    ],
+    "font": "DM Mono",
+    "size": 9.5,
+    "lines": [
+      "RESILIENT SUPPLY CHAINS"
+    ],
+    "estimatedHeight": 0.148
+  },
+  {
+    "slide": 10,
+    "role": "source footer",
+    "text": "DPIIT\u2013NCAER 2025 \u00b7 RBI OBICUS Q1 2026\u201327 [VERIFY] \u00b7 COVID case source [VERIFY]",
+    "box": [
+      5.1,
+      10.48,
+      9.9,
+      0.42
+    ],
+    "font": "DM Mono",
+    "size": 8.7,
+    "lines": [
+      "DPIIT\u2013NCAER 2025 \u00b7 RBI OBICUS Q1 2026\u201327 [VERIFY] \u00b7 COVID case source [VERIFY]"
+    ],
+    "estimatedHeight": 0.143
+  },
+  {
+    "slide": 10,
+    "role": "eyebrow",
+    "text": "10 \u00b7 03 \u00b7 RESPOND \u00b7 CAPACITYMESH",
+    "box": [
+      1.21,
+      1.68,
+      3.571041666666667,
+      0.26
+    ],
+    "font": "DM Mono",
+    "size": 13,
+    "lines": [
+      "10 \u00b7 03 \u00b7 RESPOND \u00b7 CAPACITYMESH"
+    ],
+    "estimatedHeight": 0.202
+  },
+  {
+    "slide": 10,
+    "role": "headline",
+    "text": "Borrow capacity in minutes, not weeks.",
+    "font": "Instrument Serif",
+    "size": 104,
+    "accent": "in minutes,",
+    "box": [
+      0.8,
+      2.3,
+      9.1,
+      4.3
+    ],
+    "lines": [
+      "Borrow capacity",
+      "in minutes,",
+      "not weeks."
+    ]
+  },
+  {
+    "slide": 10,
+    "role": "single supporting sentence",
+    "text": "CapacityMesh turns a qualified match into a human-approved draft; minutes describes the demo workflow, not physical activation.",
+    "box": [
+      0.85,
+      6.67,
+      8.8,
+      1.11
+    ],
+    "font": "Inter",
+    "size": 23,
+    "lines": [
+      "CapacityMesh turns a qualified match into a",
+      "human-approved draft; minutes describes the demo",
+      "workflow, not physical activation."
+    ],
+    "estimatedHeight": 1.102
+  },
+  {
+    "slide": 10,
+    "role": "real screenshot label",
+    "text": "RANKED CAPACITY \u00b7 ILLUSTRATIVE",
+    "box": [
+      10.69,
+      2.5,
+      8.17,
+      0.35
+    ],
+    "font": "DM Mono",
+    "size": 13,
+    "lines": [
+      "RANKED CAPACITY \u00b7 ILLUSTRATIVE"
+    ],
+    "estimatedHeight": 0.202
+  },
+  {
+    "slide": 10,
+    "role": "card source",
+    "text": "Illustrative local app \u00b7 actual browser capture",
+    "box": [
+      10.69,
+      5.56,
+      8.17,
+      0.28
+    ],
+    "font": "DM Mono",
+    "size": 9.2,
+    "lines": [
+      "Illustrative local app \u00b7 actual browser capture"
+    ],
+    "estimatedHeight": 0.143
+  },
+  {
+    "slide": 10,
+    "role": "genuine screenshot",
+    "source": "docs/screenshots/capacitymesh.png",
+    "sourceSha256": "7e57f80192132c8b2b43bdcb2d421c06a32c10fd6c1072bd80cdaf399051f195",
+    "crop": [
+      270,
+      400,
+      1882,
+      1019
+    ],
+    "placedBox": [
+      11.689022617124394,
+      3.0,
+      6.171954765751212,
+      2.37
+    ]
+  },
+  {
+    "slide": 10,
+    "role": "real screenshot label",
+    "text": "HUMAN APPROVED \u00b7 MOCK ERP",
+    "box": [
+      10.69,
+      6.4,
+      8.17,
+      0.35
+    ],
+    "font": "DM Mono",
+    "size": 13,
+    "lines": [
+      "HUMAN APPROVED \u00b7 MOCK ERP"
+    ],
+    "estimatedHeight": 0.202
+  },
+  {
+    "slide": 10,
+    "role": "card source",
+    "text": "Illustrative local app \u00b7 actual browser capture",
+    "box": [
+      10.69,
+      9.459999999999999,
+      8.17,
+      0.28
+    ],
+    "font": "DM Mono",
+    "size": 9.2,
+    "lines": [
+      "Illustrative local app \u00b7 actual browser capture"
+    ],
+    "estimatedHeight": 0.143
+  },
+  {
+    "slide": 10,
+    "role": "genuine screenshot",
+    "source": "docs/screenshots/approval.png",
+    "sourceSha256": "3e2db4a24a060fd2b79288abcc618fef2db692bebf1c74723abbc9f4a92d7841",
+    "crop": [
+      270,
+      353,
+      1882,
+      935
+    ],
+    "placedBox": [
+      11.492835051546392,
+      6.9,
+      6.564329896907217,
+      2.37
+    ]
+  },
+  {
+    "slide": 10,
+    "role": "statistic label",
+    "text": "UP TO \u00b7 EMPTY RUNNING",
+    "box": [
+      1.08,
+      8.33,
+      2.3,
+      0.5
+    ],
+    "font": "DM Mono",
+    "size": 13,
+    "lines": [
+      "UP TO \u00b7 EMPTY RUNNING"
+    ],
+    "estimatedHeight": 0.193
+  },
+  {
+    "slide": 10,
+    "role": "editable statistic",
+    "text": "40%",
+    "box": [
+      1.08,
+      8.85,
+      2.3,
+      0.95
+    ],
+    "font": "Silkscreen",
+    "size": 36,
+    "lines": [
+      "40%"
+    ],
+    "estimatedHeight": 0.525
+  },
+  {
+    "slide": 10,
+    "role": "card source",
+    "text": "DPIIT\u2013NCAER, 2025",
+    "box": [
+      1.08,
+      9.62,
+      2.3,
+      0.39
+    ],
+    "font": "DM Mono",
+    "size": 8.5,
+    "lines": [
+      "DPIIT\u2013NCAER, 2025"
+    ],
+    "estimatedHeight": 0.132
+  },
+  {
+    "slide": 10,
+    "role": "statistic label",
+    "text": "CAPACITY UTILISATION",
+    "box": [
+      4.0600000000000005,
+      8.33,
+      2.3,
+      0.5
+    ],
+    "font": "DM Mono",
+    "size": 13,
+    "lines": [
+      "CAPACITY UTILISATION"
+    ],
+    "estimatedHeight": 0.193
+  },
+  {
+    "slide": 10,
+    "role": "editable statistic",
+    "text": "74.6%",
+    "box": [
+      4.0600000000000005,
+      8.85,
+      2.3,
+      0.95
+    ],
+    "font": "Silkscreen",
+    "size": 36,
+    "lines": [
+      "74.6%"
+    ],
+    "estimatedHeight": 0.525
+  },
+  {
+    "slide": 10,
+    "role": "card source",
+    "text": "RBI OBICUS Q1 2026\u201327 [VERIFY]",
+    "box": [
+      4.0600000000000005,
+      9.62,
+      2.3,
+      0.39
+    ],
+    "font": "DM Mono",
+    "size": 8.5,
+    "lines": [
+      "RBI OBICUS Q1 2026\u201327 [VERIFY]"
+    ],
+    "estimatedHeight": 0.132
+  },
+  {
+    "slide": 10,
+    "role": "statistic label",
+    "text": "VENTILATORS \u00b7 ~3 MONTHS",
+    "box": [
+      7.04,
+      8.33,
+      2.3,
+      0.5
+    ],
+    "font": "DM Mono",
+    "size": 13,
+    "lines": [
+      "VENTILATORS \u00b7 ~3",
+      "MONTHS"
+    ],
+    "estimatedHeight": 0.386
+  },
+  {
+    "slide": 10,
+    "role": "editable statistic",
+    "text": "~60,000",
+    "box": [
+      7.04,
+      8.85,
+      2.3,
+      0.95
+    ],
+    "font": "Silkscreen",
+    "size": 33,
+    "lines": [
+      "~60,000"
+    ],
+    "estimatedHeight": 0.481
+  },
+  {
+    "slide": 10,
+    "role": "card source",
+    "text": "COVID sharing case [source VERIFY]",
+    "box": [
+      7.04,
+      9.62,
+      2.3,
+      0.39
+    ],
+    "font": "DM Mono",
+    "size": 8.5,
+    "lines": [
+      "COVID sharing case [source",
+      "VERIFY]"
+    ],
+    "estimatedHeight": 0.264
+  },
+  {
+    "slide": 11,
+    "role": "wordmark",
+    "text": "SHOCKTWIN",
+    "box": [
+      1.18,
+      0.65,
+      3.4,
+      0.32
+    ],
+    "font": "Inter",
+    "size": 18,
+    "lines": [
+      "SHOCKTWIN"
+    ],
+    "estimatedHeight": 0.28
+  },
+  {
+    "slide": 11,
+    "role": "navigation",
+    "text": "Problem",
+    "box": [
+      7.0,
+      0.69,
+      1.35,
+      0.3
+    ],
+    "font": "DM Mono",
+    "size": 13,
+    "lines": [
+      "Problem"
+    ],
+    "estimatedHeight": 0.202
+  },
+  {
+    "slide": 11,
+    "role": "navigation",
+    "text": "ShockTwin",
+    "box": [
+      8.85,
+      0.69,
+      1.75,
+      0.3
+    ],
+    "font": "DM Mono",
+    "size": 13,
+    "lines": [
+      "ShockTwin"
+    ],
+    "estimatedHeight": 0.202
+  },
+  {
+    "slide": 11,
+    "role": "navigation",
+    "text": "SAP",
+    "box": [
+      11.1,
+      0.69,
+      0.65,
+      0.3
+    ],
+    "font": "DM Mono",
+    "size": 13,
+    "lines": [
+      "SAP"
+    ],
+    "estimatedHeight": 0.202
+  },
+  {
+    "slide": 11,
+    "role": "navigation",
+    "text": "Impact",
+    "box": [
+      12.25,
+      0.69,
+      1.3,
+      0.3
+    ],
+    "font": "DM Mono",
+    "size": 13,
+    "lines": [
+      "Impact"
+    ],
+    "estimatedHeight": 0.202
+  },
+  {
+    "slide": 11,
+    "role": "page counter",
+    "text": "11 / 14",
+    "box": [
+      18.1,
+      0.69,
+      1.08,
+      0.28
+    ],
+    "font": "DM Mono",
+    "size": 13,
+    "lines": [
+      "11 / 14"
+    ],
+    "estimatedHeight": 0.202
+  },
+  {
+    "slide": 11,
+    "role": "event footer",
+    "text": "SAP HACKFEST 2026 \u00b7 RV UNIVERSITY",
+    "box": [
+      0.72,
+      10.58,
+      4.6,
+      0.24
+    ],
+    "font": "DM Mono",
+    "size": 9.5,
+    "lines": [
+      "SAP HACKFEST 2026 \u00b7 RV UNIVERSITY"
+    ],
+    "estimatedHeight": 0.148
+  },
+  {
+    "slide": 11,
+    "role": "track footer",
+    "text": "RESILIENT SUPPLY CHAINS",
+    "box": [
+      15.25,
+      10.58,
+      4.02,
+      0.24
+    ],
+    "font": "DM Mono",
+    "size": 9.5,
+    "lines": [
+      "RESILIENT SUPPLY CHAINS"
+    ],
+    "estimatedHeight": 0.148
+  },
+  {
+    "slide": 11,
+    "role": "source footer",
+    "text": "SAP target architecture: project design \u00b7 Live cloud integration [VERIFY]",
+    "box": [
+      5.1,
+      10.48,
+      9.9,
+      0.42
+    ],
+    "font": "DM Mono",
+    "size": 8.7,
+    "lines": [
+      "SAP target architecture: project design \u00b7 Live cloud integration [VERIFY]"
+    ],
+    "estimatedHeight": 0.143
+  },
+  {
+    "slide": 11,
+    "role": "eyebrow",
+    "text": "11 \u00b7 SAP BTP",
+    "box": [
+      1.21,
+      1.68,
+      1.445390625,
+      0.26
+    ],
+    "font": "DM Mono",
+    "size": 13,
+    "lines": [
+      "11 \u00b7 SAP BTP"
+    ],
+    "estimatedHeight": 0.202
+  },
+  {
+    "slide": 11,
+    "role": "headline",
+    "text": "Built on SAP BTP.",
+    "font": "Instrument Serif",
+    "size": 132,
+    "accent": "SAP BTP.",
+    "box": [
+      0.8,
+      2.3,
+      9.1,
+      4.3
+    ],
+    "lines": [
+      "Built on",
+      "SAP BTP."
+    ]
+  },
+  {
+    "slide": 11,
+    "role": "single supporting sentence",
+    "text": "One decision workflow, with human approval at the boundary of action.",
+    "box": [
+      0.85,
+      6.67,
+      8.8,
+      1.11
+    ],
+    "font": "Inter",
+    "size": 23,
+    "lines": [
+      "One decision workflow, with human approval at the",
+      "boundary of action."
+    ],
+    "estimatedHeight": 0.735
+  },
+  {
+    "slide": 11,
+    "role": "architecture layer",
+    "text": "UI",
+    "box": [
+      10.69,
+      2.54,
+      1.3,
+      0.3
+    ],
+    "font": "DM Mono",
+    "size": 14,
+    "lines": [
+      "UI"
+    ],
+    "estimatedHeight": 0.218
+  },
+  {
+    "slide": 11,
+    "role": "architecture component",
+    "text": "SAPUI5 / Horizon",
+    "box": [
+      12.18,
+      2.48,
+      6.65,
+      0.39
+    ],
+    "font": "Inter",
+    "size": 22,
+    "lines": [
+      "SAPUI5 / Horizon"
+    ],
+    "estimatedHeight": 0.342
+  },
+  {
+    "slide": 11,
+    "role": "card source",
+    "text": "Project target/implementation",
+    "box": [
+      12.18,
+      2.97,
+      6.65,
+      0.24
+    ],
+    "font": "DM Mono",
+    "size": 9.0,
+    "lines": [
+      "Project target/implementation"
+    ],
+    "estimatedHeight": 0.14
+  },
+  {
+    "slide": 11,
+    "role": "architecture layer",
+    "text": "AGENT",
+    "box": [
+      10.69,
+      3.6,
+      1.3,
+      0.3
+    ],
+    "font": "DM Mono",
+    "size": 14,
+    "lines": [
+      "AGENT"
+    ],
+    "estimatedHeight": 0.218
+  },
+  {
+    "slide": 11,
+    "role": "architecture component",
+    "text": "Build Process Automation",
+    "box": [
+      12.18,
+      3.54,
+      6.65,
+      0.39
+    ],
+    "font": "Inter",
+    "size": 22,
+    "lines": [
+      "Build Process Automation"
+    ],
+    "estimatedHeight": 0.342
+  },
+  {
+    "slide": 11,
+    "role": "card source",
+    "text": "SAP target; local fallback",
+    "box": [
+      12.18,
+      4.03,
+      6.65,
+      0.24
+    ],
+    "font": "DM Mono",
+    "size": 9.0,
+    "lines": [
+      "SAP target; local fallback"
+    ],
+    "estimatedHeight": 0.14
+  },
+  {
+    "slide": 11,
+    "role": "architecture layer",
+    "text": "APP",
+    "box": [
+      10.69,
+      4.660000000000001,
+      1.3,
+      0.3
+    ],
+    "font": "DM Mono",
+    "size": 14,
+    "lines": [
+      "APP"
+    ],
+    "estimatedHeight": 0.218
+  },
+  {
+    "slide": 11,
+    "role": "architecture component",
+    "text": "CAP / Node.js",
+    "box": [
+      12.18,
+      4.6000000000000005,
+      6.65,
+      0.39
+    ],
+    "font": "Inter",
+    "size": 22,
+    "lines": [
+      "CAP / Node.js"
+    ],
+    "estimatedHeight": 0.342
+  },
+  {
+    "slide": 11,
+    "role": "card source",
+    "text": "Project target/implementation",
+    "box": [
+      12.18,
+      5.090000000000001,
+      6.65,
+      0.24
+    ],
+    "font": "DM Mono",
+    "size": 9.0,
+    "lines": [
+      "Project target/implementation"
+    ],
+    "estimatedHeight": 0.14
+  },
+  {
+    "slide": 11,
+    "role": "architecture layer",
+    "text": "AI",
+    "box": [
+      10.69,
+      5.720000000000001,
+      1.3,
+      0.3
+    ],
+    "font": "DM Mono",
+    "size": 14,
+    "lines": [
+      "AI"
+    ],
+    "estimatedHeight": 0.218
+  },
+  {
+    "slide": 11,
+    "role": "architecture component",
+    "text": "AI Core / Gen AI Hub",
+    "box": [
+      12.18,
+      5.66,
+      6.65,
+      0.39
+    ],
+    "font": "Inter",
+    "size": 22,
+    "lines": [
+      "AI Core / Gen AI Hub"
+    ],
+    "estimatedHeight": 0.342
+  },
+  {
+    "slide": 11,
+    "role": "card source",
+    "text": "SAP target; local GraphSAGE/template fallback",
+    "box": [
+      12.18,
+      6.15,
+      6.65,
+      0.24
+    ],
+    "font": "DM Mono",
+    "size": 9.0,
+    "lines": [
+      "SAP target; local GraphSAGE/template fallback"
+    ],
+    "estimatedHeight": 0.14
+  },
+  {
+    "slide": 11,
+    "role": "architecture layer",
+    "text": "DATA",
+    "box": [
+      10.69,
+      6.78,
+      1.3,
+      0.3
+    ],
+    "font": "DM Mono",
+    "size": 14,
+    "lines": [
+      "DATA"
+    ],
+    "estimatedHeight": 0.218
+  },
+  {
+    "slide": 11,
+    "role": "architecture component",
+    "text": "HANA Cloud",
+    "box": [
+      12.18,
+      6.72,
+      6.65,
+      0.39
+    ],
+    "font": "Inter",
+    "size": 22,
+    "lines": [
+      "HANA Cloud"
+    ],
+    "estimatedHeight": 0.342
+  },
+  {
+    "slide": 11,
+    "role": "card source",
+    "text": "SAP target; SQLite local",
+    "box": [
+      12.18,
+      7.21,
+      6.65,
+      0.24
+    ],
+    "font": "DM Mono",
+    "size": 9.0,
+    "lines": [
+      "SAP target; SQLite local"
+    ],
+    "estimatedHeight": 0.14
+  },
+  {
+    "slide": 11,
+    "role": "architecture layer",
+    "text": "SOURCE",
+    "box": [
+      10.69,
+      7.840000000000001,
+      1.3,
+      0.3
+    ],
+    "font": "DM Mono",
+    "size": 14,
+    "lines": [
+      "SOURCE"
+    ],
+    "estimatedHeight": 0.218
+  },
+  {
+    "slide": 11,
+    "role": "architecture component",
+    "text": "Integration Suite / S/4HANA",
+    "box": [
+      12.18,
+      7.78,
+      6.65,
+      0.39
+    ],
+    "font": "Inter",
+    "size": 22,
+    "lines": [
+      "Integration Suite / S/4HANA"
+    ],
+    "estimatedHeight": 0.342
+  },
+  {
+    "slide": 11,
+    "role": "card source",
+    "text": "SAP target; mocks local",
+    "box": [
+      12.18,
+      8.27,
+      6.65,
+      0.24
+    ],
+    "font": "DM Mono",
+    "size": 9.0,
+    "lines": [
+      "SAP target; mocks local"
+    ],
+    "estimatedHeight": 0.14
+  },
+  {
+    "slide": 12,
+    "role": "wordmark",
+    "text": "SHOCKTWIN",
+    "box": [
+      1.18,
+      0.65,
+      3.4,
+      0.32
+    ],
+    "font": "Inter",
+    "size": 18,
+    "lines": [
+      "SHOCKTWIN"
+    ],
+    "estimatedHeight": 0.28
+  },
+  {
+    "slide": 12,
+    "role": "navigation",
+    "text": "Problem",
+    "box": [
+      7.0,
+      0.69,
+      1.35,
+      0.3
+    ],
+    "font": "DM Mono",
+    "size": 13,
+    "lines": [
+      "Problem"
+    ],
+    "estimatedHeight": 0.202
+  },
+  {
+    "slide": 12,
+    "role": "navigation",
+    "text": "ShockTwin",
+    "box": [
+      8.85,
+      0.69,
+      1.75,
+      0.3
+    ],
+    "font": "DM Mono",
+    "size": 13,
+    "lines": [
+      "ShockTwin"
+    ],
+    "estimatedHeight": 0.202
+  },
+  {
+    "slide": 12,
+    "role": "navigation",
+    "text": "SAP",
+    "box": [
+      11.1,
+      0.69,
+      0.65,
+      0.3
+    ],
+    "font": "DM Mono",
+    "size": 13,
+    "lines": [
+      "SAP"
+    ],
+    "estimatedHeight": 0.202
+  },
+  {
+    "slide": 12,
+    "role": "navigation",
+    "text": "Impact",
+    "box": [
+      12.25,
+      0.69,
+      1.3,
+      0.3
+    ],
+    "font": "DM Mono",
+    "size": 13,
+    "lines": [
+      "Impact"
+    ],
+    "estimatedHeight": 0.202
+  },
+  {
+    "slide": 12,
+    "role": "page counter",
+    "text": "12 / 14",
+    "box": [
+      18.1,
+      0.69,
+      1.08,
+      0.28
+    ],
+    "font": "DM Mono",
+    "size": 13,
+    "lines": [
+      "12 / 14"
+    ],
+    "estimatedHeight": 0.202
+  },
+  {
+    "slide": 12,
+    "role": "event footer",
+    "text": "SAP HACKFEST 2026 \u00b7 RV UNIVERSITY",
+    "box": [
+      0.72,
+      10.58,
+      4.6,
+      0.24
+    ],
+    "font": "DM Mono",
+    "size": 9.5,
+    "lines": [
+      "SAP HACKFEST 2026 \u00b7 RV UNIVERSITY"
+    ],
+    "estimatedHeight": 0.148
+  },
+  {
+    "slide": 12,
+    "role": "track footer",
+    "text": "RESILIENT SUPPLY CHAINS",
+    "box": [
+      15.25,
+      10.58,
+      4.02,
+      0.24
+    ],
+    "font": "DM Mono",
+    "size": 9.5,
+    "lines": [
+      "RESILIENT SUPPLY CHAINS"
+    ],
+    "estimatedHeight": 0.148
+  },
+  {
+    "slide": 12,
+    "role": "source footer",
+    "text": "Project process record \u00b7 Published cases and persona; interviews planned",
+    "box": [
+      5.1,
+      10.48,
+      9.9,
+      0.42
+    ],
+    "font": "DM Mono",
+    "size": 8.7,
+    "lines": [
+      "Project process record \u00b7 Published cases and persona; interviews planned"
+    ],
+    "estimatedHeight": 0.143
+  },
+  {
+    "slide": 12,
+    "role": "eyebrow",
+    "text": "12 \u00b7 DESIGN THINKING",
+    "box": [
+      1.21,
+      1.68,
+      2.295651041666667,
+      0.26
+    ],
+    "font": "DM Mono",
+    "size": 13,
+    "lines": [
+      "12 \u00b7 DESIGN THINKING"
+    ],
+    "estimatedHeight": 0.202
+  },
+  {
+    "slide": 12,
+    "role": "headline",
+    "text": "Designed step by step with empathy.",
+    "font": "Instrument Serif",
+    "size": 102,
+    "accent": "with empathy.",
+    "box": [
+      0.8,
+      2.3,
+      9.1,
+      4.3
+    ],
+    "lines": [
+      "Designed step",
+      "by step",
+      "with empathy."
+    ]
+  },
+  {
+    "slide": 12,
+    "role": "single supporting sentence",
+    "text": "Published cases informed the persona; interviews and a cluster pilot are planned.",
+    "box": [
+      0.85,
+      6.67,
+      8.8,
+      1.11
+    ],
+    "font": "Inter",
+    "size": 23,
+    "lines": [
+      "Published cases informed the persona; interviews and a",
+      "cluster pilot are planned."
+    ],
+    "estimatedHeight": 0.735
+  },
+  {
+    "slide": 12,
+    "role": "design thinking phase",
+    "text": "EMPATHIZE",
+    "box": [
+      1.05,
+      8.19,
+      3.04,
+      0.3
+    ],
+    "font": "DM Mono",
+    "size": 12.7,
+    "lines": [
+      "EMPATHIZE"
+    ],
+    "estimatedHeight": 0.198
+  },
+  {
+    "slide": 12,
+    "role": "design thinking status",
+    "text": "Published cases + persona",
+    "box": [
+      1.05,
+      8.72,
+      3.04,
+      0.88
+    ],
+    "font": "Inter",
+    "size": 22,
+    "lines": [
+      "Published cases +",
+      "persona"
+    ],
+    "estimatedHeight": 0.642
+  },
+  {
+    "slide": 12,
+    "role": "card source",
+    "text": "Project process record",
+    "box": [
+      1.05,
+      9.77,
+      3.04,
+      0.23
+    ],
+    "font": "DM Mono",
+    "size": 8.5,
+    "lines": [
+      "Project process record"
+    ],
+    "estimatedHeight": 0.132
+  },
+  {
+    "slide": 12,
+    "role": "design thinking phase",
+    "text": "DEFINE",
+    "box": [
+      4.74,
+      8.19,
+      3.04,
+      0.3
+    ],
+    "font": "DM Mono",
+    "size": 12.7,
+    "lines": [
+      "DEFINE"
+    ],
+    "estimatedHeight": 0.198
+  },
+  {
+    "slide": 12,
+    "role": "design thinking status",
+    "text": "Hidden dependency\n+ response gap",
+    "box": [
+      4.74,
+      8.72,
+      3.04,
+      0.88
+    ],
+    "font": "Inter",
+    "size": 22,
+    "lines": [
+      "Hidden dependency",
+      "+ response gap"
+    ],
+    "estimatedHeight": 0.642
+  },
+  {
+    "slide": 12,
+    "role": "card source",
+    "text": "Project process record",
+    "box": [
+      4.74,
+      9.77,
+      3.04,
+      0.23
+    ],
+    "font": "DM Mono",
+    "size": 8.5,
+    "lines": [
+      "Project process record"
+    ],
+    "estimatedHeight": 0.132
+  },
+  {
+    "slide": 12,
+    "role": "design thinking phase",
+    "text": "IDEATE",
+    "box": [
+      8.43,
+      8.19,
+      3.04,
+      0.3
+    ],
+    "font": "DM Mono",
+    "size": 12.7,
+    "lines": [
+      "IDEATE"
+    ],
+    "estimatedHeight": 0.198
+  },
+  {
+    "slide": 12,
+    "role": "design thinking status",
+    "text": "One connected loop",
+    "box": [
+      8.43,
+      8.72,
+      3.04,
+      0.88
+    ],
+    "font": "Inter",
+    "size": 22,
+    "lines": [
+      "One connected loop"
+    ],
+    "estimatedHeight": 0.321
+  },
+  {
+    "slide": 12,
+    "role": "card source",
+    "text": "Project process record",
+    "box": [
+      8.43,
+      9.77,
+      3.04,
+      0.23
+    ],
+    "font": "DM Mono",
+    "size": 8.5,
+    "lines": [
+      "Project process record"
+    ],
+    "estimatedHeight": 0.132
+  },
+  {
+    "slide": 12,
+    "role": "design thinking phase",
+    "text": "PROTOTYPE",
+    "box": [
+      12.12,
+      8.19,
+      3.04,
+      0.3
+    ],
+    "font": "DM Mono",
+    "size": 12.7,
+    "lines": [
+      "PROTOTYPE"
+    ],
+    "estimatedHeight": 0.198
+  },
+  {
+    "slide": 12,
+    "role": "design thinking status",
+    "text": "Working local app",
+    "box": [
+      12.12,
+      8.72,
+      3.04,
+      0.88
+    ],
+    "font": "Inter",
+    "size": 22,
+    "lines": [
+      "Working local app"
+    ],
+    "estimatedHeight": 0.321
+  },
+  {
+    "slide": 12,
+    "role": "card source",
+    "text": "Project process record",
+    "box": [
+      12.12,
+      9.77,
+      3.04,
+      0.23
+    ],
+    "font": "DM Mono",
+    "size": 8.5,
+    "lines": [
+      "Project process record"
+    ],
+    "estimatedHeight": 0.132
+  },
+  {
+    "slide": 12,
+    "role": "design thinking phase",
+    "text": "TEST",
+    "box": [
+      15.809999999999999,
+      8.19,
+      3.04,
+      0.3
+    ],
+    "font": "DM Mono",
+    "size": 12.7,
+    "lines": [
+      "TEST"
+    ],
+    "estimatedHeight": 0.198
+  },
+  {
+    "slide": 12,
+    "role": "design thinking status",
+    "text": "Engineering tests; interviews next",
+    "box": [
+      15.809999999999999,
+      8.72,
+      3.04,
+      0.88
+    ],
+    "font": "Inter",
+    "size": 22,
+    "lines": [
+      "Engineering tests;",
+      "interviews next"
+    ],
+    "estimatedHeight": 0.642
+  },
+  {
+    "slide": 12,
+    "role": "card source",
+    "text": "Project process record",
+    "box": [
+      15.809999999999999,
+      9.77,
+      3.04,
+      0.23
+    ],
+    "font": "DM Mono",
+    "size": 8.5,
+    "lines": [
+      "Project process record"
+    ],
+    "estimatedHeight": 0.132
+  },
+  {
+    "slide": 13,
+    "role": "wordmark",
+    "text": "SHOCKTWIN",
+    "box": [
+      1.18,
+      0.65,
+      3.4,
+      0.32
+    ],
+    "font": "Inter",
+    "size": 18,
+    "lines": [
+      "SHOCKTWIN"
+    ],
+    "estimatedHeight": 0.28
+  },
+  {
+    "slide": 13,
+    "role": "navigation",
+    "text": "Problem",
+    "box": [
+      7.0,
+      0.69,
+      1.35,
+      0.3
+    ],
+    "font": "DM Mono",
+    "size": 13,
+    "lines": [
+      "Problem"
+    ],
+    "estimatedHeight": 0.202
+  },
+  {
+    "slide": 13,
+    "role": "navigation",
+    "text": "ShockTwin",
+    "box": [
+      8.85,
+      0.69,
+      1.75,
+      0.3
+    ],
+    "font": "DM Mono",
+    "size": 13,
+    "lines": [
+      "ShockTwin"
+    ],
+    "estimatedHeight": 0.202
+  },
+  {
+    "slide": 13,
+    "role": "navigation",
+    "text": "SAP",
+    "box": [
+      11.1,
+      0.69,
+      0.65,
+      0.3
+    ],
+    "font": "DM Mono",
+    "size": 13,
+    "lines": [
+      "SAP"
+    ],
+    "estimatedHeight": 0.202
+  },
+  {
+    "slide": 13,
+    "role": "navigation",
+    "text": "Impact",
+    "box": [
+      12.25,
+      0.69,
+      1.3,
+      0.3
+    ],
+    "font": "DM Mono",
+    "size": 13,
+    "lines": [
+      "Impact"
+    ],
+    "estimatedHeight": 0.202
+  },
+  {
+    "slide": 13,
+    "role": "page counter",
+    "text": "13 / 14",
+    "box": [
+      18.1,
+      0.69,
+      1.08,
+      0.28
+    ],
+    "font": "DM Mono",
+    "size": 13,
+    "lines": [
+      "13 / 14"
+    ],
+    "estimatedHeight": 0.202
+  },
+  {
+    "slide": 13,
+    "role": "event footer",
+    "text": "SAP HACKFEST 2026 \u00b7 RV UNIVERSITY",
+    "box": [
+      0.72,
+      10.58,
+      4.6,
+      0.24
+    ],
+    "font": "DM Mono",
+    "size": 9.5,
+    "lines": [
+      "SAP HACKFEST 2026 \u00b7 RV UNIVERSITY"
+    ],
+    "estimatedHeight": 0.148
+  },
+  {
+    "slide": 13,
+    "role": "track footer",
+    "text": "RESILIENT SUPPLY CHAINS",
+    "box": [
+      15.25,
+      10.58,
+      4.02,
+      0.24
+    ],
+    "font": "DM Mono",
+    "size": 9.5,
+    "lines": [
+      "RESILIENT SUPPLY CHAINS"
+    ],
+    "estimatedHeight": 0.148
+  },
+  {
+    "slide": 13,
+    "role": "source footer",
+    "text": "MGI 2020 \u00b7 Collaboration studies from brief [original sources VERIFY] \u00b7 Not product results",
+    "box": [
+      5.1,
+      10.48,
+      9.9,
+      0.42
+    ],
+    "font": "DM Mono",
+    "size": 8.7,
+    "lines": [
+      "MGI 2020 \u00b7 Collaboration studies from brief [original sources VERIFY] \u00b7 Not product results"
+    ],
+    "estimatedHeight": 0.143
+  },
+  {
+    "slide": 13,
+    "role": "eyebrow",
+    "text": "13 \u00b7 VALUE CONTEXT",
+    "box": [
+      1.21,
+      1.68,
+      2.0830859375,
+      0.26
+    ],
+    "font": "DM Mono",
+    "size": 13,
+    "lines": [
+      "13 \u00b7 VALUE CONTEXT"
+    ],
+    "estimatedHeight": 0.202
+  },
+  {
+    "slide": 13,
+    "role": "headline",
+    "text": "What resilience is worth.",
+    "font": "Instrument Serif",
+    "size": 112,
+    "accent": "resilience",
+    "box": [
+      0.8,
+      2.3,
+      9.1,
+      4.3
+    ],
+    "lines": [
+      "What resilience",
+      "is worth."
+    ]
+  },
+  {
+    "slide": 13,
+    "role": "single supporting sentence",
+    "text": "Published context motivates the product; these are not measured ShockTwin savings.",
+    "box": [
+      0.85,
+      6.67,
+      8.8,
+      1.11
+    ],
+    "font": "Inter",
+    "size": 23,
+    "lines": [
+      "Published context motivates the product; these are not",
+      "measured ShockTwin savings."
+    ],
+    "estimatedHeight": 0.735
+  },
+  {
+    "slide": 13,
+    "role": "statistic label",
+    "text": "DECADE DISRUPTION COST",
+    "box": [
+      10.68,
+      4.33,
+      3.71,
+      0.5
+    ],
+    "font": "DM Mono",
+    "size": 13,
+    "lines": [
+      "DECADE DISRUPTION COST"
+    ],
+    "estimatedHeight": 0.193
+  },
+  {
+    "slide": 13,
+    "role": "editable statistic",
+    "text": "~45%",
+    "box": [
+      10.68,
+      4.8500000000000005,
+      3.71,
+      1.65
+    ],
+    "font": "Silkscreen",
+    "size": 45,
+    "lines": [
+      "~45%"
+    ],
+    "estimatedHeight": 0.656
+  },
+  {
+    "slide": 13,
+    "role": "card source",
+    "text": "MGI 2020; fraction of one year\u2019s profits",
+    "box": [
+      10.68,
+      6.32,
+      3.71,
+      0.39
+    ],
+    "font": "DM Mono",
+    "size": 10,
+    "lines": [
+      "MGI 2020; fraction of one year\u2019s profits"
+    ],
+    "estimatedHeight": 0.156
+  },
+  {
+    "slide": 13,
+    "role": "statistic label",
+    "text": "LEAD TIME",
+    "box": [
+      15.16,
+      4.33,
+      3.71,
+      0.5
+    ],
+    "font": "DM Mono",
+    "size": 13,
+    "lines": [
+      "LEAD TIME"
+    ],
+    "estimatedHeight": 0.193
+  },
+  {
+    "slide": 13,
+    "role": "editable statistic",
+    "text": "-30.8%",
+    "box": [
+      15.16,
+      4.8500000000000005,
+      3.71,
+      1.65
+    ],
+    "font": "Silkscreen",
+    "size": 45,
+    "lines": [
+      "-30.8%"
+    ],
+    "estimatedHeight": 0.656
+  },
+  {
+    "slide": 13,
+    "role": "card source",
+    "text": "Collaboration study from brief [original source VERIFY]",
+    "box": [
+      15.16,
+      6.32,
+      3.71,
+      0.39
+    ],
+    "font": "DM Mono",
+    "size": 10,
+    "lines": [
+      "Collaboration study from brief [original",
+      "source VERIFY]"
+    ],
+    "estimatedHeight": 0.311
+  },
+  {
+    "slide": 13,
+    "role": "statistic label",
+    "text": "TRANSPORT COST",
+    "box": [
+      10.68,
+      7.25,
+      3.71,
+      0.5
+    ],
+    "font": "DM Mono",
+    "size": 13,
+    "lines": [
+      "TRANSPORT COST"
+    ],
+    "estimatedHeight": 0.193
+  },
+  {
+    "slide": 13,
+    "role": "editable statistic",
+    "text": "-25.83%",
+    "box": [
+      10.68,
+      7.7700000000000005,
+      3.71,
+      1.65
+    ],
+    "font": "Silkscreen",
+    "size": 45,
+    "lines": [
+      "-25.83%"
+    ],
+    "estimatedHeight": 0.656
+  },
+  {
+    "slide": 13,
+    "role": "card source",
+    "text": "Collaboration study from brief [original source VERIFY]",
+    "box": [
+      10.68,
+      9.24,
+      3.71,
+      0.39
+    ],
+    "font": "DM Mono",
+    "size": 10,
+    "lines": [
+      "Collaboration study from brief [original",
+      "source VERIFY]"
+    ],
+    "estimatedHeight": 0.311
+  },
+  {
+    "slide": 13,
+    "role": "statistic label",
+    "text": "MONTH-LONG SHOCK",
+    "box": [
+      15.16,
+      7.25,
+      3.71,
+      0.5
+    ],
+    "font": "DM Mono",
+    "size": 13,
+    "lines": [
+      "MONTH-LONG SHOCK"
+    ],
+    "estimatedHeight": 0.193
+  },
+  {
+    "slide": 13,
+    "role": "editable statistic",
+    "text": "~Every 3.7 years",
+    "box": [
+      15.16,
+      7.7700000000000005,
+      3.71,
+      1.65
+    ],
+    "font": "Silkscreen",
+    "size": 32,
+    "lines": [
+      "~Every 3.7",
+      "years"
+    ],
+    "estimatedHeight": 0.933
+  },
+  {
+    "slide": 13,
+    "role": "card source",
+    "text": "MGI, 2020",
+    "box": [
+      15.16,
+      9.24,
+      3.71,
+      0.39
+    ],
+    "font": "DM Mono",
+    "size": 10,
+    "lines": [
+      "MGI, 2020"
+    ],
+    "estimatedHeight": 0.156
+  },
+  {
+    "slide": 14,
+    "role": "wordmark",
+    "text": "SHOCKTWIN",
+    "box": [
+      1.18,
+      0.65,
+      3.4,
+      0.32
+    ],
+    "font": "Inter",
+    "size": 18,
+    "lines": [
+      "SHOCKTWIN"
+    ],
+    "estimatedHeight": 0.28
+  },
+  {
+    "slide": 14,
+    "role": "navigation",
+    "text": "Problem",
+    "box": [
+      7.0,
+      0.69,
+      1.35,
+      0.3
+    ],
+    "font": "DM Mono",
+    "size": 13,
+    "lines": [
+      "Problem"
+    ],
+    "estimatedHeight": 0.202
+  },
+  {
+    "slide": 14,
+    "role": "navigation",
+    "text": "ShockTwin",
+    "box": [
+      8.85,
+      0.69,
+      1.75,
+      0.3
+    ],
+    "font": "DM Mono",
+    "size": 13,
+    "lines": [
+      "ShockTwin"
+    ],
+    "estimatedHeight": 0.202
+  },
+  {
+    "slide": 14,
+    "role": "navigation",
+    "text": "SAP",
+    "box": [
+      11.1,
+      0.69,
+      0.65,
+      0.3
+    ],
+    "font": "DM Mono",
+    "size": 13,
+    "lines": [
+      "SAP"
+    ],
+    "estimatedHeight": 0.202
+  },
+  {
+    "slide": 14,
+    "role": "navigation",
+    "text": "Impact",
+    "box": [
+      12.25,
+      0.69,
+      1.3,
+      0.3
+    ],
+    "font": "DM Mono",
+    "size": 13,
+    "lines": [
+      "Impact"
+    ],
+    "estimatedHeight": 0.202
+  },
+  {
+    "slide": 14,
+    "role": "page counter",
+    "text": "14 / 14",
+    "box": [
+      18.1,
+      0.69,
+      1.08,
+      0.28
+    ],
+    "font": "DM Mono",
+    "size": 13,
+    "lines": [
+      "14 / 14"
+    ],
+    "estimatedHeight": 0.202
+  },
+  {
+    "slide": 14,
+    "role": "event footer",
+    "text": "SAP HACKFEST 2026 \u00b7 RV UNIVERSITY",
+    "box": [
+      0.72,
+      10.58,
+      4.6,
+      0.24
+    ],
+    "font": "DM Mono",
+    "size": 9.5,
+    "lines": [
+      "SAP HACKFEST 2026 \u00b7 RV UNIVERSITY"
+    ],
+    "estimatedHeight": 0.148
+  },
+  {
+    "slide": 14,
+    "role": "track footer",
+    "text": "RESILIENT SUPPLY CHAINS",
+    "box": [
+      15.25,
+      10.58,
+      4.02,
+      0.24
+    ],
+    "font": "DM Mono",
+    "size": 9.5,
+    "lines": [
+      "RESILIENT SUPPLY CHAINS"
+    ],
+    "estimatedHeight": 0.148
+  },
+  {
+    "slide": 14,
+    "role": "source footer",
+    "text": "Team, P-ID and proposed next step: supplied brief \u00b7 Pilot commitment [VERIFY]",
+    "box": [
+      5.1,
+      10.48,
+      9.9,
+      0.42
+    ],
+    "font": "DM Mono",
+    "size": 8.7,
+    "lines": [
+      "Team, P-ID and proposed next step: supplied brief \u00b7 Pilot commitment [VERIFY]"
+    ],
+    "estimatedHeight": 0.143
+  },
+  {
+    "slide": 14,
+    "role": "eyebrow",
+    "text": "14 \u00b7 NEXT STEP",
+    "box": [
+      1.21,
+      1.68,
+      1.6579557291666667,
+      0.26
+    ],
+    "font": "DM Mono",
+    "size": 13,
+    "lines": [
+      "14 \u00b7 NEXT STEP"
+    ],
+    "estimatedHeight": 0.202
+  },
+  {
+    "slide": 14,
+    "role": "headline",
+    "text": "Never be surprised again.",
+    "font": "Instrument Serif",
+    "size": 110,
+    "accent": "surprised again.",
+    "box": [
+      0.8,
+      2.3,
+      9.1,
+      4.3
+    ],
+    "lines": [
+      "Never be",
+      "surprised again."
+    ]
+  },
+  {
+    "slide": 14,
+    "role": "single supporting sentence",
+    "text": "Next: a BTP-connected prototype and a pilot with one Bengaluru auto-parts cluster.",
+    "box": [
+      0.85,
+      6.67,
+      8.8,
+      1.11
+    ],
+    "font": "Inter",
+    "size": 23,
+    "lines": [
+      "Next: a BTP-connected prototype and a pilot with one",
+      "Bengaluru auto-parts cluster."
+    ],
+    "estimatedHeight": 0.735
+  },
+  {
+    "slide": 14,
+    "role": "statistic label",
+    "text": "NEXT STEP",
+    "box": [
+      1.08,
+      8.33,
+      8.19,
+      0.5
+    ],
+    "font": "DM Mono",
+    "size": 13,
+    "lines": [
+      "NEXT STEP"
+    ],
+    "estimatedHeight": 0.193
+  },
+  {
+    "slide": 14,
+    "role": "editable statistic",
+    "text": "BTP + cluster pilot",
+    "box": [
+      1.08,
+      8.85,
+      8.19,
+      0.95
+    ],
+    "font": "Inter",
+    "size": 31,
+    "lines": [
+      "BTP + cluster pilot"
+    ],
+    "estimatedHeight": 0.452
+  },
+  {
+    "slide": 14,
+    "role": "card source",
+    "text": "Proposed project plan; no partner commitment",
+    "box": [
+      1.08,
+      9.62,
+      8.19,
+      0.39
+    ],
+    "font": "DM Mono",
+    "size": 10,
+    "lines": [
+      "Proposed project plan; no partner commitment"
+    ],
+    "estimatedHeight": 0.156
+  },
+  {
+    "slide": 14,
+    "role": "team label",
+    "text": "TEAM",
+    "box": [
+      10.7,
+      8.34,
+      5.55,
+      0.3
+    ],
+    "font": "DM Mono",
+    "size": 13,
+    "lines": [
+      "TEAM"
+    ],
+    "estimatedHeight": 0.202
+  },
+  {
+    "slide": 14,
+    "role": "team",
+    "text": "Francis Reuben R \u00b7 Avaneesh\nAffan \u00b7 Vivek",
+    "box": [
+      10.7,
+      8.8,
+      5.55,
+      0.75
+    ],
+    "font": "Inter",
+    "size": 21.5,
+    "lines": [
+      "Francis Reuben R \u00b7 Avaneesh",
+      "Affan \u00b7 Vivek"
+    ],
+    "estimatedHeight": 0.669
+  },
+  {
+    "slide": 14,
+    "role": "project id label",
+    "text": "P-ID",
+    "box": [
+      16.5,
+      8.34,
+      2.3,
+      0.3
+    ],
+    "font": "DM Mono",
+    "size": 13,
+    "lines": [
+      "P-ID"
+    ],
+    "estimatedHeight": 0.202
+  },
+  {
+    "slide": 14,
+    "role": "project id",
+    "text": "P2012988948",
+    "box": [
+      16.5,
+      8.91,
+      2.3,
+      0.4
+    ],
+    "font": "DM Mono",
+    "size": 19,
+    "lines": [
+      "P2012988948"
+    ],
+    "estimatedHeight": 0.296
+  },
+  {
+    "slide": 14,
+    "role": "card source",
+    "text": "Team and P-ID: supplied brief",
+    "box": [
+      10.7,
+      9.71,
+      8.0,
+      0.25
+    ],
+    "font": "DM Mono",
+    "size": 10,
+    "lines": [
+      "Team and P-ID: supplied brief"
+    ],
+    "estimatedHeight": 0.156
+  }
+]

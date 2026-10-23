@@ -1,0 +1,14 @@
+{
+  "slide": 5,
+  "method": "Native image_gen generation; image only resampled/cropped for requested 1920x1080 slide canvas",
+  "originalSource": "/workspace/generated_images/exec-73595d52-99d1-47d5-ac9a-3f01dd71ce74.png",
+  "nativeSize": [
+    1672,
+    941
+  ],
+  "outputSize": [
+    1920,
+    1080
+  ],
+  "output": "slide-05.png"
+}

@@ -1,0 +1,262 @@
+{
+  "label": "Illustrative local app captures",
+  "capturedAt": "2026-10-23T07:28:05.445Z",
+  "baseUrl": "http://127.0.0.1:4004",
+  "viewport": {
+    "width": 1920,
+    "height": 1080,
+    "deviceScaleFactor": 1
+  },
+  "browser": "Playwright Chromium",
+  "captureMethod": "Actual browser UI actions; unmodified viewport screenshots",
+  "businessData": "Illustrative",
+  "erpMode": "mock",
+  "modelDomain": "synthetic",
+  "actions": [
+    {
+      "timestamp": "2026-10-23T07:28:05.547Z",
+      "route": "/api/demo/reset",
+      "meaning": "Reset local Illustrative fixture only"
+    },
+    {
+      "timestamp": "2026-10-23T07:28:09.632Z",
+      "route": "/api/risk/infer",
+      "button": "Detect hidden links"
+    },
+    {
+      "timestamp": "2026-10-23T07:28:14.841Z",
+      "route": "/api/risk/links/hidden-1/decision",
+      "button": "Confirm link"
+    },
+    {
+      "timestamp": "2026-10-23T07:28:15.219Z",
+      "route": "/api/risk/links/hidden-2/decision",
+      "button": "Confirm link"
+    },
+    {
+      "timestamp": "2026-10-23T07:28:15.597Z",
+      "route": "/api/risk/links/hidden-3/decision",
+      "button": "Confirm link"
+    },
+    {
+      "timestamp": "2026-10-23T07:28:16.065Z",
+      "route": "/api/simulations",
+      "button": "Run scenario"
+    },
+    {
+      "timestamp": "2026-10-23T07:28:20.873Z",
+      "route": "/api/mesh/matches",
+      "button": "Find capacity"
+    },
+    {
+      "timestamp": "2026-10-23T07:28:25.633Z",
+      "route": "/api/pos",
+      "button": "Draft PO"
+    },
+    {
+      "timestamp": "2026-10-23T07:28:30.368Z",
+      "route": "/api/pos/40a46245-b702-4cb1-afbc-0546929d3b71/decision",
+      "button": "Approve"
+    }
+  ],
+  "captures": [
+    {
+      "filename": "docs/screenshots/risk-map.png",
+      "timestamp": "2026-10-23T07:28:14.779Z",
+      "route": "http://127.0.0.1:4004/#risk-map",
+      "state": "Three actual synthetic-model candidates proposed; dashed amber graph edges; before human confirmation",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "e3d7de08b40a24eeadfb40cd5d3dfc794845fa587940baaa9de472e639650e63"
+    },
+    {
+      "filename": "docs/screenshots/simulator.png",
+      "timestamp": "2026-10-23T07:28:20.739Z",
+      "route": "http://127.0.0.1:4004/#simulator",
+      "state": "Actual default cyclone, duration 28, severity 1, day-3 replacement; baseline exhaustion day 18",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "41399d4bfffd7ded252a7c01c084161283a3643e0d07ffbb69616e25d2fc4916"
+    },
+    {
+      "filename": "docs/screenshots/capacitymesh.png",
+      "timestamp": "2026-10-23T07:28:25.543Z",
+      "route": "http://127.0.0.1:4004/#capacitymesh",
+      "state": "Three actual eligible moulding matches within 150 km and transparent rank factors",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "7e57f80192132c8b2b43bdcb2d421c06a32c10fd6c1072bd80cdaf399051f195"
+    },
+    {
+      "filename": "docs/screenshots/approval-pending.png",
+      "timestamp": "2026-10-23T07:28:30.288Z",
+      "route": "http://127.0.0.1:4004/#approvals",
+      "state": "Actual pending mock ERP draft before explicit human approval",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "a55115404e96ef19c3c2497472144ddfe88f95751dfb18523a14f1f9049dbf41"
+    },
+    {
+      "filename": "docs/screenshots/approval.png",
+      "timestamp": "2026-10-23T07:28:34.979Z",
+      "route": "http://127.0.0.1:4004/#approvals",
+      "state": "Actual approved mock PO and persisted audit trail after human Approve action",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "3e2db4a24a060fd2b79288abcc618fef2db692bebf1c74723abbc9f4a92d7841"
+    }
+  ],
+  "pageErrors": [],
+  "model": {
+    "version": "synthetic-graphsage-v1",
+    "trainingDomain": "synthetic",
+    "metricsLabel": "Synthetic-data results",
+    "metrics": {
+      "label": "Synthetic-data results",
+      "illustrative": true,
+      "modelVersion": "synthetic-graphsage-v1",
+      "seed": 2026,
+      "epochsRequested": 180,
+      "selectedEpoch": 174,
+      "selectionCriterion": "minimum validation binary cross entropy",
+      "test": {
+        "rocAuc": 0.9971938775510204,
+        "averagePrecision": 0.9964846298889942,
+        "precisionAt05": 0.9928571428571429,
+        "recallAt05": 0.9928571428571429,
+        "positiveEdges": 140,
+        "negativeEdges": 140
+      },
+      "split": {
+        "nodes": 320,
+        "positiveEdges": 930,
+        "trainPositive": 651,
+        "validationPositive": 139,
+        "testPositive": 140,
+        "messagePassingPositiveEdges": 651,
+        "heldOutEdgesLeakedIntoMessagePassing": 0,
+        "method": "Random disjoint edge split; 70% training, 15% validation, remainder test; same synthetic nodes across splits",
+        "negativeSampling": "PyG sampled nonedges, constrained to plausible role directions; all positives excluded; balanced test labels"
+      },
+      "limitations": [
+        "Synthetic homophilic material/region generator; these results do not measure real supplier-network accuracy.",
+        "Transductive edge split shares nodes and material/region patterns; it is not a held-out-company or temporal evaluation.",
+        "Most sampled negatives are geographically/material incompatible; this task may be much easier than real hidden-link detection.",
+        "Confidence is an uncalibrated model score, not a verified relationship probability.",
+        "Evidence lists describe observable features, not causal feature attribution."
+      ],
+      "trainedAt": "2026-10-23T01:20:59.674417+00:00",
+      "weightsSha256": "6fb12db0df59d07a5bb26f52901f6cdcb701e1d9a5b8287e4b752c8e629b9f7b"
+    },
+    "metricsSource": "ml/model/metrics.json",
+    "displayThreshold": 0.6,
+    "reviewThreshold": 0.8,
+    "calibratedProbability": false,
+    "evidenceMethod": "Observable input feature descriptions; not causal attribution"
+  },
+  "actualLinkScores": [
+    {
+      "id": "hidden-1",
+      "source": "resin-plant",
+      "target": "s1",
+      "confidence": 0.9051573276519775,
+      "reviewStatus": "proposed",
+      "evidence": [
+        "Shared observable material family: resin",
+        "Illustrative coordinate separation: 296.8 km",
+        "Upstream plant to tier-1 supplier role is structurally plausible"
+      ]
+    },
+    {
+      "id": "hidden-2",
+      "source": "resin-plant",
+      "target": "s2",
+      "confidence": 0.9277125597000122,
+      "reviewStatus": "proposed",
+      "evidence": [
+        "Shared observable material family: resin",
+        "Illustrative coordinate separation: 274.4 km",
+        "Upstream plant to tier-1 supplier role is structurally plausible"
+      ]
+    },
+    {
+      "id": "hidden-3",
+      "source": "resin-plant",
+      "target": "s3",
+      "confidence": 0.9584254026412964,
+      "reviewStatus": "proposed",
+      "evidence": [
+        "Shared observable material family: resin",
+        "Illustrative coordinate separation: 256.8 km",
+        "Upstream plant to tier-1 supplier role is structurally plausible"
+      ]
+    }
+  ],
+  "scenarioId": "ae1075d5-7c7e-4e14-b3bc-e8f9154b2761",
+  "simulation": {
+    "assumptions": {
+      "shockType": "cyclone",
+      "nodeId": "resin-plant",
+      "materialId": "resin",
+      "duration": 28,
+      "severity": 1,
+      "switchDay": 3,
+      "horizon": 30,
+      "dailyDemand": 100,
+      "replacementVolume": 100,
+      "includeInferred": true,
+      "initialInventory": 1800,
+      "propagatedLoss": 1,
+      "restartLeadTime": 0
+    },
+    "daysToStockout": 18,
+    "mitigatedDaysToStockout": null,
+    "revenueAtRisk": 560000,
+    "currency": "INR"
+  },
+  "matches": [
+    {
+      "id": "fa70e147-e5a1-43a1-a19c-f8945ec62950",
+      "listingId": "capacity-1",
+      "score": 0.849789,
+      "distanceKm": 35.8
+    },
+    {
+      "id": "8828dc15-9875-47cc-9d62-c8b3eb650985",
+      "listingId": "capacity-2",
+      "score": 0.803668,
+      "distanceKm": 67.4
+    },
+    {
+      "id": "4bfca742-4dda-4b3f-bb67-800f104229ed",
+      "listingId": "capacity-3",
+      "score": 0.671055,
+      "distanceKm": 90.9
+    }
+  ],
+  "draft": {
+    "id": "40a46245-b702-4cb1-afbc-0546929d3b71",
+    "externalId": "MOCK-93cc6258-7f53-4f85-8ab6-3db232d98b4b",
+    "status": "approved",
+    "mode": "mock",
+    "createdBy": "Priya",
+    "decidedAt": "2026-10-23T07:28:30.350Z"
+  },
+  "gif": {
+    "path": "docs/screenshots/demo.gif",
+    "createdAt": "2026-10-23T07:29:33.809214+00:00",
+    "description": "Slideshow of real captured app states, not a continuous cursor recording or live transaction",
+    "sourceFrames": [
+      "docs/screenshots/risk-map.png",
+      "docs/screenshots/simulator.png",
+      "docs/screenshots/capacitymesh.png",
+      "docs/screenshots/approval-pending.png",
+      "docs/screenshots/approval.png"
+    ],
+    "frameDurationsMs": [4000, 5000, 5000, 3000, 5000],
+    "width": 1280,
+    "height": 720,
+    "transformations": ["Proportional downscale", "GIF palette quantization"],
+    "sha256": "ed18168c9c39c077d59025ad048050c620541efa73b4f739bfb226c08f222e7d"
+  }
+}

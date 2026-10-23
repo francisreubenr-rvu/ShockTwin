@@ -1,0 +1,16 @@
+{
+  "slide": 8,
+  "method": "Native image_gen generation plus one native edit to correct botanical plant misinterpretation to industrial resin factory; image only resampled/cropped for requested 1920x1080 slide canvas",
+  "originalSource": "/workspace/generated_images/exec-1a365a43-90e9-42ef-834d-e212861d5c12.png",
+  "nativeSize": [
+    1672,
+    941
+  ],
+  "outputSize": [
+    1920,
+    1080
+  ],
+  "output": "slide-08.png",
+  "generationAttempts": 2,
+  "rejectedFirstSource": "/workspace/generated_images/exec-995b03a3-c4bb-449f-97b8-d81ca1bc9bb6.png"
+}

@@ -1,0 +1,124 @@
+{
+  "illustrative": true,
+  "matches": [
+    {
+      "listingId": "capacity-1",
+      "capacityType": "moulding",
+      "location": "Hosur · Illustrative",
+      "distanceKm": 35.8,
+      "priceBand": "medium",
+      "score": 0.849789,
+      "eligible": true,
+      "breakdown": {
+        "capability": {
+          "score": 0.99,
+          "weight": 0.3,
+          "contribution": 0.297
+        },
+        "distance": {
+          "score": 0.761157,
+          "weight": 0.25,
+          "contribution": 0.190289
+        },
+        "volume": {
+          "score": 1,
+          "weight": 0.2,
+          "contribution": 0.2
+        },
+        "leadTime": {
+          "score": 0.75,
+          "weight": 0.15,
+          "contribution": 0.1125
+        },
+        "priceBand": {
+          "score": 0.5,
+          "weight": 0.1,
+          "contribution": 0.05
+        }
+      },
+      "illustrative": true,
+      "id": "fa70e147-e5a1-43a1-a19c-f8945ec62950",
+      "explanation": "This qualified demo option ranks first on the displayed capability, distance, volume, lead-time and price-band factors."
+    },
+    {
+      "listingId": "capacity-2",
+      "capacityType": "moulding",
+      "location": "Tumakuru · Illustrative",
+      "distanceKm": 67.4,
+      "priceBand": "low",
+      "score": 0.803668,
+      "eligible": true,
+      "breakdown": {
+        "capability": {
+          "score": 0.97,
+          "weight": 0.3,
+          "contribution": 0.291
+        },
+        "distance": {
+          "score": 0.550672,
+          "weight": 0.25,
+          "contribution": 0.137668
+        },
+        "volume": {
+          "score": 1,
+          "weight": 0.2,
+          "contribution": 0.2
+        },
+        "leadTime": {
+          "score": 0.5,
+          "weight": 0.15,
+          "contribution": 0.075
+        },
+        "priceBand": {
+          "score": 1,
+          "weight": 0.1,
+          "contribution": 0.1
+        }
+      },
+      "illustrative": true,
+      "id": "8828dc15-9875-47cc-9d62-c8b3eb650985",
+      "explanation": "This eligible demo option meets the requested capacity, date, distance and volume constraints."
+    },
+    {
+      "listingId": "capacity-3",
+      "capacityType": "moulding",
+      "location": "Mandya · Illustrative",
+      "distanceKm": 90.9,
+      "priceBand": "medium",
+      "score": 0.671055,
+      "eligible": true,
+      "breakdown": {
+        "capability": {
+          "score": 0.95,
+          "weight": 0.3,
+          "contribution": 0.285
+        },
+        "distance": {
+          "score": 0.394219,
+          "weight": 0.25,
+          "contribution": 0.098555
+        },
+        "volume": {
+          "score": 1,
+          "weight": 0.2,
+          "contribution": 0.2
+        },
+        "leadTime": {
+          "score": 0.25,
+          "weight": 0.15,
+          "contribution": 0.0375
+        },
+        "priceBand": {
+          "score": 0.5,
+          "weight": 0.1,
+          "contribution": 0.05
+        }
+      },
+      "illustrative": true,
+      "id": "4bfca742-4dda-4b3f-bb67-800f104229ed",
+      "explanation": "This eligible demo option meets the requested capacity, date, distance and volume constraints."
+    }
+  ],
+  "totalEligible": 3,
+  "scoringRule": "Capability .30 + distance .25 + volume .20 + lead time .15 + price band .10; design weights, not validated economics."
+}

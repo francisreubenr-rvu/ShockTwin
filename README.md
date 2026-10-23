@@ -19,7 +19,11 @@ A buyer can know its immediate suppliers while missing the upstream plant they s
 
 CapacityMesh is ShockTwin's response step. No autonomous purchase approval is permitted.
 
-Demo GIF placeholder: `docs/screenshots/demo.gif` — replace with a recording of the real tested workflow. Real app captures are stored in `docs/screenshots/` for the pitch deck.
+![ShockTwin real-app walkthrough: Detect, Simulate, Respond and Approve](docs/screenshots/demo.gif)
+
+This GIF cycles through real captured app states; it is a slideshow, not a continuous cursor recording or live transaction. The original 1920×1080 captures, exact simulation response and [capture provenance](docs/SCREENSHOT_PROVENANCE.json) are included.
+
+Presentation: [editable PowerPoint](presentations/ShockTwin_SAP_HackFest.pptx) · [projector-safe PDF](presentations/ShockTwin_SAP_HackFest.pdf) · [slide previews](presentations/previews/).
 
 > **Illustrative demo:** all company, supplier, inventory, order, signal, price and capacity records are illustrative. Synthetic model metrics do not establish real-network accuracy. A local approved mock PO does not place a real order in SAP.
 

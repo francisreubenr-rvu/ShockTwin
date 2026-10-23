@@ -1,0 +1,95 @@
+{
+  "slides": 14,
+  "nativeCharts": 3,
+  "speakerNotes": 14,
+  "spokenSeconds": 450,
+  "uniqueBackgrounds": 14,
+  "editableText": true,
+  "fontsEmbedded": false,
+  "pptx": "presentations/ShockTwin_SAP_HackFest.pptx",
+  "pptxSha256": "7935cd94708d38e72a8945d1bab0926a2cb06b63faac02953d70d6c2c2cc1229",
+  "canvasInches": [
+    20.0,
+    11.25
+  ],
+  "backgroundInputs": [
+    {
+      "slide": 1,
+      "path": "presentations/backgrounds/slide-01.png",
+      "sha256": "88c87caccbd13edda102490542203516e62a0dd260d3a4d5a2fdcd899020fba6"
+    },
+    {
+      "slide": 2,
+      "path": "presentations/backgrounds/slide-02.png",
+      "sha256": "b68a0c0f1c98ffb161905216edcef08cf7469e7c33f6b3bad6cbb6731f560170"
+    },
+    {
+      "slide": 3,
+      "path": "presentations/backgrounds/slide-03.png",
+      "sha256": "0c2c64c100e3fb299514798fd7f38f87fd862a75b176ab50f8df2135c8dbd843"
+    },
+    {
+      "slide": 4,
+      "path": "presentations/backgrounds/slide-04.png",
+      "sha256": "23f13af3a33255b84c62399ac638e85368f6afedc62e3e55d41baa812a15a6e9"
+    },
+    {
+      "slide": 5,
+      "path": "presentations/backgrounds/slide-05.png",
+      "sha256": "79132bad3dc7fe0e0cf98aa9e8396b992437ac283c03b1c771fe5dd9d0e4500a"
+    },
+    {
+      "slide": 6,
+      "path": "presentations/backgrounds/slide-06.png",
+      "sha256": "ccc9a951ecec58608725b7edd7971eb4803571cab16f6d30b4f362dbcfad4962"
+    },
+    {
+      "slide": 7,
+      "path": "presentations/backgrounds/slide-07.png",
+      "sha256": "b1c0288b0182affa3ed38e0d4dcaecce98aa1688aa3d180935eb437980b641be"
+    },
+    {
+      "slide": 8,
+      "path": "presentations/backgrounds/slide-08.png",
+      "sha256": "480e8e245049a4c3aa6c4e088edf6e68f899d1922b5018b1cf345fd08f792206"
+    },
+    {
+      "slide": 9,
+      "path": "presentations/backgrounds/slide-09.png",
+      "sha256": "0536c23e4be34a64178711ee76e92f5953939337eb5bc5362582b5811e4a3c61"
+    },
+    {
+      "slide": 10,
+      "path": "presentations/backgrounds/slide-10.png",
+      "sha256": "41c4481d0ca2e62fb6b40e1f3f1f185e41f06344cc447d5f0b27b4aefaa06df7"
+    },
+    {
+      "slide": 11,
+      "path": "presentations/backgrounds/slide-11.png",
+      "sha256": "76cfdfc2cea01e7fbab2f52c9756e7abec2e07c73021fdf5dcdeb47e21dd3913"
+    },
+    {
+      "slide": 12,
+      "path": "presentations/backgrounds/slide-12.png",
+      "sha256": "b760bd8e7bdc69e300423f284bb452feae63991ca3f78dba2b72308e3247c1a2"
+    },
+    {
+      "slide": 13,
+      "path": "presentations/backgrounds/slide-13.png",
+      "sha256": "887561fde05329265624abd85066bd7b820689c1dd2471ae538ac19f456bfdab"
+    },
+    {
+      "slide": 14,
+      "path": "presentations/backgrounds/slide-14.png",
+      "sha256": "e78bf5808cf486ef2a04e46df700316b2175e90a8cfc952e5d27ecc93cd46631"
+    }
+  ],
+  "screenshots": "docs/SCREENSHOT_PROVENANCE.json",
+  "simulationInput": "docs/screenshots/simulation-result.json",
+  "composition": "Gaussian-blurred actual background crops with native text and borders",
+  "fontLicenseDirectory": "presentations/fonts",
+  "visualReview": "Required after every export; see QA.md",
+  "pdf": "presentations/ShockTwin_SAP_HackFest.pdf",
+  "previews": "presentations/previews/slide-01.png \u2026 slide-14.png",
+  "contactSheet": "presentations/previews/contact-sheet.png"
+}

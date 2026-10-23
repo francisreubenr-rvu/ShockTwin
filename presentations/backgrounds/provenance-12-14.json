@@ -1,0 +1,62 @@
+[
+  {
+    "slide": 12,
+    "generator": "image_gen.imagegen",
+    "prompt": "Cinematic painterly matte painting, hand-painted animation and classical landscape influences, slightly surreal yet coherent, 16:9 landscape, at least 1920x1080. Consistent teal, lavender and coral palette with warm amber light. One scene only. No text, numbers, logos, watermarks, UI or borders. Keep left 45 percent calm for typography and protect the main subject on the far right. Five elegant stepping stones crossing a mirror lake toward a mountain on right, teal water reflecting lavender and coral dusk, amber light at the distant shore; spacious calm dark left reflection for headline.",
+    "nativeOutput": "/workspace/generated_images/exec-c379854c-647e-48e9-a5d1-3f75c78e9d0f.png",
+    "nativeDimensions": [
+      1672,
+      941
+    ],
+    "deliveredFile": "presentations/backgrounds/slide-12.png",
+    "deliveredDimensions": [
+      1920,
+      1080
+    ],
+    "processing": "Lanczos resampling to 1920x1080; no text or diagram compositing",
+    "nativeSha256": "16bfdf2e6a124d7a0b14494057bb4bb5a057335c437c400bc757305c8468aab0",
+    "deliveredSha256": "b760bd8e7bdc69e300423f284bb452feae63991ca3f78dba2b72308e3247c1a2",
+    "attempts": 2,
+    "note": "Second native image edit reduces path to five discrete stepping stones."
+  },
+  {
+    "slide": 13,
+    "generator": "image_gen.imagegen",
+    "prompt": "Cinematic painterly matte painting, hand-painted animation and classical landscape influences, slightly surreal yet coherent, 16:9 landscape, at least 1920x1080. Consistent teal, lavender and coral palette with warm amber light. One scene only. No text, numbers, logos, watermarks, UI or borders. Keep left 45 percent calm for typography and protect the main subject on the far right. A sunrise harbour with cargo vessels and cranes clustered at far right, broad teal water, lavender-coral dawn sky and restrained amber sunlight, painterly quiet sense of recovery; dark calm foreground and left sky.",
+    "nativeOutput": "/workspace/generated_images/exec-09cfa1af-68da-42a0-98fb-f7f6caba64b6.png",
+    "nativeDimensions": [
+      1672,
+      941
+    ],
+    "deliveredFile": "presentations/backgrounds/slide-13.png",
+    "deliveredDimensions": [
+      1920,
+      1080
+    ],
+    "processing": "Lanczos resampling to 1920x1080; no text or diagram compositing",
+    "nativeSha256": "51ea1bc61030b4d4d748dab65d9111241fce5463a4f39813aec98225b4c13194",
+    "deliveredSha256": "887561fde05329265624abd85066bd7b820689c1dd2471ae538ac19f456bfdab",
+    "attempts": 1,
+    "note": "Distinct native image generation."
+  },
+  {
+    "slide": 14,
+    "generator": "image_gen.imagegen",
+    "prompt": "Cinematic painterly matte painting, hand-painted animation and classical landscape influences, slightly surreal yet coherent, 16:9 landscape, at least 1920x1080. Consistent teal, lavender and coral palette with warm amber light. One scene only. No text, numbers, logos, watermarks, UI or borders. Keep left 45 percent calm for typography and protect the main subject on the far right. A snow volcano under a lavender and coral sky, a red maple and small solitary figure on a green hill at far right, teal valley shadows and warm amber dawn; spacious calm left hillside and sky for closing title.",
+    "nativeOutput": "/workspace/generated_images/exec-6d7319a4-8f17-438d-8885-21cdc06cd4f5.png",
+    "nativeDimensions": [
+      1672,
+      941
+    ],
+    "deliveredFile": "presentations/backgrounds/slide-14.png",
+    "deliveredDimensions": [
+      1920,
+      1080
+    ],
+    "processing": "Lanczos resampling to 1920x1080; no text or diagram compositing",
+    "nativeSha256": "7101c1cf9ccba50e7fd2946f8d4072d4b01cb51901d038af699ec2ed4c1d62da",
+    "deliveredSha256": "e78bf5808cf486ef2a04e46df700316b2175e90a8cfc952e5d27ecc93cd46631",
+    "attempts": 1,
+    "note": "Distinct native image generation."
+  }
+]

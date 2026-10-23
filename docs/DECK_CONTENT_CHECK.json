@@ -1,0 +1,299 @@
+{
+  "checkedAtUTC": "2026-10-23T15:32:25.866174+00:00",
+  "pptxSha256": "7935cd94708d38e72a8945d1bab0926a2cb06b63faac02953d70d6c2c2cc1229",
+  "checks": [
+    {
+      "slide": 1,
+      "editableText": "SHOCKTWIN Problem ShockTwin SAP Impact 01 / 14 SAP HACKFEST 2026 · RV UNIVERSITY RESILIENT SUPPLY CHAINS Event, team and product: supplied brief · P-ID P2012988948 01 · VISION See  the  shock before  it  hits. See the supply shock coming; borrow the capacity to survive it. PRODUCT ShockTwin Detect · Simulate · Respond · supplied brief TEAM · RV UNIVERSITY Francis Reuben R · Avaneesh Affan · Vivek",
+      "notes": "SLIDE 01 · 25 SECONDS · 0:00–0:25 Good morning. We are Francis, Avaneesh, Affan and Vivek from RV University. This is ShockTwin: see the supply shock coming, borrow the capacity to survive it. Imagine a supplier map that can reveal the dependency nobody showed you, rehearse its failure, and help you approve a practical response before your production line stops. SOURCE / QUALIFICATION (not additional spoken copy): Event, team and product: supplied brief · P-ID P2012988948",
+      "storedDurationSeconds": 25,
+      "pdfText": "SHOCKTWIN\nProblem\nShockTwin\nSAP\nImpact\n01 / 14\nSAP HACKFEST 2026 · RV UNIVERSITY\nRESILIENT SUPPLY CHAINS\nEvent, team and product: supplied brief · P-ID P2012988948\n01 · VISION\nSee the shock\nbefore it hits.\nSee the supply shock coming; borrow the capacity to\nsurvive it.\nPRODUCT\nShockTwin\nDetect · Simulate · Respond · supplied brief\nTEAM · RV UNIVERSITY\nFrancis Reuben R · Avaneesh\nAffan · Vivek\n"
+    },
+    {
+      "slide": 2,
+      "editableText": "SHOCKTWIN Problem ShockTwin SAP Impact 02 / 14 SAP HACKFEST 2026 · RV UNIVERSITY RESILIENT SUPPLY CHAINS Reuters, Mar 2021 · AlixPartners, Sep 2021 · Overall shortage impact, not fire-only loss 02 · THE COST OVERALL CHIP SHORTAGE · 2021 One  fire. $210  billion  lost. The total reflects the overall chip shortage in 2021, not the loss attributable to one fire. VEHICLES NOT BUILT 7.7M AlixPartners, Sep 2021 AUTOMOTIVE MCU SHARE ~30% Reuters, Mar 2021; Renesas",
+      "notes": "SLIDE 02 · 35 SECONDS · 0:25–1:00 In March 2021, fire hit Renesas, a firm supplying about thirty percent of automotive microcontrollers. That concentration exposed how one upstream facility could affect many manufacturers. Separately, AlixPartners estimated the entire 2021 chip shortage cost automakers two hundred and ten billion dollars and seven point seven million vehicles. We are not attributing that whole loss to one fire. The lesson is that a small-looking upstream dependency can become a system-wide production problem. SOURCE / QUALIFICATION (not additional spoken copy): Reuters, Mar 2021 · AlixPartners, Sep 2021 · Overall shortage impact, not fire-only loss",
+      "storedDurationSeconds": 35,
+      "pdfText": "SHOCKTWIN\nProblem\nShockTwin\nSAP\nImpact\n02 / 14\nSAP HACKFEST 2026 · RV UNIVERSITY\nRESILIENT SUPPLY CHAINS\nReuters, Mar 2021 · AlixPartners, Sep 2021 · Overall shortage impact, not fire-only loss\n02 · THE COST\nOVERALL CHIP SHORTAGE · 2021\nOne fire.\n$210 billion lost.\nThe total reflects the overall chip shortage in 2021, not the\nloss attributable to one fire.\nVEHICLES NOT BUILT\n7.7M\nAlixPartners, Sep 2021\nAUTOMOTIVE MCU SHARE\n~30%\nReuters, Mar 2021; Renesas\n"
+    },
+    {
+      "slide": 3,
+      "editableText": "SHOCKTWIN Problem ShockTwin SAP Impact 03 / 14 SAP HACKFEST 2026 · RV UNIVERSITY RESILIENT SUPPLY CHAINS McKinsey Supply Chain Risk Survey 2024 03 · VISIBILITY Most  firms  can't see  past  tier  1. Beyond-tier-one visibility is shrinking when upstream exposure matters most. VISIBILITY BEYOND TIER ONE McKinsey Supply Chain Risk Survey 2024",
+      "notes": "SLIDE 03 · 30 SECONDS · 1:00–1:30 Yet visibility is moving in the wrong direction. McKinsey's survey reports visibility beyond tier one falling from fifty-six percent in 2022, to thirty-seven percent, to thirty percent in 2024. This is not a forecast; it is the published survey series. If a purchasing dashboard stops at direct suppliers, it can display several alternatives while missing the single upstream dependency that makes them fail together. SOURCE / QUALIFICATION (not additional spoken copy): McKinsey Supply Chain Risk Survey 2024",
+      "storedDurationSeconds": 30,
+      "pdfText": "SHOCKTWIN\nProblem\nShockTwin\nSAP\nImpact\n03 / 14\nSAP HACKFEST 2026 · RV UNIVERSITY\nRESILIENT SUPPLY CHAINS\nMcKinsey Supply Chain Risk Survey 2024\n03 · VISIBILITY\nMost firms can't\nsee past tier 1.\nBeyond-tier-one visibility is shrinking when upstream\nexposure matters most.\nVISIBILITY BEYOND TIER ONE\n2022\n2023\n2024\n0%\n20%\n40%\n60%\n56%\n37%\n30%\nMcKinsey Supply Chain Risk Survey 2024\n"
+    },
+    {
+      "slide": 4,
+      "editableText": "SHOCKTWIN Problem ShockTwin SAP Impact 04 / 14 SAP HACKFEST 2026 · RV UNIVERSITY RESILIENT SUPPLY CHAINS McKinsey [report details VERIFY] · McKinsey 2022 · McKinsey Supply Chain Risk Survey 2024 04 · THE BLIND SPOT The  danger  sits below  the  surface. The shared dependency you cannot see can stop the production you can. SEE TIER 3 ~10% McKinsey, 2022 RESPONSE TIME ~2 weeks McKinsey Supply Chain Risk Survey 2024 DISRUPTIONS AT TIER 2+ ~2/3 McKinsey [exact report VERIFY]",
+      "notes": "SLIDE 04 · 30 SECONDS · 1:30–2:00 The iceberg is the problem. About two-thirds of disruptions originate at tier two or deeper, according to McKinsey. Only about ten percent of firms see their tier-three suppliers, and the average response to a new disruption is about two weeks. These measures come from different published observations, not one experiment. ShockTwin asks a practical question: can a buyer identify a consequential hidden dependency and act while inventory still gives them time? SOURCE / QUALIFICATION (not additional spoken copy): McKinsey [report details VERIFY] · McKinsey 2022 · McKinsey Supply Chain Risk Survey 2024",
+      "storedDurationSeconds": 30,
+      "pdfText": "SHOCKTWIN\nProblem\nShockTwin\nSAP\nImpact\n04 / 14\nSAP HACKFEST 2026 · RV UNIVERSITY\nRESILIENT SUPPLY CHAINS\nMcKinsey [report details VERIFY] · McKinsey 2022 · McKinsey Supply Chain Risk Survey 2024\n04 · THE BLIND SPOT\nThe danger sits\nbelow the surface.\nThe shared dependency you cannot see can stop the\nproduction you can.\nSEE TIER 3\n~10%\nMcKinsey, 2022\nRESPONSE TIME\n~2 weeks\nMcKinsey Supply Chain Risk Survey 2024\nDISRUPTIONS AT TIER 2+\n~2/3\nMcKinsey [exact report VERIFY]\n"
+    },
+    {
+      "slide": 5,
+      "editableText": "SHOCKTWIN Problem ShockTwin SAP Impact 05 / 14 SAP HACKFEST 2026 · RV UNIVERSITY RESILIENT SUPPLY CHAINS Reuters, Jan 2024 · UNCTAD, 2024 · Different measures and periods 05 · ROUTE RISK The  Red  Sea closed. India  paid. Disrupted shipping routes transmitted cost pressure to Indian supply chains; the sea was not literally closed. SUEZ TRAFFIC -57% UNCTAD; from peak to Oct 2024 SHANGHAI–EUROPE SPOT +256% UNCTAD, 2024 INDIA–EUROPE CONTAINER COST $600 $1,500 Reuters, Jan 2024 · approximate costs",
+      "notes": "SLIDE 05 · 30 SECONDS · 2:00–2:30 The Red Sea illustrates how a distant route becomes a local cost. The sea was disrupted, not literally closed. UNCTAD reports Suez traffic down fifty-seven percent from its peak by October 2024 and Shanghai–Europe spot rates up two hundred and fifty-six percent. Reuters reported India–Europe container costs moving from about six hundred to fifteen hundred dollars in January. Different periods, different measures, one message: geography does not contain supply-chain consequences. SOURCE / QUALIFICATION (not additional spoken copy): Reuters, Jan 2024 · UNCTAD, 2024 · Different measures and periods",
+      "storedDurationSeconds": 30,
+      "pdfText": "SHOCKTWIN\nProblem\nShockTwin\nSAP\nImpact\n05 / 14\nSAP HACKFEST 2026 · RV UNIVERSITY\nRESILIENT SUPPLY CHAINS\nReuters, Jan 2024 · UNCTAD, 2024 · Different measures and periods\n05 · ROUTE RISK\nThe Red Sea\nclosed.\nIndia paid.\nDisrupted shipping routes transmitted cost pressure to\nIndian supply chains; the sea was not literally closed.\nSUEZ TRAFFIC\n-57%\nUNCTAD; from peak to Oct 2024\nSHANGHAI–EUROPE SPOT\n+256%\nUNCTAD, 2024\nINDIA–EUROPE CONTAINER COST\nBefore\nDisrupted\n$0\n$1,000\n$2,000\n$600\n$1,500\nReuters, Jan 2024 · approximate costs\n"
+    },
+    {
+      "slide": 6,
+      "editableText": "SHOCKTWIN Problem ShockTwin SAP Impact 06 / 14 SAP HACKFEST 2026 · RV UNIVERSITY RESILIENT SUPPLY CHAINS Bloomberg, Apr 2021 · Fortune, Jan 2022 06 · THE COUNTEREXAMPLE Toyota  survived because  it had  a  map. Mapping upstream dependencies can turn a hidden concentration into a decision. CRITICAL PARTS MAPPED ~1,500 Bloomberg Apr 2021 / Fortune Jan 2022 US OUTPUT KEPT ~90% Bloomberg Apr 2021 / Fortune Jan 2022 GM UNITS CUT ~278,000 Bloomberg Apr 2021 / Fortune Jan 2022",
+      "notes": "SLIDE 06 · 30 SECONDS · 2:30–3:00 There is a useful counterexample. After 2011, Toyota mapped about fifteen hundred critical parts. During the chip crisis it kept US production near ninety percent, while GM cut about two hundred and seventy-eight thousand units. The cited reporting does not prove that mapping alone caused that difference. It shows why upstream knowledge deserves attention. Our aim is to make mapping actionable through a connected warning, rehearsal and response workflow. SOURCE / QUALIFICATION (not additional spoken copy): Bloomberg, Apr 2021 · Fortune, Jan 2022",
+      "storedDurationSeconds": 30,
+      "pdfText": "SHOCKTWIN\nProblem\nShockTwin\nSAP\nImpact\n06 / 14\nSAP HACKFEST 2026 · RV UNIVERSITY\nRESILIENT SUPPLY CHAINS\nBloomberg, Apr 2021 · Fortune, Jan 2022\n06 · THE COUNTEREXAMPLE\nToyota survived\nbecause it\nhad a map.\nMapping upstream dependencies can turn a hidden\nconcentration into a decision.\nCRITICAL PARTS MAPPED\n~1,500\nBloomberg Apr 2021 / Fortune Jan 2022\nUS OUTPUT KEPT\n~90%\nBloomberg Apr 2021 / Fortune Jan 2022\nGM UNITS CUT\n~278,000\nBloomberg Apr 2021 / Fortune Jan 2022\n"
+    },
+    {
+      "slide": 7,
+      "editableText": "SHOCKTWIN Problem ShockTwin SAP Impact 07 / 14 SAP HACKFEST 2026 · RV UNIVERSITY RESILIENT SUPPLY CHAINS Product workflow: supplied brief · Implementation: repository 07 · DETECT · SIMULATE · RESPOND Meet ShockTwin. One connected loop: Detect, Simulate, Respond. 01 Detect Supplied product loop 02 Simulate Supplied product loop 03 Respond Supplied product loop",
+      "notes": "SLIDE 07 · 20 SECONDS · 3:00–3:20 Meet ShockTwin. Detect proposes hidden upstream links. Simulate translates a shock into material and order consequences. Respond brings CapacityMesh into that same workflow, finding spare capacity and preparing an action for human approval. We are demonstrating one product, with one continuous decision loop, rather than two disconnected tools. SOURCE / QUALIFICATION (not additional spoken copy): Product workflow: supplied brief · Implementation: repository",
+      "storedDurationSeconds": 20,
+      "pdfText": "SHOCKTWIN\nProblem\nShockTwin\nSAP\nImpact\n07 / 14\nSAP HACKFEST 2026 · RV UNIVERSITY\nRESILIENT SUPPLY CHAINS\nProduct workflow: supplied brief · Implementation: repository\n07 · DETECT · SIMULATE · RESPOND\nMeet\nShockTwin.\nOne connected loop: Detect, Simulate, Respond.\n01\nDetect\nSupplied product loop\n02\nSimulate\nSupplied product loop\n03\nRespond\nSupplied product loop\n"
+    },
+    {
+      "slide": 8,
+      "editableText": "SHOCKTWIN Problem ShockTwin SAP Impact 08 / 14 SAP HACKFEST 2026 · RV UNIVERSITY RESILIENT SUPPLY CHAINS Illustrative local demo · Synthetic GraphSAGE scores · Kosasih & Brintrup, IJPR 2022 08 · 01 · DETECT Find  the  suppliers you  never  knew. Illustrative: three immediate suppliers share one hidden resin plant. DETECT · REAL APP · ILLUSTRATIVE Illustrative local app · actual browser capture IMMEDIATE SUPPLIERS 5 Illustrative seed SHARED UPSTREAM PLANT 1 Illustrative seed DEPENDENT SUPPLIERS 3 of 5 Illustrative seed",
+      "notes": "SLIDE 08 · 40 SECONDS · 3:20–4:00 Meet Priya, our illustrative procurement head at a Bengaluru auto-parts manufacturer. She starts with five immediate suppliers. We run the model and reveal a candidate shared resin plant behind three of them. The dashed edges carry actual synthetic-model scores and evidence; they are hypotheses, not verified commercial relationships. Priya can confirm or reject them. Our GraphSAGE model is trained on synthetic data; its measured test results are labelled accordingly. The research basis is supplier-network link prediction by Kosasih and Brintrup, not a borrowed accuracy claim. SOURCE / QUALIFICATION (not additional spoken copy): Illustrative local demo · Synthetic GraphSAGE scores · Kosasih & Brintrup, IJPR 2022",
+      "storedDurationSeconds": 40,
+      "pdfText": "SHOCKTWIN\nProblem\nShockTwin\nSAP\nImpact\n08 / 14\nSAP HACKFEST 2026 · RV UNIVERSITY\nRESILIENT SUPPLY CHAINS\nIllustrative local demo · Synthetic GraphSAGE scores · Kosasih & Brintrup, IJPR 2022\n08 · 01 · DETECT\nFind the suppliers\nyou never knew.\nIllustrative: three immediate suppliers share one hidden resin\nplant.\nDETECT · REAL APP · ILLUSTRATIVE\nIllustrative local app · actual browser capture\nIMMEDIATE\nSUPPLIERS\n5\nIllustrative seed\nSHARED\nUPSTREAM PLANT\n1\nIllustrative seed\nDEPENDENT\nSUPPLIERS\n3 of 5\nIllustrative seed\n"
+    },
+    {
+      "slide": 9,
+      "editableText": "SHOCKTWIN Problem ShockTwin SAP Impact 09 / 14 SAP HACKFEST 2026 · RV UNIVERSITY RESILIENT SUPPLY CHAINS Illustrative local simulation · Assumptions and real app result in screenshot 09 · 02 · SIMULATE War-game the  storm before  it  lands. Illustrative: a day-three replacement switch avoids a line stop through the displayed simulation horizon. SIMULATE · REAL APP · ILLUSTRATIVE Illustrative local app · actual browser capture RESIN STOCK LEFT · ILLUSTRATIVE 0 6 12 18 24 30 DAY 18 DAY-3 SWITCH DAY 18 · STOCK-OUT Real local API · 100 units/day · 30-day horizon",
+      "notes": "SLIDE 09 · 45 SECONDS · 4:00–4:45 Now we rehearse the cyclone. This is the real simulator, using illustrative inputs: eighteen hundred resin units and demand of one hundred units per day. Under the default full-loss shock, baseline stock reaches zero on day eighteen. Switch on replacement flow after day three, and the curve holds at fifteen hundred units because replacement covers daily demand. That avoids a line stop through this displayed horizon. It is conditional on timing, volume and availability, not a promise of endless continuity. We can change severity, duration and switch timing to see where the plan fails. SOURCE / QUALIFICATION (not additional spoken copy): Illustrative local simulation · Assumptions and real app result in screenshot",
+      "storedDurationSeconds": 45,
+      "pdfText": "SHOCKTWIN\nProblem\nShockTwin\nSAP\nImpact\n09 / 14\nSAP HACKFEST 2026 · RV UNIVERSITY\nRESILIENT SUPPLY CHAINS\nIllustrative local simulation · Assumptions and real app result in screenshot\n09 · 02 · SIMULATE\nWar-game\nthe storm\nbefore it lands.\nIllustrative: a day-three replacement switch avoids a line\nstop through the displayed simulation horizon.\nSIMULATE · REAL APP · ILLUSTRATIVE\nIllustrative local app · actual browser capture\nRESIN STOCK LEFT · ILLUSTRATIVE\n0\n900\n1800\n0\n6\n12\n18\n24\n30\nDAY 18\nDAY-3 SWITCH\nDAY 18 · STOCK-OUT\nReal local API · 100 units/day · 30-day horizon\n"
+    },
+    {
+      "slide": 10,
+      "editableText": "SHOCKTWIN Problem ShockTwin SAP Impact 10 / 14 SAP HACKFEST 2026 · RV UNIVERSITY RESILIENT SUPPLY CHAINS DPIIT–NCAER 2025 · RBI OBICUS Q1 2026–27 [VERIFY] · COVID case source [VERIFY] 10 · 03 · RESPOND · CAPACITYMESH Borrow  capacity in  minutes, not  weeks. CapacityMesh turns a qualified match into a human-approved draft; minutes describes the demo workflow, not physical activation. RANKED CAPACITY · ILLUSTRATIVE Illustrative local app · actual browser capture HUMAN APPROVED · MOCK ERP Illustrative local app · actual browser capture UP TO · EMPTY RUNNING 40% DPIIT–NCAER, 2025 CAPACITY UTILISATION 74.6% RBI OBICUS Q1 2026–27 [VERIFY] VENTILATORS · ~3 MONTHS ~60,000 COVID sharing case [source VERIFY]",
+      "notes": "SLIDE 10 · 45 SECONDS · 4:45–5:30 CapacityMesh is the response step. We request suitable moulding capacity, inspect the eligible matches and see exactly how capability, distance, volume, lead time and price band affect ranking. Only minimal capacity envelopes are public; raw transactions stay private. Priya drafts a purchase order, reviews it in the inbox and approves it, leaving an audit trail. The local ERP is explicitly a mock. India's empty-running and utilisation figures suggest capacity worth investigating, while the ventilator collaboration shows precedent. They do not prove every idle asset is usable, and our minutes headline describes the demonstrated workflow, not physical production activation. SOURCE / QUALIFICATION (not additional spoken copy): DPIIT–NCAER 2025 · RBI OBICUS Q1 2026–27 [VERIFY] · COVID case source [VERIFY]",
+      "storedDurationSeconds": 45,
+      "pdfText": "SHOCKTWIN\nProblem\nShockTwin\nSAP\nImpact\n10 / 14\nSAP HACKFEST 2026 · RV UNIVERSITY\nRESILIENT SUPPLY CHAINS\nDPIIT–NCAER 2025 · RBI OBICUS Q1 2026–27 [VERIFY] · COVID case source [VERIFY]\n10 · 03 · RESPOND · CAPACITYMESH\nBorrow capacity\nin minutes,\nnot weeks.\nCapacityMesh turns a qualified match into a\nhuman-approved draft; minutes describes the demo\nworkflow, not physical activation.\nRANKED CAPACITY · ILLUSTRATIVE\nIllustrative local app · actual browser capture\nHUMAN APPROVED · MOCK ERP\nIllustrative local app · actual browser capture\nUP TO · EMPTY RUNNING\n40%\nDPIIT–NCAER, 2025\nCAPACITY UTILISATION\n74.6%\nRBI OBICUS Q1 2026–27 [VERIFY]\nVENTILATORS · ~3\nMONTHS\n~60,000\nCOVID sharing case [source\nVERIFY]\n"
+    },
+    {
+      "slide": 11,
+      "editableText": "SHOCKTWIN Problem ShockTwin SAP Impact 11 / 14 SAP HACKFEST 2026 · RV UNIVERSITY RESILIENT SUPPLY CHAINS SAP target architecture: project design · Live cloud integration [VERIFY] 11 · SAP BTP Built  on SAP  BTP. One decision workflow, with human approval at the boundary of action. UI SAPUI5 / Horizon Project target/implementation AGENT Build Process Automation SAP target; local fallback APP CAP / Node.js Project target/implementation AI AI Core / Gen AI Hub SAP target; local GraphSAGE/template fallback DATA HANA Cloud SAP target; SQLite local SOURCE Integration Suite / S/4HANA SAP target; mocks local",
+      "notes": "SLIDE 11 · 35 SECONDS · 5:30–6:05 The target platform is SAP BTP. SAPUI5 provides the Horizon interface; CAP owns the domain services; HANA Cloud holds graph, vector and relational data; AI Core and AI Launchpad host the model; and Generative AI Hub supports bounded explanations. Integration Suite connects enterprise and external sources, while Build Process Automation routes approval. Today the complete local flow runs with SQLite and explicit mocks. Live SAP service bindings and purchasing semantics still require verification. Human authorization remains the final control. SOURCE / QUALIFICATION (not additional spoken copy): SAP target architecture: project design · Live cloud integration [VERIFY]",
+      "storedDurationSeconds": 35,
+      "pdfText": "SHOCKTWIN\nProblem\nShockTwin\nSAP\nImpact\n11 / 14\nSAP HACKFEST 2026 · RV UNIVERSITY\nRESILIENT SUPPLY CHAINS\nSAP target architecture: project design · Live cloud integration [VERIFY]\n11 · SAP BTP\nBuilt on\nSAP BTP.\nOne decision workflow, with human approval at the\nboundary of action.\nUI\nSAPUI5 / Horizon\nProject target/implementation\nAGENT\nBuild Process Automation\nSAP target; local fallback\nAPP\nCAP / Node.js\nProject target/implementation\nAI\nAI Core / Gen AI Hub\nSAP target; local GraphSAGE/template fallback\nDATA\nHANA Cloud\nSAP target; SQLite local\nSOURCE\nIntegration Suite / S/4HANA\nSAP target; mocks local\n"
+    },
+    {
+      "slide": 12,
+      "editableText": "SHOCKTWIN Problem ShockTwin SAP Impact 12 / 14 SAP HACKFEST 2026 · RV UNIVERSITY RESILIENT SUPPLY CHAINS Project process record · Published cases and persona; interviews planned 12 · DESIGN THINKING Designed  step by  step with  empathy. Published cases informed the persona; interviews and a cluster pilot are planned. EMPATHIZE Published cases + persona Project process record DEFINE Hidden dependency + response gap Project process record IDEATE One connected loop Project process record PROTOTYPE Working local app Project process record TEST Engineering tests; interviews next Project process record",
+      "notes": "SLIDE 12 · 25 SECONDS · 6:05–6:30 We followed the five Design Thinking phases honestly. Empathy currently comes from published cases and our Priya persona, not completed interviews. We defined the hidden-dependency and response gap, explored a connected loop, built the prototype and tested its engineering flow. Next come interviews and a real cluster pilot. We will not present automated tests as customer validation. SOURCE / QUALIFICATION (not additional spoken copy): Project process record · Published cases and persona; interviews planned",
+      "storedDurationSeconds": 25,
+      "pdfText": "SHOCKTWIN\nProblem\nShockTwin\nSAP\nImpact\n12 / 14\nSAP HACKFEST 2026 · RV UNIVERSITY\nRESILIENT SUPPLY CHAINS\nProject process record · Published cases and persona; interviews planned\n12 · DESIGN THINKING\nDesigned step\nby step\nwith empathy.\nPublished cases informed the persona; interviews and a\ncluster pilot are planned.\nEMPATHIZE\nPublished cases +\npersona\nProject process record\nDEFINE\nHidden dependency\n+ response gap\nProject process record\nIDEATE\nOne connected loop\nProject process record\nPROTOTYPE\nWorking local app\nProject process record\nTEST\nEngineering tests;\ninterviews next\nProject process record\n"
+    },
+    {
+      "slide": 13,
+      "editableText": "SHOCKTWIN Problem ShockTwin SAP Impact 13 / 14 SAP HACKFEST 2026 · RV UNIVERSITY RESILIENT SUPPLY CHAINS MGI 2020 · Collaboration studies from brief [original sources VERIFY] · Not product results 13 · VALUE CONTEXT What  resilience is  worth. Published context motivates the product; these are not measured ShockTwin savings. DECADE DISRUPTION COST ~45% MGI 2020; fraction of one year’s profits LEAD TIME -30.8% Collaboration study from brief [original source VERIFY] TRANSPORT COST -25.83% Collaboration study from brief [original source VERIFY] MONTH-LONG SHOCK ~Every 3.7 years MGI, 2020",
+      "notes": "SLIDE 13 · 30 SECONDS · 6:30–7:00 The stakes are substantial, but these are published context, not our results. McKinsey estimates month-long disruptions about every three point seven years and decade losses around forty-five percent of one year's profits. The brief also supplies collaboration-study reductions in lead time and transport cost; their original studies still need verification. We will measure ShockTwin by warning gained, mitigation time, qualified matches and completed human decisions, rather than borrow those percentages as promised savings. SOURCE / QUALIFICATION (not additional spoken copy): MGI 2020 · Collaboration studies from brief [original sources VERIFY] · Not product results",
+      "storedDurationSeconds": 30,
+      "pdfText": "SHOCKTWIN\nProblem\nShockTwin\nSAP\nImpact\n13 / 14\nSAP HACKFEST 2026 · RV UNIVERSITY\nRESILIENT SUPPLY CHAINS\nMGI 2020 · Collaboration studies from brief [original sources VERIFY] · Not product results\n13 · VALUE CONTEXT\nWhat resilience\nis worth.\nPublished context motivates the product; these are not\nmeasured ShockTwin savings.\nDECADE DISRUPTION COST\n~45%\nMGI 2020; fraction of one year’s profits\nLEAD TIME\n-30.8%\nCollaboration study from brief [original\nsource VERIFY]\nTRANSPORT COST\n-25.83%\nCollaboration study from brief [original\nsource VERIFY]\nMONTH-LONG SHOCK\n~Every 3.7\nyears\nMGI, 2020\n"
+    },
+    {
+      "slide": 14,
+      "editableText": "SHOCKTWIN Problem ShockTwin SAP Impact 14 / 14 SAP HACKFEST 2026 · RV UNIVERSITY RESILIENT SUPPLY CHAINS Team, P-ID and proposed next step: supplied brief · Pilot commitment [VERIFY] 14 · NEXT STEP Never  be surprised  again. Next: a BTP-connected prototype and a pilot with one Bengaluru auto-parts cluster. NEXT STEP BTP + cluster pilot Proposed project plan; no partner commitment TEAM Francis Reuben R · Avaneesh Affan · Vivek P-ID P2012988948 Team and P-ID: supplied brief",
+      "notes": "SLIDE 14 · 30 SECONDS · 7:00–7:30 We want to make this workflow real for one Bengaluru auto-parts cluster: a BTP-connected prototype, authorized data, qualified capacity providers and a measured pilot. Our closing line is an aspiration, not a guarantee that every surprise disappears. ShockTwin helps teams see the supply shock coming and borrow the capacity to survive it. We are Francis, Avaneesh, Affan and Vivek. Thank you. SOURCE / QUALIFICATION (not additional spoken copy): Team, P-ID and proposed next step: supplied brief · Pilot commitment [VERIFY]",
+      "storedDurationSeconds": 30,
+      "pdfText": "SHOCKTWIN\nProblem\nShockTwin\nSAP\nImpact\n14 / 14\nSAP HACKFEST 2026 · RV UNIVERSITY\nRESILIENT SUPPLY CHAINS\nTeam, P-ID and proposed next step: supplied brief · Pilot commitment [VERIFY]\n14 · NEXT STEP\nNever be\nsurprised again.\nNext: a BTP-connected prototype and a pilot with one\nBengaluru auto-parts cluster.\nNEXT STEP\nBTP + cluster pilot\nProposed project plan; no partner commitment\nTEAM\nFrancis Reuben R · Avaneesh\nAffan · Vivek\nP-ID\nP2012988948\nTeam and P-ID: supplied brief\n"
+    }
+  ],
+  "findings": [],
+  "specifiedSeconds": 450,
+  "specifiedWords": 994,
+  "slideCount": 14,
+  "notesCount": 14,
+  "nativeChartCount": 3,
+  "nativeSimulationCheck": [
+    {
+      "path": "ppt/charts/chart3.xml",
+      "matchesActualAPI": true
+    }
+  ],
+  "screenshots": {
+    "risk-map.png": {
+      "sourceHashMatchesBuilder": true,
+      "pixelIdenticalAfterDisclosedCrop": true,
+      "crop": [270, 353, 1588, 892],
+      "compositionEmbedded": true
+    },
+    "simulator.png": {
+      "sourceHashMatchesBuilder": true,
+      "pixelIdenticalAfterDisclosedCrop": true,
+      "crop": null,
+      "compositionEmbedded": true
+    },
+    "capacitymesh.png": {
+      "sourceHashMatchesBuilder": true,
+      "pixelIdenticalAfterDisclosedCrop": true,
+      "crop": [270, 400, 1882, 1019],
+      "compositionEmbedded": true
+    },
+    "approval.png": {
+      "sourceHashMatchesBuilder": true,
+      "pixelIdenticalAfterDisclosedCrop": true,
+      "crop": [270, 353, 1882, 935],
+      "compositionEmbedded": true
+    }
+  },
+  "actualNotesDurationSum": 450,
+  "pdfPages": 14,
+  "pdfSha256": "2da24aade7b11cf2bac0af7d3d017d407e7c897a91bd69110846b71f3bdb9008",
+  "pdfFontNames": [
+    "BAAAAA+Inter-SemiBold",
+    "CAAAAA+DMMono-Regular",
+    "DAAAAA+InstrumentSerif-Regular",
+    "EAAAAA+InstrumentSerif-Italic",
+    "FAAAAA+Inter-Regular",
+    "GAAAAA+Silkscreen-Regular"
+  ],
+  "pdfFontFamilies": ["DM Mono", "Instrument Serif", "Inter", "Silkscreen"],
+  "productionBackgrounds": [
+    {
+      "slide": 1,
+      "path": "presentations/backgrounds/slide-01.png",
+      "dimensions": [1920, 1080]
+    },
+    {
+      "slide": 2,
+      "path": "presentations/backgrounds/slide-02.png",
+      "dimensions": [1920, 1080]
+    },
+    {
+      "slide": 3,
+      "path": "presentations/backgrounds/slide-03.png",
+      "dimensions": [1920, 1080]
+    },
+    {
+      "slide": 4,
+      "path": "presentations/backgrounds/slide-04.png",
+      "dimensions": [1920, 1080]
+    },
+    {
+      "slide": 5,
+      "path": "presentations/backgrounds/slide-05.png",
+      "dimensions": [1920, 1080]
+    },
+    {
+      "slide": 6,
+      "path": "presentations/backgrounds/slide-06.png",
+      "dimensions": [1920, 1080]
+    },
+    {
+      "slide": 7,
+      "path": "presentations/backgrounds/slide-07.png",
+      "dimensions": [1920, 1080]
+    },
+    {
+      "slide": 8,
+      "path": "presentations/backgrounds/slide-08.png",
+      "dimensions": [1920, 1080]
+    },
+    {
+      "slide": 9,
+      "path": "presentations/backgrounds/slide-09.png",
+      "dimensions": [1920, 1080]
+    },
+    {
+      "slide": 10,
+      "path": "presentations/backgrounds/slide-10.png",
+      "dimensions": [1920, 1080]
+    },
+    {
+      "slide": 11,
+      "path": "presentations/backgrounds/slide-11.png",
+      "dimensions": [1920, 1080]
+    },
+    {
+      "slide": 12,
+      "path": "presentations/backgrounds/slide-12.png",
+      "dimensions": [1920, 1080]
+    },
+    {
+      "slide": 13,
+      "path": "presentations/backgrounds/slide-13.png",
+      "dimensions": [1920, 1080]
+    },
+    {
+      "slide": 14,
+      "path": "presentations/backgrounds/slide-14.png",
+      "dimensions": [1920, 1080]
+    }
+  ],
+  "previewDimensions": [
+    {
+      "slide": 1,
+      "path": "presentations/previews/slide-01.png",
+      "dimensions": [1920, 1080]
+    },
+    {
+      "slide": 2,
+      "path": "presentations/previews/slide-02.png",
+      "dimensions": [1920, 1080]
+    },
+    {
+      "slide": 3,
+      "path": "presentations/previews/slide-03.png",
+      "dimensions": [1920, 1080]
+    },
+    {
+      "slide": 4,
+      "path": "presentations/previews/slide-04.png",
+      "dimensions": [1920, 1080]
+    },
+    {
+      "slide": 5,
+      "path": "presentations/previews/slide-05.png",
+      "dimensions": [1920, 1080]
+    },
+    {
+      "slide": 6,
+      "path": "presentations/previews/slide-06.png",
+      "dimensions": [1920, 1080]
+    },
+    {
+      "slide": 7,
+      "path": "presentations/previews/slide-07.png",
+      "dimensions": [1920, 1080]
+    },
+    {
+      "slide": 8,
+      "path": "presentations/previews/slide-08.png",
+      "dimensions": [1920, 1080]
+    },
+    {
+      "slide": 9,
+      "path": "presentations/previews/slide-09.png",
+      "dimensions": [1920, 1080]
+    },
+    {
+      "slide": 10,
+      "path": "presentations/previews/slide-10.png",
+      "dimensions": [1920, 1080]
+    },
+    {
+      "slide": 11,
+      "path": "presentations/previews/slide-11.png",
+      "dimensions": [1920, 1080]
+    },
+    {
+      "slide": 12,
+      "path": "presentations/previews/slide-12.png",
+      "dimensions": [1920, 1080]
+    },
+    {
+      "slide": 13,
+      "path": "presentations/previews/slide-13.png",
+      "dimensions": [1920, 1080]
+    },
+    {
+      "slide": 14,
+      "path": "presentations/previews/slide-14.png",
+      "dimensions": [1920, 1080]
+    }
+  ],
+  "distinctProductionBackgrounds": 14
+}

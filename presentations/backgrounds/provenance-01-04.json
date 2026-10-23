@@ -1,0 +1,62 @@
+[
+  {
+    "slide": 1,
+    "generator": "image_gen.imagegen",
+    "original": "/workspace/generated_images/exec-f48a6943-019c-451b-8e9a-0cac7ccf01ec.png",
+    "nativeDimensions": [
+      1672,
+      941
+    ],
+    "deliveredDimensions": [
+      1920,
+      1080
+    ],
+    "transformation": "Lanczos resample and central 16:9 fit; original retained",
+    "path": "presentations/backgrounds/slide-01.png"
+  },
+  {
+    "slide": 2,
+    "generator": "image_gen.imagegen",
+    "original": "/workspace/generated_images/exec-49dc7181-c25a-4a88-ba49-145f58fcbd7f.png",
+    "nativeDimensions": [
+      1672,
+      941
+    ],
+    "deliveredDimensions": [
+      1920,
+      1080
+    ],
+    "transformation": "Lanczos resample and central 16:9 fit; original retained",
+    "path": "presentations/backgrounds/slide-02.png"
+  },
+  {
+    "slide": 3,
+    "generator": "image_gen.imagegen",
+    "original": "/workspace/generated_images/exec-c63e6fde-a9de-43e0-ad2f-6e056e734122.png",
+    "nativeDimensions": [
+      1672,
+      941
+    ],
+    "deliveredDimensions": [
+      1920,
+      1080
+    ],
+    "transformation": "Lanczos resample and central 16:9 fit; original retained",
+    "path": "presentations/backgrounds/slide-03.png"
+  },
+  {
+    "slide": 4,
+    "generator": "image_gen.imagegen",
+    "original": "/workspace/generated_images/exec-1fdfe131-a66b-4472-9de8-214089794157.png",
+    "nativeDimensions": [
+      1672,
+      940
+    ],
+    "deliveredDimensions": [
+      1920,
+      1080
+    ],
+    "transformation": "Lanczos resample and central 16:9 fit; original retained",
+    "path": "presentations/backgrounds/slide-04.png"
+  }
+]

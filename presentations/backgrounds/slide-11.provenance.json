@@ -1,0 +1,14 @@
+{
+  "slide": 11,
+  "method": "Native ImageGen",
+  "original": "/workspace/generated_images/exec-69cf8544-44ef-458b-84a9-316172536c86.png",
+  "nativeDimensions": [
+    1672,
+    941
+  ],
+  "placedDimensions": [
+    1920,
+    1080
+  ],
+  "processing": "Lanczos resample to 1920x1080; no scene edits"
+}

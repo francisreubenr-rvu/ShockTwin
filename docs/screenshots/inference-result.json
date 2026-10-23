@@ -1,0 +1,142 @@
+{
+  "illustrative": true,
+  "nodes": [
+    {
+      "illustrative": true,
+      "companyId": "upstream-resin",
+      "name": "Shared Resin Plant",
+      "location": "Illustrative coastal resin corridor",
+      "latitude": 13.08,
+      "longitude": 80.19,
+      "materialId": "resin",
+      "capacity": 100,
+      "hidden": true,
+      "id": "resin-plant",
+      "type": "plant",
+      "tier": 2
+    }
+  ],
+  "links": [
+    {
+      "illustrative": true,
+      "materialId": "resin",
+      "dependencyShare": 1,
+      "inferred": true,
+      "confidence": 0.9051573276519775,
+      "evidence": [
+        "Shared observable material family: resin",
+        "Illustrative coordinate separation: 296.8 km",
+        "Upstream plant to tier-1 supplier role is structurally plausible"
+      ],
+      "explanation": "The model suggests this unconfirmed link because its material family, geographic separation and upstream/downstream roles resemble synthetic training patterns.",
+      "reviewStatus": "proposed",
+      "modelVersion": "synthetic-graphsage-v1",
+      "id": "hidden-1",
+      "source": "resin-plant",
+      "target": "s1"
+    },
+    {
+      "illustrative": true,
+      "materialId": "resin",
+      "dependencyShare": 1,
+      "inferred": true,
+      "confidence": 0.9277125597000122,
+      "evidence": [
+        "Shared observable material family: resin",
+        "Illustrative coordinate separation: 274.4 km",
+        "Upstream plant to tier-1 supplier role is structurally plausible"
+      ],
+      "explanation": "The model suggests this unconfirmed link because its material family, geographic separation and upstream/downstream roles resemble synthetic training patterns.",
+      "reviewStatus": "proposed",
+      "modelVersion": "synthetic-graphsage-v1",
+      "id": "hidden-2",
+      "source": "resin-plant",
+      "target": "s2"
+    },
+    {
+      "illustrative": true,
+      "materialId": "resin",
+      "dependencyShare": 1,
+      "inferred": true,
+      "confidence": 0.9584254026412964,
+      "evidence": [
+        "Shared observable material family: resin",
+        "Illustrative coordinate separation: 256.8 km",
+        "Upstream plant to tier-1 supplier role is structurally plausible"
+      ],
+      "explanation": "The model suggests this unconfirmed link because its material family, geographic separation and upstream/downstream roles resemble synthetic training patterns.",
+      "reviewStatus": "proposed",
+      "modelVersion": "synthetic-graphsage-v1",
+      "id": "hidden-3",
+      "source": "resin-plant",
+      "target": "s3"
+    }
+  ],
+  "suppressed": [],
+  "singlePointsOfFailure": [
+    {
+      "nodeId": "resin-plant",
+      "materialId": "resin",
+      "affectedTier1": 3,
+      "totalTier1": 5,
+      "materialTier1": 3,
+      "concentration": 1,
+      "risk": "high",
+      "illustrative": true
+    }
+  ],
+  "model": {
+    "version": "synthetic-graphsage-v1",
+    "trainingDomain": "synthetic",
+    "metricsLabel": "Synthetic-data results",
+    "metrics": {
+      "label": "Synthetic-data results",
+      "illustrative": true,
+      "modelVersion": "synthetic-graphsage-v1",
+      "seed": 2026,
+      "epochsRequested": 180,
+      "selectedEpoch": 174,
+      "selectionCriterion": "minimum validation binary cross entropy",
+      "test": {
+        "rocAuc": 0.9971938775510204,
+        "averagePrecision": 0.9964846298889942,
+        "precisionAt05": 0.9928571428571429,
+        "recallAt05": 0.9928571428571429,
+        "positiveEdges": 140,
+        "negativeEdges": 140
+      },
+      "split": {
+        "nodes": 320,
+        "positiveEdges": 930,
+        "trainPositive": 651,
+        "validationPositive": 139,
+        "testPositive": 140,
+        "messagePassingPositiveEdges": 651,
+        "heldOutEdgesLeakedIntoMessagePassing": 0,
+        "method": "Random disjoint edge split; 70% training, 15% validation, remainder test; same synthetic nodes across splits",
+        "negativeSampling": "PyG sampled nonedges, constrained to plausible role directions; all positives excluded; balanced test labels"
+      },
+      "limitations": [
+        "Synthetic homophilic material/region generator; these results do not measure real supplier-network accuracy.",
+        "Transductive edge split shares nodes and material/region patterns; it is not a held-out-company or temporal evaluation.",
+        "Most sampled negatives are geographically/material incompatible; this task may be much easier than real hidden-link detection.",
+        "Confidence is an uncalibrated model score, not a verified relationship probability.",
+        "Evidence lists describe observable features, not causal feature attribution."
+      ],
+      "trainedAt": "2026-10-23T01:20:59.674417+00:00",
+      "weightsSha256": "6fb12db0df59d07a5bb26f52901f6cdcb701e1d9a5b8287e4b752c8e629b9f7b"
+    },
+    "metricsSource": "ml/model/metrics.json",
+    "displayThreshold": 0.6,
+    "reviewThreshold": 0.8,
+    "calibratedProbability": false,
+    "evidenceMethod": "Observable input feature descriptions; not causal attribution"
+  },
+  "riskExplanation": {
+    "text": "An Illustrative cyclone signal overlaps the candidate resin-plant corridor and warrants a planner review.",
+    "score": 0.8,
+    "scoreMethod": "deterministic-signal-type-rule",
+    "provider": "deterministic-template",
+    "illustrative": true
+  }
+}
