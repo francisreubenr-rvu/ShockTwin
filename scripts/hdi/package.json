@@ -1,0 +1,15 @@
+{
+  "name": "shocktwin-hdi-deployer",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "hdb": "2.30.1",
+    "@sap/hdi-deploy": "5.7.0"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "start": "node node_modules/@sap/hdi-deploy/deploy.js --use-hdb"
+  }
+}

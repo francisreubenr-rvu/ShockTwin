@@ -1,0 +1,4 @@
+tenantId,ID,illustrative,name,unit,inventory,dailyDemand,unitValue,currency
+demo,resin,true,Engineering resin,units,1800,100,1000,INR
+demo,steel,true,Steel components,units,3000,100,500,INR
+demo,electronics,true,Electronic assemblies,units,3000,100,2000,INR

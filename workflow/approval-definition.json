@@ -1,0 +1,33 @@
+{
+  "id": "shocktwin-human-approval-v1",
+  "format": "vendor-neutral local workflow definition",
+  "sapNativeImportVerified": false,
+  "description": "Executable local draft approval contract; configure and validate a corresponding SAP Build Process Automation process before production.",
+  "initialState": "pending",
+  "purchasingAuthorityRole": "Buyer",
+  "decisions": ["approved", "rejected"],
+  "terminalStates": ["approved", "rejected"],
+  "states": {
+    "pending": {
+      "approved": {
+        "target": "approved",
+        "requiresRole": "Buyer",
+        "externalCommitAfterDecision": true
+      },
+      "rejected": {
+        "target": "rejected",
+        "requiresRole": "Buyer",
+        "externalCommitAfterDecision": false
+      }
+    },
+    "approved": {},
+    "rejected": {}
+  },
+  "auditFields": ["actor", "timestamp", "entityId", "before", "after", "correlationId"],
+  "production": {
+    "startPath": "/workflow-instances",
+    "definitionIdEnvironment": "BPA_DEFINITION_ID",
+    "decisionBridgeEnvironment": "BPA_DECISION_URL",
+    "verification": "[VERIFY] deployed process, user-task resolution, authorization, business purchasing semantics and ERP reconciliation"
+  }
+}

@@ -1,0 +1,51 @@
+apiVersion: ai.sap.com/v1alpha1
+kind: ServingTemplate
+metadata:
+  name: shocktwin-graphsage-serving
+  annotations:
+    scenarios.ai.sap.com/name: ShockTwin synthetic supplier-link inference
+    scenarios.ai.sap.com/description: Illustrative GraphSAGE link predictions with human review
+    executables.ai.sap.com/name: shocktwin-graphsage-inference
+  labels:
+    scenarios.ai.sap.com/id: shocktwin-links
+    ai.sap.com/version: '0.1.0'
+spec:
+  inputs:
+    parameters:
+      - name: image
+        type: string
+        description: Full authenticated registry reference of the built ml/Dockerfile image
+  template:
+    apiVersion: serving.kserve.io/v1beta1
+    metadata:
+      annotations:
+        autoscaling.knative.dev/minScale: '1'
+        autoscaling.knative.dev/maxScale: '2'
+    spec:
+      predictor:
+        imagePullSecrets:
+          - name: shocktwin-registry
+        containers:
+          - name: kserve-container
+            image: '{{inputs.parameters.image}}'
+            ports:
+              - containerPort: 8080
+                protocol: TCP
+            env:
+              - name: ML_HOST
+                value: '0.0.0.0'
+              - name: ML_PORT
+                value: '8080'
+            resources:
+              requests:
+                cpu: '1'
+                memory: 1Gi
+              limits:
+                cpu: '2'
+                memory: 2Gi
+            readinessProbe:
+              httpGet:
+                path: /health
+                port: 8080
+              initialDelaySeconds: 10
+              periodSeconds: 10

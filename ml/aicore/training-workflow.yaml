@@ -1,0 +1,36 @@
+apiVersion: argoproj.io/v1alpha1
+kind: WorkflowTemplate
+metadata:
+  name: shocktwin-graphsage-training
+  annotations:
+    scenarios.ai.sap.com/name: ShockTwin synthetic supplier-link training
+    scenarios.ai.sap.com/description: Reproducible Illustrative graph training and measured synthetic evaluation
+    executables.ai.sap.com/name: shocktwin-graphsage-training
+  labels:
+    scenarios.ai.sap.com/id: shocktwin-links
+    ai.sap.com/version: '0.1.0'
+spec:
+  entrypoint: train
+  arguments:
+    parameters:
+      - name: image
+  templates:
+    - name: train
+      outputs:
+        artifacts:
+          - name: model
+            globalName: model
+            path: /tmp/shocktwin-model
+            archive:
+              none: {}
+      container:
+        image: '{{workflow.parameters.image}}'
+        command: [python, train.py]
+        args: ['--seed', '2026', '--epochs', '180', '--output-dir', '/tmp/shocktwin-model']
+        resources:
+          requests:
+            cpu: '1'
+            memory: 1Gi
+          limits:
+            cpu: '2'
+            memory: 2Gi

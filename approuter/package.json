@@ -1,0 +1,14 @@
+{
+  "name": "shocktwin-approuter",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/@sap/approuter/approuter.js"
+  },
+  "engines": {
+    "node": "22.x || 24.x"
+  },
+  "dependencies": {
+    "@sap/approuter": "23.3.0"
+  }
+}

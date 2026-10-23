@@ -1,0 +1,4 @@
+tenantId,ID,illustrative,materialId,onHand,dailyBurn,unit
+demo,resin-stock,true,resin,1800,100,units
+demo,steel-stock,true,steel,3000,100,units
+demo,electronics-stock,true,electronics,3000,100,units

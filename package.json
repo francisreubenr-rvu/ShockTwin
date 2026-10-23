@@ -1,0 +1,107 @@
+{
+  "name": "shocktwin",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Detect, simulate and respond to supply-chain shocks on SAP BTP",
+  "license": "MIT",
+  "engines": {
+    "node": ">=20.19.0"
+  },
+  "scripts": {
+    "postinstall": "node scripts/setup-python.js && node scripts/build-ui5.js",
+    "start": "node server.js",
+    "dev": "node scripts/dev.js",
+    "seed": "node scripts/seed.js",
+    "demo": "node scripts/demo.js",
+    "test": "node --test tests/*.test.js",
+    "test:ml": "node scripts/python.js -m unittest discover -s tests -p test_gnn.py",
+    "test:e2e": "node tests/e2e.js",
+    "lint": "eslint .",
+    "format": "prettier --write .",
+    "format:check": "prettier --check .",
+    "build": "node scripts/build-ui5.js && cds build --production && node scripts/stage-production.js",
+    "build:mta": "mbt build",
+    "ml:train": "node scripts/python.js ml/train.py",
+    "ml:serve": "node scripts/python.js ml/serve.py",
+    "build:ui5": "node scripts/build-ui5.js"
+  },
+  "dependencies": {
+    "@cap-js/hana": "1.9.2",
+    "@cap-js/sqlite": "1.11.1",
+    "@openui5/sap.f": "1.136.5",
+    "@openui5/sap.m": "1.136.5",
+    "@openui5/sap.tnt": "1.136.5",
+    "@openui5/sap.ui.core": "1.136.5",
+    "@openui5/sap.ui.layout": "1.136.5",
+    "@openui5/sap.ui.table": "1.136.5",
+    "@openui5/sap.ui.unified": "1.136.5",
+    "@openui5/themelib_sap_horizon": "1.136.5",
+    "@sap/cds": "8.9.10",
+    "@sap/xssec": "4.15.0",
+    "d3": "7.9.0",
+    "dotenv": "16.6.1",
+    "express": "4.22.3"
+  },
+  "devDependencies": {
+    "@eslint/js": "9.39.5",
+    "@sap/cds-dk": "8.9.19",
+    "eslint": "9.39.5",
+    "globals": "16.5.0",
+    "less-openui5": "0.11.6",
+    "mbt": "1.2.49",
+    "playwright": "1.56.1",
+    "prettier": "3.6.2"
+  },
+  "cds": {
+    "requires": {
+      "db": {
+        "[development]": {
+          "kind": "sqlite",
+          "credentials": {
+            "url": "db.sqlite"
+          },
+          "impl": "./srv/lib/tenant-sqlite.js"
+        },
+        "[production]": {
+          "kind": "hana"
+        }
+      },
+      "auth": {
+        "[development]": {
+          "kind": "mocked"
+        },
+        "[production]": {
+          "kind": "xsuaa"
+        }
+      }
+    },
+    "build": {
+      "target": "gen",
+      "tasks": [
+        {
+          "for": "hana",
+          "src": "db",
+          "options": {
+            "model": [
+              "db",
+              "srv"
+            ]
+          }
+        },
+        {
+          "for": "nodejs",
+          "src": "srv",
+          "options": {
+            "model": [
+              "db",
+              "srv"
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "overrides": {
+    "better-sqlite3": "12.11.1"
+  }
+}

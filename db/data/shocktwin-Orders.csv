@@ -1,0 +1,5 @@
+tenantId,ID,illustrative,materialId,customerRef,quantity,dueDay,value,currency
+demo,order-1,true,resin,Illustrative customer 1,100,10,150000,INR
+demo,order-2,true,resin,Illustrative customer 2,100,20,240000,INR
+demo,order-3,true,resin,Illustrative customer 3,100,25,320000,INR
+demo,order-4,true,resin,Illustrative customer 4,100,29,280000,INR

@@ -1,0 +1,10 @@
+node_modules
+.venv
+.runtime
+gen
+mta_archives
+presentations
+ml/model
+*.csv
+*.sqlite
+package-lock.json

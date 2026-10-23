@@ -1,0 +1,82 @@
+_schema-version: '3.3'
+ID: shocktwin
+version: 0.1.0
+description: ShockTwin CAP services, SAPUI5 shell and HANA deployment
+parameters:
+  enable-parallel-deployments: true
+build-parameters:
+  before-all:
+    - builder: custom
+      commands:
+        - npm run build
+modules:
+  - name: shocktwin-srv
+    type: nodejs
+    path: gen/srv
+    parameters:
+      memory: 512M
+      disk-quota: 1G
+      instances: 1
+      health-check-type: http
+      health-check-http-endpoint: /health/live
+    build-parameters:
+      builder: npm-ci
+    properties:
+      NODE_ENV: production
+      CDS_ENV: production
+    provides:
+      - name: srv-api
+        properties:
+          srv-url: ${default-url}
+    requires:
+      - name: shocktwin-db
+      - name: shocktwin-auth
+      - name: shocktwin-destination
+  - name: shocktwin-db-deployer
+    type: hdb
+    path: gen/db
+    parameters:
+      buildpack: nodejs_buildpack
+    build-parameters:
+      builder: npm-ci
+    requires:
+      - name: shocktwin-db
+  - name: shocktwin-router
+    type: approuter.nodejs
+    path: approuter
+    parameters:
+      memory: 256M
+      disk-quota: 512M
+      keep-existing-routes: true
+    build-parameters:
+      builder: npm-ci
+    requires:
+      - name: shocktwin-auth
+      - name: srv-api
+        group: destinations
+        properties:
+          name: srv-api
+          url: ~{srv-url}
+          forwardAuthToken: true
+resources:
+  - name: shocktwin-db
+    type: com.sap.xs.hdi-container
+    parameters:
+      service: hana
+      service-plan: hdi-shared
+    properties:
+      hdi-service-name: ${service-name}
+  - name: shocktwin-auth
+    type: org.cloudfoundry.managed-service
+    parameters:
+      service: xsuaa
+      service-plan: application
+      path: ./xs-security.json
+      config:
+        xsappname: shocktwin-${org}-${space}
+        tenant-mode: dedicated
+  - name: shocktwin-destination
+    type: org.cloudfoundry.managed-service
+    parameters:
+      service: destination
+      service-plan: lite

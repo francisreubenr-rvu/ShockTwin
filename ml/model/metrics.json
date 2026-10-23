@@ -1,0 +1,37 @@
+{
+  "label": "Synthetic-data results",
+  "illustrative": true,
+  "modelVersion": "synthetic-graphsage-v1",
+  "seed": 2026,
+  "epochsRequested": 180,
+  "selectedEpoch": 174,
+  "selectionCriterion": "minimum validation binary cross entropy",
+  "test": {
+    "rocAuc": 0.9971938775510204,
+    "averagePrecision": 0.9964846298889942,
+    "precisionAt05": 0.9928571428571429,
+    "recallAt05": 0.9928571428571429,
+    "positiveEdges": 140,
+    "negativeEdges": 140
+  },
+  "split": {
+    "nodes": 320,
+    "positiveEdges": 930,
+    "trainPositive": 651,
+    "validationPositive": 139,
+    "testPositive": 140,
+    "messagePassingPositiveEdges": 651,
+    "heldOutEdgesLeakedIntoMessagePassing": 0,
+    "method": "Random disjoint edge split; 70% training, 15% validation, remainder test; same synthetic nodes across splits",
+    "negativeSampling": "PyG sampled nonedges, constrained to plausible role directions; all positives excluded; balanced test labels"
+  },
+  "limitations": [
+    "Synthetic homophilic material/region generator; these results do not measure real supplier-network accuracy.",
+    "Transductive edge split shares nodes and material/region patterns; it is not a held-out-company or temporal evaluation.",
+    "Most sampled negatives are geographically/material incompatible; this task may be much easier than real hidden-link detection.",
+    "Confidence is an uncalibrated model score, not a verified relationship probability.",
+    "Evidence lists describe observable features, not causal feature attribution."
+  ],
+  "trainedAt": "2026-10-23T01:20:59.674417+00:00",
+  "weightsSha256": "6fb12db0df59d07a5bb26f52901f6cdcb701e1d9a5b8287e4b752c8e629b9f7b"
+}

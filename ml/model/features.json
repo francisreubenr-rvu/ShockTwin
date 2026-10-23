@@ -1,0 +1,22 @@
+{
+  "version": "observable-features-v1",
+  "nodeDimension": 11,
+  "pairDimension": 5,
+  "nodeFeatures": [
+    "role one-hot",
+    "material family one-hot",
+    "latitude / 90",
+    "longitude / 180",
+    "tier / 3"
+  ],
+  "pairFeatures": [
+    "shared material",
+    "distance / 1500 capped at 2",
+    "plausible role direction",
+    "tier difference / 3",
+    "source is plant"
+  ],
+  "messagePassing": "Bidirectional observed training links only",
+  "augmentation": "Randomly isolate 25% of nodes each training epoch for sparse/isolated-node robustness",
+  "unknownCategory": "All-zero one-hot; predictions out of synthetic vocabulary require review"
+}

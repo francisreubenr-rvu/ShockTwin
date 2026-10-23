@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#102b36" />
+    <title>ShockTwin · Supply chain resilience</title>
+    <script src="/vendor/d3/d3.min.js"></script>
+    <script
+      id="sap-ui-bootstrap"
+      src="/resources/sap-ui-core.js"
+      data-sap-ui-theme="sap_horizon"
+      data-sap-ui-language="en"
+      data-sap-ui-libs="sap.m,sap.f,sap.ui.layout"
+      data-sap-ui-resourceroots='{"shocktwin":"./"}'
+      data-sap-ui-async="true"
+      data-sap-ui-compat-version="edge"
+      data-sap-ui-frame-options="trusted"
+    ></script>
+    <script>
+      sap.ui.getCore().attachInit(function () {
+        sap.ui.require(
+          ['sap/ui/core/ComponentContainer', 'sap/ui/dom/includeStylesheet'],
+          function (ComponentContainer, includeStylesheet) {
+            includeStylesheet({ url: '/css/style.css', id: 'shocktwin-overrides' }).then(
+              function () {
+                new ComponentContainer({
+                  name: 'shocktwin',
+                  height: '100%',
+                  async: true,
+                }).placeAt('content');
+              },
+            );
+          },
+        );
+      });
+    </script>
+  </head>
+  <body class="sapUiBody sapUiSizeCompact" id="content">
+    <noscript>ShockTwin requires JavaScript to display the supply-chain workspace.</noscript>
+  </body>
+</html>

@@ -1,0 +1,21 @@
+{
+  "illustrative": true,
+  "source": "ShockTwin offline demo fixture",
+  "signals": [
+    {
+      "id": "cyclone-1",
+      "type": "cyclone",
+      "nodeId": "resin-plant",
+      "location": "Illustrative coastal resin corridor",
+      "latitude": 13.08,
+      "longitude": 80.19,
+      "severity": 1,
+      "durationDays": 28,
+      "observedAt": "2026-10-23T00:00:00Z",
+      "headline": "Illustrative cyclone warning near the shared resin plant",
+      "riskScore": 1,
+      "explanation": "A cyclone warning overlaps the illustrative resin plant location.",
+      "illustrative": true
+    }
+  ]
+}

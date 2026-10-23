@@ -1,0 +1,7 @@
+tenantId,ID,illustrative,capacityType,location,latitude,longitude,startDate,endDate,priceBand,providerName,volumeDaily,leadTimeDays,capabilityFit,exactUnitPrice,qualification,active
+provider-1,capacity-1,true,moulding,Hosur · Illustrative,12.7409,77.8253,2026-10-23,2026-12-31,medium,Illustrative capacity provider 1,160,1,0.99,900,Demo eligibility only; real tooling and quality qualification required,true
+provider-2,capacity-2,true,moulding,Tumakuru · Illustrative,13.3409,77.101,2026-10-23,2026-12-31,low,Illustrative capacity provider 2,140,2,0.97,800,Demo eligibility only; real tooling and quality qualification required,true
+provider-3,capacity-3,true,moulding,Mandya · Illustrative,12.5218,76.8951,2026-10-23,2026-12-31,medium,Illustrative capacity provider 3,120,3,0.95,950,Demo eligibility only; real tooling and quality qualification required,true
+provider-4,capacity-4,true,warehouse,Mysuru · Illustrative,12.2958,76.6394,2026-10-23,2026-12-31,low,Illustrative capacity provider 4,300,1,1,200,Demo eligibility only; real tooling and quality qualification required,true
+provider-5,capacity-5,true,moulding,Chitradurga · Illustrative,14.2306,76.3985,2026-10-23,2026-12-31,high,Illustrative capacity provider 5,200,4,0.98,1100,Demo eligibility only; real tooling and quality qualification required,true
+provider-6,capacity-6,true,transport,Salem · Illustrative,11.6643,78.146,2026-10-23,2026-12-31,medium,Illustrative capacity provider 6,180,2,1,600,Demo eligibility only; real tooling and quality qualification required,true

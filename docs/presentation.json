@@ -1,0 +1,461 @@
+[
+  {
+    "number": 1,
+    "duration": 25,
+    "headline": "See the shock before it hits.",
+    "accent": "before it hits.",
+    "section": "Problem",
+    "eyebrow": "01 · VISION",
+    "support": "See the supply shock coming; borrow the capacity to survive it.",
+    "imagePrompt": "Cinematic painterly matte painting, hand-painted animation and classical landscape influences, slightly surreal yet coherent, 16:9 landscape, at least 1920x1080. Consistent teal, lavender and coral palette with warm amber light. One scene only. No text, numbers, logos, watermarks, UI or borders. Keep left 45 percent calm for typography and protect the main subject on the far right. A floating moss-covered cargo ship drifting among luminous coral clouds, viewed through a monumental dark sea cave; ship at right-middle, layered teal sea below, cave framing the scene and calm dark left wall for title.",
+    "sourceLine": "Event, team and product: supplied brief · P-ID P2012988948",
+    "stats": [
+      {
+        "label": "PRODUCT",
+        "value": "ShockTwin",
+        "source": "Supplied brief"
+      },
+      {
+        "label": "TEAM",
+        "value": "Francis Reuben R · Avaneesh · Affan · Vivek",
+        "source": "Latest supplied team brief"
+      }
+    ],
+    "notes": "Good morning. We are Francis, Avaneesh, Affan and Vivek from RV University. This is ShockTwin: see the supply shock coming, borrow the capacity to survive it. Imagine a supplier map that can reveal the dependency nobody showed you, rehearse its failure, and help you approve a practical response before your production line stops.",
+    "layout": "Headline left; product glass card lower-left; team glass card lower-right. White ring dot on ship (15.5,5.0), thin leader to product card. No data numeral outside glass.",
+    "screenshotPaths": []
+  },
+  {
+    "number": 2,
+    "duration": 35,
+    "headline": "One fire. $210 billion lost.",
+    "accent": "$210 billion lost.",
+    "section": "Problem",
+    "eyebrow": "02 · THE COST",
+    "support": "The total reflects the overall chip shortage in 2021, not the loss attributable to one fire.",
+    "imagePrompt": "Cinematic painterly matte painting, hand-painted animation and classical landscape influences, slightly surreal yet coherent, 16:9 landscape, at least 1920x1080. Consistent teal, lavender and coral palette with warm amber light. One scene only. No text, numbers, logos, watermarks, UI or borders. Keep left 45 percent calm for typography and protect the main subject on the far right. An abandoned cathedral-like automotive factory, vaulted roof and immense quiet assembly hall, unfinished cars at right, warm light crossing dusty lavender air, empty production line stretching into teal shadow; clear dark left aisle for title.",
+    "sourceLine": "Reuters, Mar 2021 · AlixPartners, Sep 2021 · Overall shortage impact, not fire-only loss",
+    "stats": [
+      {
+        "label": "2021 CHIP SHORTAGE",
+        "value": "$210B",
+        "source": "AlixPartners, Sep 2021; overall shortage"
+      },
+      {
+        "label": "VEHICLES NOT BUILT",
+        "value": "7.7M",
+        "source": "AlixPartners, Sep 2021"
+      },
+      {
+        "label": "AUTOMOTIVE MCU SHARE",
+        "value": "~30%",
+        "source": "Reuters, Mar 2021; Renesas"
+      }
+    ],
+    "notes": "In March 2021, fire hit Renesas, a firm supplying about thirty percent of automotive microcontrollers. That concentration exposed how one upstream facility could affect many manufacturers. Separately, AlixPartners estimated the entire 2021 chip shortage cost automakers two hundred and ten billion dollars and seven point seven million vehicles. We are not attributing that whole loss to one fire. The lesson is that a small-looking upstream dependency can become a system-wide production problem.",
+    "layout": "Headline left with glass scrim behind the $210B headline portion. Supporting sentence below. Two stat cards lower-left for 7.7M and ~30%; factory subject stays far right. Put year in source label/card.",
+    "screenshotPaths": []
+  },
+  {
+    "number": 3,
+    "duration": 30,
+    "headline": "Most firms can't see past tier 1.",
+    "accent": "past tier 1.",
+    "section": "Problem",
+    "eyebrow": "03 · VISIBILITY",
+    "support": "Beyond-tier-one visibility is shrinking when upstream exposure matters most.",
+    "imagePrompt": "Cinematic painterly matte painting, hand-painted animation and classical landscape influences, slightly surreal yet coherent, 16:9 landscape, at least 1920x1080. Consistent teal, lavender and coral palette with warm amber light. One scene only. No text, numbers, logos, watermarks, UI or borders. Keep left 45 percent calm for typography and protect the main subject on the far right. A lantern-lit stone causeway vanishing into thick lavender sea fog, causeway beginning right foreground and disappearing toward upper center, coral dusk horizon, restrained amber lantern light; quiet dark water and fog at left.",
+    "sourceLine": "McKinsey Supply Chain Risk Survey 2024",
+    "stats": [
+      {
+        "label": "2022",
+        "value": "56%",
+        "source": "McKinsey Supply Chain Risk Survey 2024"
+      },
+      {
+        "label": "2023",
+        "value": "37%",
+        "source": "McKinsey Supply Chain Risk Survey 2024"
+      },
+      {
+        "label": "2024",
+        "value": "30%",
+        "source": "McKinsey Supply Chain Risk Survey 2024"
+      }
+    ],
+    "notes": "Yet visibility is moving in the wrong direction. McKinsey's survey reports visibility beyond tier one falling from fifty-six percent in 2022, to thirty-seven percent, to thirty percent in 2024. This is not a forecast; it is the published survey series. If a purchasing dashboard stops at direct suppliers, it can display several alternatives while missing the single upstream dependency that makes them fail together.",
+    "layout": "Headline upper-left; one wide glass native line-chart card lower-right. Direct labels 2022 56%, 2023 37%, 2024 30%; only latest point amber. No legend.",
+    "screenshotPaths": []
+  },
+  {
+    "number": 4,
+    "duration": 30,
+    "headline": "The danger sits below the surface.",
+    "accent": "below the surface.",
+    "section": "Problem",
+    "eyebrow": "04 · THE BLIND SPOT",
+    "support": "The shared dependency you cannot see can stop the production you can.",
+    "imagePrompt": "Cinematic painterly matte painting, hand-painted animation and classical landscape influences, slightly surreal yet coherent, 16:9 landscape, at least 1920x1080. Consistent teal, lavender and coral palette with warm amber light. One scene only. No text, numbers, logos, watermarks, UI or borders. Keep left 45 percent calm for typography and protect the main subject on the far right. A monumental iceberg in a teal sea shown in a believable cinematic above-and-below-water cutaway; small visible tip at upper right, huge hidden underwater mass at lower right, coral-lavender sky; calm deep dark water on left.",
+    "sourceLine": "McKinsey [report details VERIFY] · McKinsey 2022 · McKinsey Supply Chain Risk Survey 2024",
+    "stats": [
+      {
+        "label": "DISRUPTIONS AT TIER 2+",
+        "value": "~2/3",
+        "source": "McKinsey [exact report VERIFY]"
+      },
+      {
+        "label": "SEE TIER 3",
+        "value": "~10%",
+        "source": "McKinsey, 2022"
+      },
+      {
+        "label": "RESPONSE TIME",
+        "value": "~2 weeks",
+        "source": "McKinsey Supply Chain Risk Survey 2024"
+      }
+    ],
+    "notes": "The iceberg is the problem. About two-thirds of disruptions originate at tier two or deeper, according to McKinsey. Only about ten percent of firms see their tier-three suppliers, and the average response to a new disruption is about two weeks. These measures come from different published observations, not one experiment. ShockTwin asks a practical question: can a buyer identify a consequential hidden dependency and act while inventory still gives them time?",
+    "layout": "Headline left; large ~2/3 glass card lower-right, callout anchored to underwater mass. Two compact cards below left for ~10% and ~2 weeks. Preserve iceberg silhouette.",
+    "screenshotPaths": []
+  },
+  {
+    "number": 5,
+    "duration": 30,
+    "headline": "The Red Sea closed. India paid.",
+    "accent": "India paid.",
+    "section": "Problem",
+    "eyebrow": "05 · ROUTE RISK",
+    "support": "Disrupted shipping routes transmitted cost pressure to Indian supply chains; the sea was not literally closed.",
+    "imagePrompt": "Cinematic painterly matte painting, hand-painted animation and classical landscape influences, slightly surreal yet coherent, 16:9 landscape, at least 1920x1080. Consistent teal, lavender and coral palette with warm amber light. One scene only. No text, numbers, logos, watermarks, UI or borders. Keep left 45 percent calm for typography and protect the main subject on the far right. A container ship passing through a dramatic red-cliff strait, ship right-middle dwarfed by coral sandstone walls, teal water and lavender haze, amber late light on cliff rims; broad quiet shadow at left for editorial title.",
+    "sourceLine": "Reuters, Jan 2024 · UNCTAD, 2024 · Different measures and periods",
+    "stats": [
+      {
+        "label": "INDIA–EUROPE CONTAINER",
+        "value": "$600 → $1,500",
+        "source": "Reuters, Jan 2024; approximate costs"
+      },
+      {
+        "label": "SUEZ TRAFFIC",
+        "value": "−57%",
+        "source": "UNCTAD; from peak to Oct 2024"
+      },
+      {
+        "label": "SHANGHAI–EUROPE SPOT",
+        "value": "+256%",
+        "source": "UNCTAD, 2024"
+      }
+    ],
+    "notes": "The Red Sea illustrates how a distant route becomes a local cost. The sea was disrupted, not literally closed. UNCTAD reports Suez traffic down fifty-seven percent from its peak by October 2024 and Shanghai–Europe spot rates up two hundred and fifty-six percent. Reuters reported India–Europe container costs moving from about six hundred to fifteen hundred dollars in January. Different periods, different measures, one message: geography does not contain supply-chain consequences.",
+    "layout": "Headline upper-left; native two-bar cost chart in glass lower-right, directly labelled $600 and $1,500. Two compact stats beneath left. Clarifying support must remain visible.",
+    "screenshotPaths": []
+  },
+  {
+    "number": 6,
+    "duration": 30,
+    "headline": "Toyota survived because it had a map.",
+    "accent": "had a map.",
+    "section": "Problem",
+    "eyebrow": "06 · THE COUNTEREXAMPLE",
+    "support": "Mapping upstream dependencies can turn a hidden concentration into a decision.",
+    "imagePrompt": "Cinematic painterly matte painting, hand-painted animation and classical landscape influences, slightly surreal yet coherent, 16:9 landscape, at least 1920x1080. Consistent teal, lavender and coral palette with warm amber light. One scene only. No text, numbers, logos, watermarks, UI or borders. Keep left 45 percent calm for typography and protect the main subject on the far right. A lone cartographer on a grassy hill at right overlooking a valley of faint glowing route threads beneath a snow volcano, teal valley shadows, lavender and coral dawn sky, warm amber map light; open left sky and hillside.",
+    "sourceLine": "Bloomberg, Apr 2021 · Fortune, Jan 2022",
+    "stats": [
+      {
+        "label": "CRITICAL PARTS MAPPED",
+        "value": "~1,500",
+        "source": "Bloomberg Apr 2021 / Fortune Jan 2022"
+      },
+      {
+        "label": "US OUTPUT KEPT",
+        "value": "~90%",
+        "source": "Bloomberg Apr 2021 / Fortune Jan 2022"
+      },
+      {
+        "label": "GM UNITS CUT",
+        "value": "~278,000",
+        "source": "Bloomberg Apr 2021 / Fortune Jan 2022"
+      }
+    ],
+    "notes": "There is a useful counterexample. After 2011, Toyota mapped about fifteen hundred critical parts. During the chip crisis it kept US production near ninety percent, while GM cut about two hundred and seventy-eight thousand units. The cited reporting does not prove that mapping alone caused that difference. It shows why upstream knowledge deserves attention. Our aim is to make mapping actionable through a connected warning, rehearsal and response workflow.",
+    "layout": "Headline left; three glass stat cards along lower band, clear of cartographer at far right. Leader from mapped-parts card toward valley threads.",
+    "screenshotPaths": []
+  },
+  {
+    "number": 7,
+    "duration": 20,
+    "headline": "Meet ShockTwin.",
+    "accent": "ShockTwin.",
+    "section": "ShockTwin",
+    "eyebrow": "07 · DETECT · SIMULATE · RESPOND",
+    "support": "One connected loop: Detect, Simulate, Respond.",
+    "imagePrompt": "Cinematic painterly matte painting, hand-painted animation and classical landscape influences, slightly surreal yet coherent, 16:9 landscape, at least 1920x1080. Consistent teal, lavender and coral palette with warm amber light. One scene only. No text, numbers, logos, watermarks, UI or borders. Keep left 45 percent calm for typography and protect the main subject on the far right. A view through a vintage train window onto mountains at dusk, a subtle constellation network of warm lights in the sky over the right side, teal cabin frame and coral-lavender horizon; uncluttered dark left window/cabin area.",
+    "sourceLine": "Product workflow: supplied brief · Implementation: repository",
+    "stats": [
+      {
+        "label": "01",
+        "value": "Detect",
+        "source": "Supplied product loop; ordinal"
+      },
+      {
+        "label": "02",
+        "value": "Simulate",
+        "source": "Supplied product loop; ordinal"
+      },
+      {
+        "label": "03",
+        "value": "Respond",
+        "source": "Supplied product loop; ordinal"
+      }
+    ],
+    "notes": "Meet ShockTwin. Detect proposes hidden upstream links. Simulate translates a shock into material and order consequences. Respond brings CapacityMesh into that same workflow, finding spare capacity and preparing an action for human approval. We are demonstrating one product, with one continuous decision loop, rather than two disconnected tools.",
+    "layout": "Headline upper-left; three equal glass cards lower band: 01 Detect, 02 Simulate, 03 Respond. These are product ordinals, not measured values. Keep constellation visible above.",
+    "screenshotPaths": []
+  },
+  {
+    "number": 8,
+    "duration": 40,
+    "headline": "Find the suppliers you never knew.",
+    "accent": "you never knew.",
+    "section": "ShockTwin",
+    "eyebrow": "08 · 01 · DETECT",
+    "support": "Illustrative: three immediate suppliers share one hidden resin plant.",
+    "imagePrompt": "Cinematic painterly matte painting, hand-painted animation and classical landscape influences, slightly surreal yet coherent, 16:9 landscape, at least 1920x1080. Consistent teal, lavender and coral palette with warm amber light. One scene only. No text, numbers, logos, watermarks, UI or borders. Keep left 45 percent calm for typography and protect the main subject on the far right. A vast night sky above layered teal mountains, tiny warm constellation points naturally converging above one distant valley plant on right; lavender twilight and a hint of coral horizon, restrained amber light; calm dark left sky.",
+    "sourceLine": "Illustrative local demo · Synthetic GraphSAGE scores · Kosasih & Brintrup, IJPR 2022",
+    "stats": [
+      {
+        "label": "IMMEDIATE SUPPLIERS",
+        "value": "5",
+        "source": "Illustrative seeded dataset"
+      },
+      {
+        "label": "SHARED UPSTREAM PLANT",
+        "value": "1",
+        "source": "Illustrative seeded dataset"
+      },
+      {
+        "label": "DEPENDENT SUPPLIERS",
+        "value": "3 of 5",
+        "source": "Illustrative seeded dataset"
+      }
+    ],
+    "notes": "Meet Priya, our illustrative procurement head at a Bengaluru auto-parts manufacturer. She starts with five immediate suppliers. We run the model and reveal a candidate shared resin plant behind three of them. The dashed edges carry actual synthetic-model scores and evidence; they are hypotheses, not verified commercial relationships. Priya can confirm or reject them. Our GraphSAGE model is trained on synthetic data; its measured test results are labelled accordingly. The research basis is supplier-network link prediction by Kosasih and Brintrup, not a borrowed accuracy claim.",
+    "layout": "Headline left; real 1920x1080 risk-map screenshot in right glass device card. Crop only app viewport/empty margin; do not redraw scores or hide Illustrative status. Lower-left compact card says 3 of 5. Ring leader to shared plant in screenshot.",
+    "screenshotPaths": ["docs/screenshots/risk-map.png"]
+  },
+  {
+    "number": 9,
+    "duration": 45,
+    "headline": "War-game the storm before it lands.",
+    "accent": "before it lands.",
+    "section": "ShockTwin",
+    "eyebrow": "09 · 02 · SIMULATE",
+    "support": "Illustrative: a day-three replacement switch avoids a line stop through the displayed simulation horizon.",
+    "imagePrompt": "Cinematic painterly matte painting, hand-painted animation and classical landscape influences, slightly surreal yet coherent, 16:9 landscape, at least 1920x1080. Consistent teal, lavender and coral palette with warm amber light. One scene only. No text, numbers, logos, watermarks, UI or borders. Keep left 45 percent calm for typography and protect the main subject on the far right. A powerful cyclone advancing toward a sunlit valley factory on far right, huge lavender storm spiral in the upper distance, teal hills and coral sky opening at the horizon, warm amber factory light; calm dark left slope for text.",
+    "sourceLine": "Illustrative local simulation · Assumptions and real app result in screenshot",
+    "stats": [
+      {
+        "label": "BASELINE STOCK-OUT",
+        "value": "Day 18",
+        "source": "Illustrative local simulation"
+      },
+      {
+        "label": "REPLACEMENT STARTS",
+        "value": "Day 3",
+        "source": "Illustrative local simulation"
+      },
+      {
+        "label": "HORIZON",
+        "value": "30 days",
+        "source": "Illustrative local simulation; design horizon"
+      }
+    ],
+    "notes": "Now we rehearse the cyclone. This is the real simulator, using illustrative inputs: eighteen hundred resin units and demand of one hundred units per day. Under the default full-loss shock, baseline stock reaches zero on day eighteen. Switch on replacement flow after day three, and the curve holds at fifteen hundred units because replacement covers daily demand. That avoids a line stop through this displayed horizon. It is conditional on timing, volume and availability, not a promise of endless continuity. We can change severity, duration and switch timing to see where the plan fails.",
+    "layout": "Headline left; real simulator screenshot in right glass device card; native line chart in lower-left glass card with baseline and day-3 switch, direct labels and all daily points from actual API output. Day-18 failure point amber.",
+    "screenshotPaths": ["docs/screenshots/simulator.png"]
+  },
+  {
+    "number": 10,
+    "duration": 45,
+    "headline": "Borrow capacity in minutes, not weeks.",
+    "accent": "in minutes,",
+    "section": "ShockTwin",
+    "eyebrow": "10 · 03 · RESPOND · CAPACITYMESH",
+    "support": "CapacityMesh turns a qualified match into a human-approved draft; minutes describes the demo workflow, not physical activation.",
+    "imagePrompt": "Cinematic painterly matte painting, hand-painted animation and classical landscape influences, slightly surreal yet coherent, 16:9 landscape, at least 1920x1080. Consistent teal, lavender and coral palette with warm amber light. One scene only. No text, numbers, logos, watermarks, UI or borders. Keep left 45 percent calm for typography and protect the main subject on the far right. An Indian highway at dusk with a few trucks on right, industrial rooftops across a teal valley linked by faint warm glowing threads, lavender and coral sky, amber road light; a broad dark quiet left hillside for typography.",
+    "sourceLine": "DPIIT–NCAER 2025 · RBI OBICUS Q1 2026–27 [VERIFY] · COVID case source [VERIFY]",
+    "stats": [
+      {
+        "label": "TRUCK EMPTY RUNNING",
+        "value": "Up to 40%",
+        "source": "DPIIT–NCAER Logistics Cost Assessment, 2025"
+      },
+      {
+        "label": "MANUFACTURING UTILISATION",
+        "value": "74.6%",
+        "source": "RBI OBICUS Q1 2026–27 [VERIFY source availability]"
+      },
+      {
+        "label": "VENTILATORS / TIME",
+        "value": "~60,000 / ~3 months",
+        "source": "Supplied COVID sharing case [original source VERIFY]"
+      }
+    ],
+    "notes": "CapacityMesh is the response step. We request suitable moulding capacity, inspect the eligible matches and see exactly how capability, distance, volume, lead time and price band affect ranking. Only minimal capacity envelopes are public; raw transactions stay private. Priya drafts a purchase order, reviews it in the inbox and approves it, leaving an audit trail. The local ERP is explicitly a mock. India's empty-running and utilisation figures suggest capacity worth investigating, while the ventilator collaboration shows precedent. They do not prove every idle asset is usable, and our minutes headline describes the demonstrated workflow, not physical production activation.",
+    "layout": "Headline left; real ranked-match screenshot right-upper and real approved-draft screenshot right-lower, each device-framed glass. Three compact context cards bottom-left; preserve screenshot readability. Record separate states without implying simultaneous app view.",
+    "screenshotPaths": ["docs/screenshots/capacitymesh.png", "docs/screenshots/approval.png"]
+  },
+  {
+    "number": 11,
+    "duration": 35,
+    "headline": "Built on SAP BTP.",
+    "accent": "SAP BTP.",
+    "section": "SAP",
+    "eyebrow": "11 · SAP BTP",
+    "support": "One decision workflow, with human approval at the boundary of action.",
+    "imagePrompt": "Cinematic painterly matte painting, hand-painted animation and classical landscape influences, slightly surreal yet coherent, 16:9 landscape, at least 1920x1080. Consistent teal, lavender and coral palette with warm amber light. One scene only. No text, numbers, logos, watermarks, UI or borders. Keep left 45 percent calm for typography and protect the main subject on the far right. A classical temple rising from a misty teal sea, temple on far right with six visually coherent terraces but no lettering, lavender-coral sky and warm amber light through columns; calm shaded left sea and sky.",
+    "sourceLine": "SAP target architecture: project design · Live cloud integration [VERIFY]",
+    "stats": [
+      {
+        "label": "UI",
+        "value": "SAPUI5 / Horizon",
+        "source": "Project target/implementation"
+      },
+      {
+        "label": "AGENT",
+        "value": "Build Process Automation",
+        "source": "SAP target; local fallback"
+      },
+      {
+        "label": "APP",
+        "value": "CAP / Node.js",
+        "source": "Project target/implementation"
+      },
+      {
+        "label": "AI",
+        "value": "AI Core / Gen AI Hub",
+        "source": "SAP target; local GraphSAGE/template fallback"
+      },
+      {
+        "label": "DATA",
+        "value": "HANA Cloud",
+        "source": "SAP target; SQLite local"
+      },
+      {
+        "label": "SOURCE",
+        "value": "Integration Suite / S/4HANA",
+        "source": "SAP target; mocks local"
+      }
+    ],
+    "notes": "The target platform is SAP BTP. SAPUI5 provides the Horizon interface; CAP owns the domain services; HANA Cloud holds graph, vector and relational data; AI Core and AI Launchpad host the model; and Generative AI Hub supports bounded explanations. Integration Suite connects enterprise and external sources, while Build Process Automation routes approval. Today the complete local flow runs with SQLite and explicit mocks. Live SAP service bindings and purchasing semantics still require verification. Human authorization remains the final control.",
+    "layout": "Headline left; six stacked glass layers at right: UI, Agent, App, AI, Data, Source. AI layer receives amber border/label; all other strokes white. Local/target qualifier remains in support/source.",
+    "screenshotPaths": []
+  },
+  {
+    "number": 12,
+    "duration": 25,
+    "headline": "Designed step by step with empathy.",
+    "accent": "with empathy.",
+    "section": "SAP",
+    "eyebrow": "12 · DESIGN THINKING",
+    "support": "Published cases informed the persona; interviews and a cluster pilot are planned.",
+    "imagePrompt": "Cinematic painterly matte painting, hand-painted animation and classical landscape influences, slightly surreal yet coherent, 16:9 landscape, at least 1920x1080. Consistent teal, lavender and coral palette with warm amber light. One scene only. No text, numbers, logos, watermarks, UI or borders. Keep left 45 percent calm for typography and protect the main subject on the far right. Five elegant stepping stones crossing a mirror lake toward a mountain on right, teal water reflecting lavender and coral dusk, amber light at the distant shore; spacious calm dark left reflection for headline.",
+    "sourceLine": "Project process record · Published cases and persona; interviews planned",
+    "stats": [
+      {
+        "label": "EMPATHIZE",
+        "value": "Published cases + persona",
+        "source": "Project process record"
+      },
+      {
+        "label": "DEFINE",
+        "value": "Hidden dependency + response gap",
+        "source": "Project process record"
+      },
+      {
+        "label": "IDEATE",
+        "value": "One connected loop",
+        "source": "Project process record"
+      },
+      {
+        "label": "PROTOTYPE",
+        "value": "Working local app",
+        "source": "Real build; validate before final export"
+      },
+      {
+        "label": "TEST",
+        "value": "Engineering tests; interviews next",
+        "source": "Project process record"
+      }
+    ],
+    "notes": "We followed the five Design Thinking phases honestly. Empathy currently comes from published cases and our Priya persona, not completed interviews. We defined the hidden-dependency and response gap, explored a connected loop, built the prototype and tested its engineering flow. Next come interviews and a real cluster pilot. We will not present automated tests as customer validation.",
+    "layout": "Headline upper-left; five glass phase cards arranged across lower half with short labels only. Stepping stones remain visible through gaps. No invented interview count.",
+    "screenshotPaths": []
+  },
+  {
+    "number": 13,
+    "duration": 30,
+    "headline": "What resilience is worth.",
+    "accent": "resilience",
+    "section": "Impact",
+    "eyebrow": "13 · VALUE CONTEXT",
+    "support": "Published context motivates the product; these are not measured ShockTwin savings.",
+    "imagePrompt": "Cinematic painterly matte painting, hand-painted animation and classical landscape influences, slightly surreal yet coherent, 16:9 landscape, at least 1920x1080. Consistent teal, lavender and coral palette with warm amber light. One scene only. No text, numbers, logos, watermarks, UI or borders. Keep left 45 percent calm for typography and protect the main subject on the far right. A sunrise harbour with cargo vessels and cranes clustered at far right, broad teal water, lavender-coral dawn sky and restrained amber sunlight, painterly quiet sense of recovery; dark calm foreground and left sky.",
+    "sourceLine": "MGI 2020 · Collaboration studies from brief [original sources VERIFY] · Not product results",
+    "stats": [
+      {
+        "label": "DECADE DISRUPTION COST",
+        "value": "~45%",
+        "source": "MGI 2020; fraction of one year’s profits"
+      },
+      {
+        "label": "LEAD TIME",
+        "value": "−30.8%",
+        "source": "Collaboration study supplied in brief [original source VERIFY]"
+      },
+      {
+        "label": "TRANSPORT COST",
+        "value": "−25.83%",
+        "source": "Collaboration study supplied in brief [original source VERIFY]"
+      },
+      {
+        "label": "MONTH-LONG SHOCK",
+        "value": "~Every 3.7 years",
+        "source": "MGI, 2020"
+      }
+    ],
+    "notes": "The stakes are substantial, but these are published context, not our results. McKinsey estimates month-long disruptions about every three point seven years and decade losses around forty-five percent of one year's profits. The brief also supplies collaboration-study reductions in lead time and transport cost; their original studies still need verification. We will measure ShockTwin by warning gained, mitigation time, qualified matches and completed human decisions, rather than borrow those percentages as promised savings.",
+    "layout": "Headline upper-left; four glass stats in a 2x2 grid occupying lower-right/center. Each includes its exact short source; original collaboration sources marked [VERIFY]. No implied ShockTwin savings.",
+    "screenshotPaths": []
+  },
+  {
+    "number": 14,
+    "duration": 30,
+    "headline": "Never be surprised again.",
+    "accent": "surprised again.",
+    "section": "Impact",
+    "eyebrow": "14 · NEXT STEP",
+    "support": "Next: a BTP-connected prototype and a pilot with one Bengaluru auto-parts cluster.",
+    "imagePrompt": "Cinematic painterly matte painting, hand-painted animation and classical landscape influences, slightly surreal yet coherent, 16:9 landscape, at least 1920x1080. Consistent teal, lavender and coral palette with warm amber light. One scene only. No text, numbers, logos, watermarks, UI or borders. Keep left 45 percent calm for typography and protect the main subject on the far right. A snow volcano under a lavender and coral sky, a red maple and small solitary figure on a green hill at far right, teal valley shadows and warm amber dawn; spacious calm left hillside and sky for closing title.",
+    "sourceLine": "Team, P-ID and proposed next step: supplied brief · Pilot commitment [VERIFY]",
+    "stats": [
+      {
+        "label": "NEXT STEP",
+        "value": "BTP + cluster pilot",
+        "source": "Proposed project plan; no partner commitment"
+      },
+      {
+        "label": "TEAM",
+        "value": "Francis Reuben R · Avaneesh · Affan · Vivek",
+        "source": "Latest supplied brief"
+      },
+      {
+        "label": "P-ID",
+        "value": "P2012988948",
+        "source": "Supplied brief"
+      }
+    ],
+    "notes": "We want to make this workflow real for one Bengaluru auto-parts cluster: a BTP-connected prototype, authorized data, qualified capacity providers and a measured pilot. Our closing line is an aspiration, not a guarantee that every surprise disappears. ShockTwin helps teams see the supply shock coming and borrow the capacity to survive it. We are Francis, Avaneesh, Affan and Vivek. Thank you.",
+    "layout": "Headline left; next-step glass card lower-left and team/P-ID glass card lower-right. Keep maple/figure visible at far right. Aspirational headline explained in notes.",
+    "screenshotPaths": []
+  }
+]

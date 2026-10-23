@@ -1,0 +1,1100 @@
+:root {
+  --st-ink: #173740;
+  --st-muted: #667e85;
+  --st-teal: #125c65;
+  --st-amber: #bd8127;
+  --st-amber-light: #fff3df;
+  --st-border: #dfe8e8;
+  --st-canvas: #f3f7f7;
+}
+html,
+body,
+#content,
+#content > div {
+  height: 100%;
+  margin: 0;
+}
+body {
+  background: var(--st-canvas);
+}
+.stApplication {
+  background: var(--st-canvas);
+  color: var(--st-ink);
+  overflow: hidden;
+}
+.stTopBar {
+  height: 72px !important;
+  min-height: 72px;
+  padding: 0 28px 0 18px;
+  background: #fff !important;
+  border-bottom: 1px solid var(--st-border);
+  box-shadow: 0 2px 12px #17374005;
+  z-index: 2;
+}
+.stBrand {
+  display: flex;
+  align-items: center;
+  gap: 11px;
+  color: #143b45;
+  font-size: 19px;
+  font-weight: 800;
+  letter-spacing: 1.2px;
+  white-space: nowrap;
+}
+.stBrandMark {
+  width: 25px;
+  height: 25px;
+  border: 1.5px solid #143b45;
+  border-radius: 50%;
+  background: linear-gradient(90deg, #143b45 50%, transparent 50%);
+  transform: rotate(-25deg);
+  display: inline-block;
+  box-sizing: border-box;
+}
+.stBrandDivider {
+  height: 25px;
+  width: 1px;
+  background: #dbe5e5;
+  margin-left: 12px;
+}
+.stBrandSub {
+  color: #637b82;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0.1px;
+}
+.stPersona {
+  margin-left: 22px;
+  margin-right: 14px;
+  align-items: flex-end;
+}
+.stPersonaName {
+  color: #24434a;
+  font-size: 12px;
+  font-weight: 600;
+}
+.stPersonaRole {
+  color: #829296;
+  font-size: 9px;
+  letter-spacing: 1px;
+  margin-top: 3px;
+}
+.stAvatar {
+  margin-left: 2px;
+}
+.stIllustrativeBadge {
+  background: #fff7e8;
+  border: 1px solid #ecd9b2;
+  padding: 5px 10px;
+  border-radius: 7px;
+}
+.stIllustrativeBadge .sapMObjStatusText,
+.stIllustrativeBadge .sapMObjStatusIcon {
+  color: #92611c !important;
+  font-size: 11px;
+}
+.stWorkspaceBody {
+  min-height: 0;
+}
+.stSidebar {
+  background: #fff;
+  border-right: 1px solid var(--st-border);
+  padding: 23px 14px 20px;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.stNavEyebrow {
+  color: #8b9ba0;
+  font-size: 9px;
+  font-weight: 700;
+  letter-spacing: 1.6px;
+  margin: 0 12px 16px;
+}
+.stNavButton {
+  margin-bottom: 7px;
+}
+.stNavButton > .sapMBtnInner {
+  text-align: left;
+  border-radius: 8px;
+  height: 43px;
+  padding: 5px 15px;
+  border: 1px solid transparent;
+}
+.stNavButton .sapMBtnIcon {
+  color: #738b91;
+  width: 23px;
+  margin-right: 9px;
+}
+.stNavButton .sapMBtnContent {
+  color: #647d84;
+  font-size: 13px;
+  font-weight: 500;
+}
+.stNavButton.stNavActive > .sapMBtnInner {
+  background: #eaf3f1;
+  border-color: #ddebe7;
+  box-shadow: inset 3px 0 #c79441;
+}
+.stNavButton.stNavActive .sapMBtnIcon,
+.stNavButton.stNavActive .sapMBtnContent {
+  color: #155662;
+  font-weight: 700;
+}
+.stSidebarLoop {
+  margin-top: 30px;
+  padding-top: 21px;
+  border-top: 1px solid #edf1f1;
+}
+.stLoop {
+  margin-left: 13px;
+}
+.stLoop > div {
+  min-height: 64px;
+  position: relative;
+  padding-left: 38px;
+}
+.stLoop > div:not(:last-child)::after {
+  content: '';
+  position: absolute;
+  left: 12px;
+  top: 27px;
+  height: 31px;
+  border-left: 1px solid #dde7e5;
+}
+.stLoop span {
+  position: absolute;
+  left: 0;
+  top: 1px;
+  width: 24px;
+  height: 24px;
+  display: grid;
+  place-content: center;
+  border: 1px solid #dce8e5;
+  border-radius: 50%;
+  font-size: 9px;
+  color: #6e8e8b;
+}
+.stLoop strong {
+  display: block;
+  color: #36585f;
+  font-size: 11px;
+  padding-top: 2px;
+  font-weight: 600;
+}
+.stLoop small {
+  display: block;
+  color: #8a9b9f;
+  font-size: 9px;
+  line-height: 1.5;
+  margin-top: 4px;
+}
+.stSidebarFooter {
+  padding: 17px 12px 0;
+  border-top: 1px solid #edf1f1;
+}
+.stSidebarFooter .stStatus {
+  margin-bottom: 13px;
+}
+.stSidebarEvent {
+  font-size: 11px;
+  color: #516d74;
+  font-weight: 600;
+  margin-bottom: 5px;
+}
+.stSidebarTrack {
+  font-size: 10px;
+  color: #8a9ca1;
+  margin-bottom: 4px;
+}
+.stScroll {
+  min-width: 0;
+}
+.stWorkspaceBody > .sapMFlexItem {
+  min-width: 0;
+}
+.stPageContent {
+  padding: 27px 32px 22px;
+  box-sizing: border-box;
+  min-height: 100%;
+  max-width: 1900px;
+  margin: 0 auto;
+}
+.stPageHeader {
+  gap: 24px;
+  margin-bottom: 24px;
+}
+.stEyebrow {
+  font-size: 9px;
+  font-weight: 700;
+  letter-spacing: 1.8px;
+  color: #809297;
+  margin-bottom: 10px;
+}
+.stPageTitle.sapMTitle {
+  color: #183d48;
+  font-weight: 700;
+  font-size: 30px;
+  letter-spacing: -0.8px;
+  line-height: 1.2;
+}
+.stPageSubtitle {
+  color: var(--st-muted);
+  font-size: 12px;
+  line-height: 1.65;
+  margin-top: 9px;
+  max-width: 760px;
+}
+.stHeaderActions {
+  gap: 9px;
+  align-self: center;
+}
+.stHeaderActions .sapMBtnInner {
+  padding-left: 18px;
+  padding-right: 18px;
+}
+.stPageContent .sapMBtnEmphasized {
+  background: #145c67;
+  border-color: #145c67;
+  text-shadow: none;
+}
+.stPageContent .sapMBtnEmphasized:hover {
+  background: #0e4d59;
+  border-color: #0e4d59;
+}
+.stPageContent .sapMBtnDefault {
+  border-color: #cbdcdd;
+  color: #2e5a64;
+  background: white;
+}
+.stPageContent .sapMBtnDefault .sapMBtnContent,
+.stPageContent .sapMBtnDefault .sapMBtnIcon {
+  color: #2e5a64;
+}
+.stStatsRow {
+  gap: 14px;
+  margin-bottom: 20px;
+}
+.stStat {
+  background: #fff;
+  border: 1px solid var(--st-border);
+  border-radius: 11px;
+  padding: 16px 20px 15px;
+  min-width: 170px;
+  box-shadow: 0 2px 8px #183d4802;
+}
+.stStatLabel {
+  color: #85979b;
+  font-size: 9px;
+  font-weight: 600;
+  letter-spacing: 1.1px;
+}
+.stStatValue {
+  font-size: 27px;
+  line-height: 1.3;
+  color: #234853;
+  font-weight: 700;
+  letter-spacing: -0.6px;
+  margin-top: 6px;
+  white-space: nowrap;
+}
+.stAmberText {
+  color: #a76f1c;
+}
+.stStatDetail {
+  font-size: 10px;
+  color: #82959b;
+  margin-top: 5px;
+  line-height: 1.5;
+}
+.stCard {
+  background: white;
+  border: 1px solid var(--st-border);
+  border-radius: 12px;
+  padding: 21px 23px 19px;
+  box-sizing: border-box;
+  min-width: 0;
+  margin-bottom: 20px;
+  box-shadow: 0 3px 13px #17374003;
+}
+.stSectionHeading {
+  margin-bottom: 18px;
+  gap: 15px;
+}
+.stSectionTitle.sapMTitle {
+  font-size: 16px;
+  color: #2a4c56;
+  font-weight: 650;
+  letter-spacing: -0.1px;
+}
+.stMuted {
+  color: #7c9197;
+  font-size: 11px;
+  line-height: 1.65;
+  margin-top: 5px;
+}
+.stStatus .sapMObjStatusText {
+  font-size: 10px;
+  font-weight: 600;
+}
+.stStatus {
+  white-space: nowrap;
+}
+.stGraphRow {
+  gap: 18px;
+}
+.stSignalCard {
+  width: 275px;
+  flex-shrink: 0;
+  background: linear-gradient(160deg, #f8f3e9, #faf8f2);
+  border: 1px solid #e8dfcd;
+  border-radius: 12px;
+  padding: 23px 22px;
+  box-sizing: border-box;
+  margin-bottom: 20px;
+}
+.stSignalCard .stEyebrow {
+  color: #b19769;
+}
+.stSignalCard .sapMObjStatus {
+  margin: 9px 0 18px;
+}
+.stSignalCard .sapMObjStatusText {
+  font-size: 12px;
+}
+.stSignalTitle.sapMTitle {
+  font-size: 23px;
+  color: #5d513d;
+  letter-spacing: -0.4px;
+  line-height: 1.25;
+  margin-bottom: 12px;
+}
+.stSignalCard .stMuted {
+  color: #948774;
+  font-size: 11px;
+  line-height: 1.8;
+}
+.stSignalCard .sapMBtn {
+  margin-top: 15px;
+}
+.stSignalDivider {
+  height: 1px;
+  background: #e7ddcc;
+  margin: 22px 0 20px;
+}
+.stSignalSubhead {
+  color: #6b5e49;
+  font-size: 12px;
+  font-weight: 650;
+}
+.stGraphLegend {
+  display: flex;
+  align-items: center;
+  gap: 21px;
+  font-size: 10px;
+  color: #819397;
+  padding: 0 5px 10px;
+  flex-wrap: wrap;
+}
+.stGraphLegend span {
+  display: flex;
+  align-items: center;
+  gap: 7px;
+}
+.stGraphLegend i {
+  width: 23px;
+  display: inline-block;
+  border-top: 2px solid #b7c9c9;
+}
+.stGraphLegend .stInferredLine {
+  border-top: 2px dashed #d39b43;
+}
+.stGraphLegend .stLegendHint {
+  margin-left: auto;
+  color: #9aabad;
+  font-size: 9px;
+}
+.stSupplierGraph {
+  width: 100%;
+  min-height: 350px;
+  overflow: hidden;
+  background: #f8fbfa;
+  border-radius: 9px;
+  border: 1px solid #edf2f0;
+}
+.stSupplierGraph svg {
+  display: block;
+  width: 100%;
+  max-height: 400px;
+}
+.stGraphColumn {
+  fill: #92a4a5;
+  font-family: Arial, sans-serif;
+  font-size: 8px;
+  letter-spacing: 1.6px;
+}
+.stGraphInitial {
+  font-family: Arial, sans-serif;
+  font-size: 10px;
+  font-weight: 700;
+}
+.stGraphLabel {
+  fill: #526f76;
+  font-family: Arial, sans-serif;
+  font-size: 10px;
+  font-weight: 500;
+}
+.stGraphLabelRisk {
+  fill: #93682c;
+  font-weight: 700;
+}
+.stGraphRiskFlag {
+  fill: #c08a38;
+  font-family: Arial, sans-serif;
+  font-size: 7px;
+  letter-spacing: 0.6px;
+}
+.stGraphConfidence {
+  fill: #ad7726;
+  font-family: Arial, sans-serif;
+  font-size: 9px;
+  font-weight: 600;
+}
+.stReviewRow {
+  gap: 14px;
+}
+.stLinkCard {
+  min-width: 260px;
+  background: #fcfdfd;
+  border: 1px solid #e1e9e7;
+  border-radius: 9px;
+  padding: 16px 17px;
+  box-sizing: border-box;
+}
+.stLinkCard .stEyebrow {
+  font-size: 8px;
+  letter-spacing: 1px;
+  margin-bottom: 0;
+}
+.stLinkTitle.sapMTitle {
+  font-size: 13px;
+  color: #3f6068;
+  line-height: 1.45;
+  margin: 13px 0 15px;
+}
+.stConfidence {
+  color: #a8772e;
+  font-size: 25px;
+  font-weight: 650;
+  margin: 3px 0 10px;
+  letter-spacing: -0.4px;
+}
+.stExplanation {
+  font-size: 11px;
+  line-height: 1.75;
+  color: #748b92;
+}
+.stEvidence {
+  display: flex;
+  gap: 5px;
+  flex-wrap: wrap;
+  margin: 12px 0 13px;
+}
+.stEvidence span {
+  background: #edf4f2;
+  border: 1px solid #e3ede9;
+  border-radius: 4px;
+  padding: 4px 6px;
+  font-size: 8px;
+  color: #64867e;
+}
+.stLinkActions {
+  gap: 7px;
+  margin-top: 5px;
+}
+.stLinkActions .sapMBtnInner {
+  min-height: 28px;
+  height: 28px;
+}
+.stLinkActions .sapMBtnContent {
+  line-height: 26px;
+  font-size: 10px;
+}
+.stModelProvenance {
+  color: #91a3a7;
+  font-size: 9px;
+  margin: 14px 2px 0;
+  line-height: 1.6;
+}
+.stDisclosure {
+  color: #8e9fa3;
+  font-size: 9px;
+  line-height: 1.6;
+  margin: 20px 1px 0;
+  border-top: 1px solid #e0e9e8;
+  padding-top: 14px;
+}
+.stPageContent .sapMMsgStrip {
+  border-radius: 8px;
+  margin-bottom: 18px;
+}
+.stPageContent .sapMMsgStripMessage {
+  font-size: 11px;
+  line-height: 1.6;
+}
+.stEmpty {
+  padding: 46px 30px;
+  min-height: 130px;
+  justify-content: center;
+  text-align: center;
+  box-sizing: border-box;
+}
+.stEmptyTitle {
+  color: #45666e;
+  font-size: 19px;
+  font-weight: 650;
+  letter-spacing: -0.3px;
+  margin-bottom: 8px;
+}
+.stEmpty .stMuted {
+  max-width: 590px;
+  font-size: 12px;
+}
+.stEmpty .sapMBtn {
+  margin-top: 20px;
+}
+.stSimulationRow {
+  gap: 20px;
+}
+.stScenarioControls {
+  width: 280px;
+  flex-shrink: 0;
+  padding: 23px 22px;
+  border: 1px solid var(--st-border);
+  border-radius: 12px;
+  background: white;
+  margin-bottom: 20px;
+  box-sizing: border-box;
+}
+.stScenarioControls > .sapMBtn {
+  width: 100%;
+  margin-top: 15px;
+  margin-bottom: 8px;
+}
+.stField {
+  margin-bottom: 16px;
+}
+.stField > .sapMLabel {
+  font-size: 10px;
+  color: #6c858e;
+  margin-bottom: 6px;
+}
+.stSliderValue {
+  font-size: 12px;
+  font-weight: 600;
+  color: #476b76;
+  margin-top: 1px;
+}
+.stScenarioControls .sapMSlider {
+  height: 35px;
+}
+.stScenarioControls .sapMSliderProgress {
+  background: #669c9b;
+}
+.stInputPair {
+  gap: 11px;
+}
+.stInputPair .stField {
+  min-width: 0;
+}
+.stSmallNote {
+  color: #8b9ea3;
+  font-size: 9px;
+  line-height: 1.7;
+}
+.stScenarioControls .sapMCbLabel {
+  font-size: 10px;
+}
+.stScenarioControls .sapMCb {
+  margin-left: -8px;
+}
+.stSimulationResults {
+  min-width: 0;
+}
+.stCompactStats .stStat {
+  min-width: 125px;
+  padding: 16px 16px 14px;
+}
+.stCompactStats .stStatValue {
+  font-size: 24px;
+  white-space: normal;
+}
+.stCompactStats .stStatLabel {
+  font-size: 8px;
+  letter-spacing: 0.8px;
+}
+.stInventoryChart {
+  width: 100%;
+  min-height: 300px;
+  background: #fbfdfc;
+  border-radius: 8px;
+}
+.stInventoryChart svg {
+  width: 100%;
+  display: block;
+  max-height: 365px;
+}
+.stChartAxis text {
+  fill: #8b9ea3;
+  font-family: Arial, sans-serif;
+  font-size: 9px;
+}
+.stChartAxis line {
+  stroke: #d6e1e0;
+}
+.stChartGrid line {
+  stroke: #e7eeed;
+  stroke-dasharray: 3 5;
+}
+.stChartUnits {
+  fill: #97a8aa;
+  font-family: Arial, sans-serif;
+  font-size: 8px;
+  letter-spacing: 1px;
+}
+.stChartDirectLabel {
+  fill: #6c8790;
+  font-family: Arial, sans-serif;
+  font-size: 11px;
+  font-weight: 600;
+}
+.stChartAmberLabel {
+  fill: #ac792a;
+}
+.stChartFailureLabel {
+  fill: #a97324;
+  font-family: Arial, sans-serif;
+  font-size: 10px;
+  font-weight: 600;
+}
+.stChartSwitchLabel {
+  fill: #b3884c;
+  font-family: Arial, sans-serif;
+  font-size: 9px;
+}
+.stChartCaption {
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+  flex-wrap: wrap;
+  color: #8b9da0;
+  font-size: 9px;
+  padding: 14px 7px 0;
+}
+.stNextAction {
+  border: 1px solid #d8e7e3;
+  background: #eaf3f0;
+  padding: 21px 25px;
+  border-radius: 10px;
+  gap: 18px;
+}
+.stNextAction .sapMTitle {
+  color: #356359;
+  font-size: 16px;
+}
+.stNextAction .stMuted {
+  color: #729489;
+}
+.stCapacityFilters {
+  gap: 16px;
+}
+.stCapacityFilters .stField {
+  margin-bottom: 1px;
+}
+.stSearchAction {
+  padding-bottom: 0;
+  min-height: 33px;
+}
+.stMatchesRow {
+  gap: 17px;
+  margin-bottom: 20px;
+}
+.stMatchCard {
+  min-width: 320px;
+  background: white;
+  border: 1px solid #dce6e4;
+  border-radius: 12px;
+  padding: 21px;
+  box-sizing: border-box;
+}
+.stTopMatch {
+  border-color: #d8bd89;
+  box-shadow: 0 0 0 2px #f4ead6;
+}
+.stMatchTop {
+  gap: 12px;
+}
+.stMatchIndex {
+  width: 36px;
+  height: 36px;
+  display: grid;
+  place-content: center;
+  border-radius: 8px;
+  background: #eef4f2;
+  color: #547b70;
+  font-size: 13px;
+  font-weight: 650;
+}
+.stTopMatch .stMatchIndex {
+  background: #fff2db;
+  color: #a97a2c;
+}
+.stMatchScore {
+  color: #29555f;
+  font-size: 26px;
+  font-weight: 700;
+  letter-spacing: -0.6px;
+  margin-top: 3px;
+}
+.stTopMatch .stMatchScore {
+  color: #ad7e2f;
+}
+.stMatchTitle.sapMTitle {
+  color: #315763;
+  font-size: 18px;
+  line-height: 1.35;
+  letter-spacing: -0.3px;
+  margin: 22px 0 12px;
+}
+.stMatchMeta {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+  margin-bottom: 17px;
+}
+.stMatchMeta span {
+  background: #f1f5f4;
+  border: 1px solid #e8eeec;
+  padding: 5px 7px;
+  border-radius: 4px;
+  color: #81988f;
+  font-size: 9px;
+}
+.stFactorGrid {
+  margin-top: 21px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 14px 21px;
+  border-top: 1px solid #edf1ef;
+  padding-top: 18px;
+}
+.stFactor > div:first-child {
+  display: flex;
+  justify-content: space-between;
+  gap: 7px;
+  font-size: 9px;
+  color: #718b90;
+}
+.stFactor strong {
+  color: #51737a;
+  font-weight: 600;
+}
+.stFactorTrack {
+  background: #edf3f1;
+  height: 4px;
+  margin-top: 8px;
+  border-radius: 4px;
+  overflow: hidden;
+}
+.stFactorTrack i {
+  height: 100%;
+  background: #9abeb4;
+  display: block;
+  border-radius: 4px;
+}
+.stTopMatch .stFactorTrack i {
+  background: #c8aa6f;
+}
+.stFactor small {
+  font-size: 8px;
+  color: #a0afaf;
+  display: block;
+  margin-top: 4px;
+}
+.stMatchActions {
+  margin-top: 24px;
+  padding-top: 17px;
+  border-top: 1px solid #edf1ef;
+  gap: 8px;
+}
+.stMatchActions .stSmallNote {
+  font-size: 8px;
+}
+.stDraftCard {
+  border: 1px solid #e1e9e7;
+  background: #fcfdfd;
+  padding: 20px 22px;
+  border-radius: 9px;
+  margin-bottom: 15px;
+}
+.stDraftTitle.sapMTitle {
+  color: #31545f;
+  font-size: 17px;
+  margin-top: 2px;
+}
+.stDraftFacts {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 20px 26px;
+  margin: 24px 0 22px;
+}
+.stDraftFacts small {
+  display: block;
+  color: #90a2a5;
+  font-size: 8px;
+  letter-spacing: 1px;
+  margin-bottom: 7px;
+}
+.stDraftFacts strong {
+  display: block;
+  color: #53727a;
+  font-size: 11px;
+  font-weight: 500;
+  line-height: 1.5;
+  word-break: break-word;
+}
+.stDraftActions {
+  gap: 10px;
+  margin-top: 17px;
+}
+.stAuditRow {
+  border-bottom: 1px solid #edf2f0;
+  padding: 17px 3px;
+  gap: 15px;
+}
+.stAuditRow:last-child {
+  border-bottom: 0;
+}
+.stAuditDot {
+  display: block;
+  width: 8px;
+  height: 8px;
+  border: 4px solid #e4efea;
+  border-radius: 50%;
+  background: #75a491;
+  margin-top: 3px;
+}
+.stAuditAction {
+  color: #446a72;
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.2px;
+}
+.stAuditReference {
+  color: #a2b0b3;
+  font-size: 8px;
+  margin-top: 6px;
+}
+.stAuditTime {
+  color: #90a3a8;
+  font-size: 9px;
+  margin-top: 3px;
+}
+.stDialogContent {
+  padding: 16px 20px 22px;
+  gap: 15px;
+}
+.stPageContent .sapMListTblHeaderCell {
+  background: #f5f8f7;
+}
+.stPageContent .sapMListTbl .sapMText {
+  font-size: 11px;
+  color: #5e7b83;
+}
+.stPageContent .sapMListTblHeaderCell .sapMText {
+  color: #7d9399;
+  font-size: 9px;
+  font-weight: 600;
+}
+.stPageContent .sapMListTblCell {
+  border-color: #edf2f0;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+@media (min-width: 1750px) {
+  .stPageContent {
+    padding-left: 38px;
+    padding-right: 38px;
+  }
+  .stPageTitle.sapMTitle {
+    font-size: 33px;
+  }
+  .stSupplierGraph svg {
+    max-height: 410px;
+  }
+}
+@media (max-width: 1250px) {
+  .stSidebar {
+    width: 200px !important;
+  }
+  .stPageContent {
+    padding: 25px 24px;
+  }
+  .stSignalCard {
+    width: 235px;
+    padding: 20px;
+  }
+  .stStat {
+    min-width: 140px;
+    padding: 15px 16px;
+  }
+  .stStatValue {
+    font-size: 24px;
+  }
+  .stScenarioControls {
+    width: 250px;
+  }
+  .stCompactStats .stStat {
+    min-width: 160px;
+  }
+  .stLinkCard {
+    min-width: 240px;
+  }
+  .stMatchCard {
+    min-width: 300px;
+  }
+}
+@media (max-width: 950px) {
+  .stSidebar {
+    width: 175px !important;
+    padding-left: 8px;
+    padding-right: 8px;
+  }
+  .stBrandSub,
+  .stBrandDivider {
+    display: none;
+  }
+  .stBrand {
+    font-size: 16px;
+  }
+  .stPersona {
+    margin-left: 10px;
+  }
+  .stGraphRow {
+    flex-direction: column;
+  }
+  .stGraphRow > .stCard {
+    width: 100%;
+    flex-basis: auto !important;
+  }
+  .stSignalCard {
+    width: 100%;
+  }
+  .stSignalTitle.sapMTitle {
+    font-size: 20px;
+  }
+  .stPageTitle.sapMTitle {
+    font-size: 27px;
+  }
+  .stSimulationRow {
+    flex-direction: column;
+  }
+  .stScenarioControls {
+    width: 100%;
+  }
+  .stSimulationResults {
+    flex-basis: auto !important;
+    width: 100%;
+  }
+  .stDraftFacts {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+@media (max-width: 650px) {
+  .stTopBar {
+    padding: 0 12px;
+    height: 63px !important;
+    min-height: 63px;
+  }
+  .stSidebar {
+    display: none !important;
+  }
+  .stSidebar.stMobileNavOpen {
+    display: flex !important;
+    position: fixed;
+    top: 63px;
+    bottom: 0;
+    left: 0;
+    width: 232px !important;
+    z-index: 15;
+    box-shadow: 15px 0 35px #17374025;
+  }
+  .stPersona {
+    display: none !important;
+  }
+  .stIllustrativeBadge {
+    margin-left: 4px;
+    padding: 4px 7px;
+  }
+  .stBrand {
+    font-size: 14px;
+    gap: 8px;
+  }
+  .stBrandMark {
+    width: 20px;
+    height: 20px;
+  }
+  .stPageContent {
+    padding: 22px 16px;
+  }
+  .stPageHeader {
+    gap: 15px;
+  }
+  .stPageTitle.sapMTitle {
+    font-size: 27px;
+  }
+  .stHeaderActions {
+    width: 100%;
+  }
+  .stStatsRow {
+    gap: 10px;
+  }
+  .stStat {
+    min-width: 130px;
+    padding: 14px;
+  }
+  .stStatValue {
+    font-size: 24px;
+  }
+  .stCard {
+    padding: 18px 15px;
+  }
+  .stGraphLegend {
+    gap: 10px;
+  }
+  .stSupplierGraph {
+    min-height: 265px;
+    overflow-x: auto;
+  }
+  .stSupplierGraph svg {
+    min-width: 570px;
+    transform-origin: left top;
+  }
+  .stLinkCard,
+  .stMatchCard {
+    min-width: 100%;
+  }
+  .stDraftFacts {
+    grid-template-columns: 1fr;
+    gap: 14px;
+  }
+  .stCapacityFilters .stField {
+    width: calc(50% - 8px);
+  }
+  .stCapacityFilters .sapMInputBase,
+  .stCapacityFilters .sapMSlt {
+    width: 100% !important;
+  }
+  .stAuditTime {
+    margin-left: 31px;
+  }
+}

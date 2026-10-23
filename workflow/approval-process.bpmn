@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bpmn:definitions xmlns:bpmn="http://www.omg.org/spec/BPMN/20100524/MODEL" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="ShockTwinDefinitions" targetNamespace="https://shocktwin.example/workflow">
+  <bpmn:documentation>Vendor-neutral BPMN blueprint. This is not a verified native SAP Build Process Automation export. Human Buyer approval precedes external purchasing commitment.</bpmn:documentation>
+  <bpmn:process id="ShockTwinApproval" name="ShockTwin human approval" isExecutable="false">
+    <bpmn:startEvent id="DraftCreated" name="Draft created"/>
+    <bpmn:userTask id="BuyerApproval" name="Buyer reviews draft and evidence"/>
+    <bpmn:exclusiveGateway id="Decision" name="Approved?" default="RejectFlow"/>
+    <bpmn:serviceTask id="CommitERP" name="Commit approved PO through ERP adapter"/>
+    <bpmn:endEvent id="Approved" name="Approved and audited"/>
+    <bpmn:endEvent id="Rejected" name="Rejected and audited"/>
+    <bpmn:sequenceFlow id="ToBuyer" sourceRef="DraftCreated" targetRef="BuyerApproval"/>
+    <bpmn:sequenceFlow id="ToDecision" sourceRef="BuyerApproval" targetRef="Decision"/>
+    <bpmn:sequenceFlow id="ApproveFlow" sourceRef="Decision" targetRef="CommitERP"><bpmn:conditionExpression xsi:type="bpmn:tFormalExpression">decision == 'approved'</bpmn:conditionExpression></bpmn:sequenceFlow>
+    <bpmn:sequenceFlow id="RejectFlow" sourceRef="Decision" targetRef="Rejected"/>
+    <bpmn:sequenceFlow id="ToApproved" sourceRef="CommitERP" targetRef="Approved"/>
+  </bpmn:process>
+</bpmn:definitions>

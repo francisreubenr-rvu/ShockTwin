@@ -1,0 +1,44 @@
+name: ShockTwin quality
+on:
+  push:
+  pull_request:
+permissions:
+  contents: read
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: npm
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: pip
+          cache-dependency-path: ml/requirements.txt
+      - name: Install dependencies and local ML runtime
+        run: npm ci
+      - name: Install headless browser
+        run: npx playwright install --with-deps chromium
+      - run: npm run lint
+      - run: npm run format:check
+      - run: npm test
+      - run: npm run test:ml
+      - run: npm run seed
+      - name: Start complete local stack
+        run: |
+          NO_OPEN=1 npm run dev > /tmp/shocktwin.log 2>&1 &
+          echo $! > /tmp/shocktwin.pid
+          node -e "(async()=>{for(let i=0;i<120;i++){try{const r=await fetch('http://127.0.0.1:4004/health');if(r.ok)process.exit(0)}catch{}await new Promise(r=>setTimeout(r,500))}process.exit(1)})()"
+      - run: npm run test:e2e
+      - run: npm run demo
+      - run: npm run build
+      - name: Runtime logs on failure
+        if: failure()
+        run: cat /tmp/shocktwin.log || true
+      - name: Stop development stack
+        if: always()
+        run: test ! -f /tmp/shocktwin.pid || kill -TERM "$(cat /tmp/shocktwin.pid)" || true

@@ -1,0 +1,2 @@
+tenantId,ID,illustrative,type,nodeId,location,severity,durationDays,source,observedAt,headline
+demo,cyclone-1,true,cyclone,resin-plant,Illustrative coastal resin corridor,1,28,Illustrative signals mock,2026-10-23T00:00:00Z,Illustrative cyclone warning near a candidate shared resin plant

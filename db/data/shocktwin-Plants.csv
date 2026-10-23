@@ -1,0 +1,5 @@
+tenantId,ID,illustrative,companyId,name,location,latitude,longitude,materialId,capacity,hidden
+demo,resin-plant,true,upstream-resin,Shared Resin Plant,Illustrative coastal resin corridor,13.08,80.19,resin,100,true
+demo,known-plant-1,true,upstream-1,Tooling Works · Illustrative,South India,12.6,77.3,tooling,200,false
+demo,known-plant-2,true,upstream-2,Steel Mill · Illustrative,South India,12.7,77.39999999999999,steel,200,false
+demo,known-plant-3,true,upstream-3,Circuit Works · Illustrative,South India,12.799999999999999,77.5,electronics,200,false

@@ -1,0 +1,9 @@
+tenantId,ID,illustrative,sourceId,targetId,materialId,dependencyShare,inferred,confidence,evidence,explanation,reviewStatus,modelVersion
+demo,tier1-1,true,s1,buyer,resin,0.3333333333333333,false,1,"[""Illustrative supplier-master and purchase-order fixture""]",Known relationship in the Illustrative supplier fixture.,known,seed-v1
+demo,tier1-2,true,s2,buyer,resin,0.3333333333333333,false,1,"[""Illustrative supplier-master and purchase-order fixture""]",Known relationship in the Illustrative supplier fixture.,known,seed-v1
+demo,tier1-3,true,s3,buyer,resin,0.3333333333333333,false,1,"[""Illustrative supplier-master and purchase-order fixture""]",Known relationship in the Illustrative supplier fixture.,known,seed-v1
+demo,tier1-4,true,s4,buyer,steel,1,false,1,"[""Illustrative supplier-master and purchase-order fixture""]",Known relationship in the Illustrative supplier fixture.,known,seed-v1
+demo,tier1-5,true,s5,buyer,electronics,1,false,1,"[""Illustrative supplier-master and purchase-order fixture""]",Known relationship in the Illustrative supplier fixture.,known,seed-v1
+demo,known-tier2-1,true,known-plant-1,s3,tooling,1,false,1,"[""Illustrative supplier declaration""]",Known upstream input from the Illustrative fixture.,known,seed-v1
+demo,known-tier2-2,true,known-plant-2,s4,steel,1,false,1,"[""Illustrative supplier declaration""]",Known upstream input from the Illustrative fixture.,known,seed-v1
+demo,known-tier2-3,true,known-plant-3,s5,electronics,1,false,1,"[""Illustrative supplier declaration""]",Known upstream input from the Illustrative fixture.,known,seed-v1

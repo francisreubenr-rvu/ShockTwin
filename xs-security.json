@@ -1,0 +1,68 @@
+{
+  "xsappname": "shocktwin",
+  "tenant-mode": "dedicated",
+  "description": "ShockTwin tenant-scoped supply resilience application",
+  "scopes": [
+    {
+      "name": "$XSAPPNAME.Buyer",
+      "description": "Create purchase drafts and approve or reject purchases"
+    },
+    {
+      "name": "$XSAPPNAME.Planner",
+      "description": "Review graph hypotheses, simulate shocks and rank capacity"
+    },
+    {
+      "name": "$XSAPPNAME.CapacityProvider",
+      "description": "Publish the provider tenant's safe capacity envelope"
+    },
+    {
+      "name": "$XSAPPNAME.Admin",
+      "description": "Administer the tenant; does not implicitly grant purchasing authority"
+    }
+  ],
+  "role-templates": [
+    {
+      "name": "Buyer",
+      "description": "Authorized buyer",
+      "scope-references": ["$XSAPPNAME.Buyer"]
+    },
+    {
+      "name": "Planner",
+      "description": "Supply-chain planner",
+      "scope-references": ["$XSAPPNAME.Planner"]
+    },
+    {
+      "name": "CapacityProvider",
+      "description": "Capacity provider",
+      "scope-references": ["$XSAPPNAME.CapacityProvider"]
+    },
+    {
+      "name": "Admin",
+      "description": "Tenant administrator",
+      "scope-references": ["$XSAPPNAME.Admin"]
+    }
+  ],
+  "role-collections": [
+    {
+      "name": "ShockTwin Buyer",
+      "description": "Human purchasing authority",
+      "role-template-references": ["$XSAPPNAME.Buyer"]
+    },
+    {
+      "name": "ShockTwin Planner",
+      "description": "Supply-chain planning",
+      "role-template-references": ["$XSAPPNAME.Planner"]
+    },
+    {
+      "name": "ShockTwin CapacityProvider",
+      "description": "Capacity publication",
+      "role-template-references": ["$XSAPPNAME.CapacityProvider"]
+    },
+    {
+      "name": "ShockTwin Admin",
+      "description": "Tenant administration",
+      "role-template-references": ["$XSAPPNAME.Admin"]
+    }
+  ],
+  "oauth2-configuration": { "redirect-uris": ["https://*.cfapps.*.hana.ondemand.com/**"] }
+}

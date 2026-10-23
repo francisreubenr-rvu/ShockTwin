@@ -1,0 +1,6 @@
+tenantId,ID,illustrative,sourceId,targetId,distanceKm,leadTimeDays
+demo,lane-1,true,s1,buyer,20,1
+demo,lane-2,true,s2,buyer,30,1
+demo,lane-3,true,s3,buyer,40,1
+demo,lane-4,true,s4,buyer,50,1
+demo,lane-5,true,s5,buyer,60,1
